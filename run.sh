@@ -3,7 +3,7 @@
 # Exit script on error
 set -e
 
-# Uncomment while using University GPU Resouces - these commands are to activate Conda Environment
+# Uncomment while using Linux Environments - these commands are to activate Conda Environment
 # source $HOME/miniconda/bin/activate
 # export PYTHONNOUSERSITE=true
 
