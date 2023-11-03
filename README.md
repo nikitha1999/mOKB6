@@ -28,6 +28,14 @@ Here, are the commands to train and get the scores for Union+Trans.
 From packages requirements to Preprocessing, Training, Testing are written in a shell script.
 Just execute the run.sh file in the required GPU Resources.
 
+```
+sh run.sh
+
+or 
+
+run.sh
+```
+
 ## FAQ
 When you are facing any CUDA related issues, set the below another environment Variable:
 
