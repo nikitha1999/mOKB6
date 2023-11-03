@@ -22,6 +22,9 @@ Whereas the best performing baseline for English called Union can be reproduced 
 ## Model
 The code of SimKGC mBERT initialization model is in the repository (adapted from [Wang et al., 2022](https://aclanthology.org/2022.acl-long.295)) as it showed the best performance when compared with the other KGE models. 
 
+## PreRequisite
+Conda environment is needed for the implementation.
+
 ## How to Run
 Here, are the commands to train and get the scores for Union+Trans.
 
@@ -37,15 +40,29 @@ run.sh
 ```
 
 ## FAQ
+Facing issue, while running the run.sh sue to conda environment(Applicable to the Linux Environments):
+
+Enable conda using below commands or uncomment the code in the run.sh file:
+
+```
+# source $HOME/miniconda/bin/activate
+# export PYTHONNOUSERSITE=true
+```
+
 When you are facing any CUDA related issues, set the below another environment Variable:
 
 ```
 export CUDA_LAUNCH_BLOCKING=1
 ```
 
-When unable to execute run.sh file:
+When unable to execute run.sh file due to permission issues:
 
+For permission:
 ```
-Chmod 744 *.sh
+chmod 744 *.sh
+```
+
+To run:
+```
 ./run.sh
 ```
