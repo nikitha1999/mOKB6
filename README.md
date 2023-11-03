@@ -45,8 +45,8 @@ Facing issue, while running the run.sh sue to conda environment(Applicable to th
 Enable conda using below commands or uncomment the code in the run.sh file:
 
 ```
-# source $HOME/miniconda/bin/activate
-# export PYTHONNOUSERSITE=true
+source $HOME/miniconda/bin/activate
+export PYTHONNOUSERSITE=true
 ```
 
 When you are facing any CUDA related issues, set the below another environment Variable:
