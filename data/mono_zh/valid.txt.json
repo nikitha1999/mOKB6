@@ -1,0 +1,3502 @@
+[
+    {
+        "head_id": "3114",
+        "head": "马赛 城市",
+        "relation": "组建",
+        "tail_id": "3270",
+        "tail": "在 校大 学生"
+    },
+    {
+        "head_id": "3866",
+        "head": "君士 坦丁堡 的 补给",
+        "relation": "逐渐 将",
+        "tail_id": "1962",
+        "tail": "之"
+    },
+    {
+        "head_id": "1870",
+        "head": "今天 的 浦那",
+        "relation": "是",
+        "tail_id": "3453",
+        "tail": "印度 德国 公司 聚集 最多 的 城市"
+    },
+    {
+        "head_id": "303",
+        "head": "新加坡 共和 国",
+        "relation": "汇集",
+        "tail_id": "4635",
+        "tail": "世界 上 多 种 宗教"
+    },
+    {
+        "head_id": "1918",
+        "head": "考古 学",
+        "relation": "为遍 佈",
+        "tail_id": "4278",
+        "tail": "世界"
+    },
+    {
+        "head_id": "980",
+        "head": "穆阿迈尔 · 卡扎菲 领导 下 的 利比亚",
+        "relation": "有",
+        "tail_id": "564",
+        "tail": "狭长 的 平原 及 南部 山区"
+    },
+    {
+        "head_id": "3548",
+        "head": "黑天",
+        "relation": "被 视",
+        "tail_id": "1583",
+        "tail": "为 佛教 的 护法"
+    },
+    {
+        "head_id": "1870",
+        "head": "今天 的 浦那",
+        "relation": "设市",
+        "tail_id": "1022",
+        "tail": "1858 年"
+    },
+    {
+        "head_id": "1378",
+        "head": "林肯",
+        "relation": "攻击",
+        "tail_id": "874",
+        "tail": "都里士满"
+    },
+    {
+        "head_id": "4853",
+        "head": "英国",
+        "relation": "致力 密切 監督",
+        "tail_id": "2230",
+        "tail": "中 英 联合 声明 》 实施 情况"
+    },
+    {
+        "head_id": "3459",
+        "head": "毛 里求斯 本岛",
+        "relation": "没有 成立",
+        "tail_id": "2248",
+        "tail": "国家 军隊"
+    },
+    {
+        "head_id": "4853",
+        "head": "英国",
+        "relation": "批准",
+        "tail_id": "1977",
+        "tail": "COVID-19 疫苗 紧急 使用"
+    },
+    {
+        "head_id": "4070",
+        "head": "加尔巴",
+        "relation": "也 打算",
+        "tail_id": "2765",
+        "tail": "自殺"
+    },
+    {
+        "head_id": "2592",
+        "head": "詹姆斯 · 瓦特",
+        "relation": "赢得",
+        "tail_id": "2915",
+        "tail": "大量 的 订单"
+    },
+    {
+        "head_id": "1493",
+        "head": "烷烃",
+        "relation": "采用",
+        "tail_id": "1570",
+        "tail": "sp 杂化 轨道"
+    },
+    {
+        "head_id": "1084",
+        "head": "哥本 哈根",
+        "relation": "进行",
+        "tail_id": "650",
+        "tail": "城市 开发"
+    },
+    {
+        "head_id": "1766",
+        "head": "患者",
+        "relation": "无法 指明",
+        "tail_id": "2722",
+        "tail": "发病 的 原因"
+    },
+    {
+        "head_id": "346",
+        "head": "乙酸",
+        "relation": "是",
+        "tail_id": "1426",
+        "tail": "一 种 弱酸"
+    },
+    {
+        "head_id": "36",
+        "head": "马赛 城市 及 马赛 城市 所在 的 整个 普罗旺斯伯 国",
+        "relation": "划入",
+        "tail_id": "4727",
+        "tail": "法兰西"
+    },
+    {
+        "head_id": "2335",
+        "head": "该 设备",
+        "relation": "起售",
+        "tail_id": "3780",
+        "tail": "发布 会 当天"
+    },
+    {
+        "head_id": "3997",
+        "head": "乙醚",
+        "relation": "倾向",
+        "tail_id": "1658",
+        "tail": "于 以 过氧 化物 的 形式 存在"
+    },
+    {
+        "head_id": "4189",
+        "head": "纳尔逊 · 霍-{} - 利萨薩 · 曼德拉",
+        "relation": "领导",
+        "tail_id": "3868",
+        "tail": "全国 统一 政府"
+    },
+    {
+        "head_id": "1210",
+        "head": "英国 首相 撒切尔夫",
+        "relation": "抵达",
+        "tail_id": "3083",
+        "tail": "北京"
+    },
+    {
+        "head_id": "20",
+        "head": "美国 政府",
+        "relation": "宣 布定",
+        "tail_id": "4291",
+        "tail": "12 月 5 日 为 全国 哀悼 日"
+    },
+    {
+        "head_id": "2955",
+        "head": "左乳",
+        "relation": "靠近",
+        "tail_id": "1929",
+        "tail": "心臟"
+    },
+    {
+        "head_id": "4093",
+        "head": "世界 排名 已跌 至 286 名 的 林丹",
+        "relation": "觉得",
+        "tail_id": "2255",
+        "tail": "盖 德真 的 非常 了 不起"
+    },
+    {
+        "head_id": "242",
+        "head": "军队",
+        "relation": "前往 保卫",
+        "tail_id": "3140",
+        "tail": "首都"
+    },
+    {
+        "head_id": "303",
+        "head": "新加坡 共和 国",
+        "relation": "加入",
+        "tail_id": "1529",
+        "tail": "英联 邦"
+    },
+    {
+        "head_id": "3377",
+        "head": "硝酸",
+        "relation": "作",
+        "tail_id": "1930",
+        "tail": "氮 的 最高 价( + 5) 水化物"
+    },
+    {
+        "head_id": "2366",
+        "head": "美国 总统 约翰 · 肯尼迪",
+        "relation": "前往",
+        "tail_id": "3816",
+        "tail": "柏林"
+    },
+    {
+        "head_id": "1428",
+        "head": "此",
+        "relation": "可以 做出",
+        "tail_id": "2470",
+        "tail": "详细 研究"
+    },
+    {
+        "head_id": "1798",
+        "head": "奥斯曼 帝国",
+        "relation": "统治",
+        "tail_id": "4494",
+        "tail": "土耳其"
+    },
+    {
+        "head_id": "1351",
+        "head": "美国",
+        "relation": "不敌",
+        "tail_id": "4952",
+        "tail": "意大利 止 步"
+    },
+    {
+        "head_id": "1974",
+        "head": "林丹",
+        "relation": "夺得",
+        "tail_id": "3261",
+        "tail": "超級 系列 赛 冠軍"
+    },
+    {
+        "head_id": "1366",
+        "head": "乳房",
+        "relation": "是",
+        "tail_id": "1373",
+        "tail": "女性 第二 性征"
+    },
+    {
+        "head_id": "3377",
+        "head": "硝酸",
+        "relation": "也 属",
+        "tail_id": "2247",
+        "tail": "强酸"
+    },
+    {
+        "head_id": "3188",
+        "head": "耐用 塑料 材料",
+        "relation": "曾 替 代",
+        "tail_id": "1100",
+        "tail": "铜"
+    },
+    {
+        "head_id": "3520",
+        "head": "印度",
+        "relation": "治理",
+        "tail_id": "1841",
+        "tail": "葡属 印度 的 初期"
+    },
+    {
+        "head_id": "1087",
+        "head": "澳洲 政府",
+        "relation": "表示",
+        "tail_id": "3312",
+        "tail": "在 澳洲 政府 2004 年 的 外交 白皮書"
+    },
+    {
+        "head_id": "3504",
+        "head": "穆罕默德",
+        "relation": "皈依",
+        "tail_id": "355",
+        "tail": "伊斯兰教 麦加"
+    },
+    {
+        "head_id": "4938",
+        "head": "工具",
+        "relation": "用",
+        "tail_id": "2304",
+        "tail": "以 作 交易 媒介"
+    },
+    {
+        "head_id": "3943",
+        "head": "特别",
+        "relation": "是",
+        "tail_id": "2024",
+        "tail": "女性"
+    },
+    {
+        "head_id": "4997",
+        "head": "農民",
+        "relation": "湧入",
+        "tail_id": "2401",
+        "tail": "印度 首都 新德里"
+    },
+    {
+        "head_id": "2670",
+        "head": "朱 塞佩 · 加里 波 底",
+        "relation": "前去",
+        "tail_id": "2071",
+        "tail": "纽约"
+    },
+    {
+        "head_id": "2776",
+        "head": "伊拉克",
+        "relation": "重夺",
+        "tail_id": "1530",
+        "tail": "法奥 半島"
+    },
+    {
+        "head_id": "2927",
+        "head": "欧盟",
+        "relation": "不滿",
+        "tail_id": "3960",
+        "tail": "阿斯利康 延迟 交付 宣佈 起訴 阿斯利康"
+    },
+    {
+        "head_id": "3501",
+        "head": "巴黎",
+        "relation": "有",
+        "tail_id": "1409",
+        "tail": "200,000 人 居住"
+    },
+    {
+        "head_id": "3464",
+        "head": "量子 模型",
+        "relation": "建造",
+        "tail_id": "2909",
+        "tail": "引力"
+    },
+    {
+        "head_id": "1078",
+        "head": "研究",
+        "relation": "持",
+        "tail_id": "4107",
+        "tail": "这 种 观点"
+    },
+    {
+        "head_id": "2592",
+        "head": "詹姆斯 · 瓦特",
+        "relation": "是",
+        "tail_id": "5030",
+        "tail": "工业 革命 时 的 重要 人物"
+    },
+    {
+        "head_id": "902",
+        "head": "经济 损失",
+        "relation": "造成",
+        "tail_id": "3148",
+        "tail": "战争"
+    },
+    {
+        "head_id": "3459",
+        "head": "毛 里求斯 本岛",
+        "relation": "生存",
+        "tail_id": "672",
+        "tail": "过 多 种 巨龟"
+    },
+    {
+        "head_id": "649",
+        "head": "澳洲",
+        "relation": "加入",
+        "tail_id": "4197",
+        "tail": "亚洲 足协"
+    },
+    {
+        "head_id": "1081",
+        "head": "的 ABM 系统",
+        "relation": "建成",
+        "tail_id": "4015",
+        "tail": "以色列"
+    },
+    {
+        "head_id": "4042",
+        "head": "雷根 总统",
+        "relation": "贏得",
+        "tail_id": "1807",
+        "tail": "冷战"
+    },
+    {
+        "head_id": "4539",
+        "head": "大量 病例",
+        "relation": "发生",
+        "tail_id": "1870",
+        "tail": "今天 的 浦那"
+    },
+    {
+        "head_id": "2024",
+        "head": "女性",
+        "relation": "高约",
+        "tail_id": "4121",
+        "tail": "152 - 156 公分"
+    },
+    {
+        "head_id": "2746",
+        "head": "意大利",
+        "relation": "已 測出",
+        "tail_id": "3700",
+        "tail": "SARS-CoV-2 抗体"
+    },
+    {
+        "head_id": "1153",
+        "head": "苏联",
+        "relation": "加强",
+        "tail_id": "4688",
+        "tail": "对 东欧 各国 的 控制"
+    },
+    {
+        "head_id": "1084",
+        "head": "哥本 哈根",
+        "relation": "是",
+        "tail_id": "2693",
+        "tail": "丹麦 的 首要 交通 枢纽"
+    },
+    {
+        "head_id": "2080",
+        "head": "这",
+        "relation": "只 是",
+        "tail_id": "4904",
+        "tail": "一 项 标准 程序"
+    },
+    {
+        "head_id": "3199",
+        "head": "一 系列 攻击",
+        "relation": "威胁",
+        "tail_id": "3140",
+        "tail": "首都"
+    },
+    {
+        "head_id": "1487",
+        "head": "元素",
+        "relation": "存在",
+        "tail_id": "3201",
+        "tail": "自然"
+    },
+    {
+        "head_id": "4945",
+        "head": "男性",
+        "relation": "为",
+        "tail_id": "977",
+        "tail": "29 岁"
+    },
+    {
+        "head_id": "3187",
+        "head": "哥本哈根",
+        "relation": "擁",
+        "tail_id": "891",
+        "tail": "两支 同名 的 男女 队伍"
+    },
+    {
+        "head_id": "2080",
+        "head": "这",
+        "relation": "只 是",
+        "tail_id": "1328",
+        "tail": "累積 福报"
+    },
+    {
+        "head_id": "3504",
+        "head": "穆罕默德",
+        "relation": "传道",
+        "tail_id": "1246",
+        "tail": "向 人们"
+    },
+    {
+        "head_id": "2539",
+        "head": "AFISMA",
+        "relation": "是",
+        "tail_id": "4155",
+        "tail": "非洲"
+    },
+    {
+        "head_id": "2592",
+        "head": "詹姆斯 · 瓦特",
+        "relation": "去世",
+        "tail_id": "4915",
+        "tail": "17 岁 的 时候"
+    },
+    {
+        "head_id": "130",
+        "head": "佛教",
+        "relation": "得",
+        "tail_id": "660",
+        "tail": "以 传播"
+    },
+    {
+        "head_id": "4015",
+        "head": "以色列",
+        "relation": "入侵",
+        "tail_id": "2582",
+        "tail": "黎巴嫩"
+    },
+    {
+        "head_id": "2592",
+        "head": "詹姆斯 · 瓦特",
+        "relation": "开始 采取",
+        "tail_id": "798",
+        "tail": "措施"
+    },
+    {
+        "head_id": "4140",
+        "head": "者",
+        "relation": "身处",
+        "tail_id": "4942",
+        "tail": "其中"
+    },
+    {
+        "head_id": "130",
+        "head": "佛教",
+        "relation": "建立",
+        "tail_id": "3290",
+        "tail": "第一 流 的 学術 中心"
+    },
+    {
+        "head_id": "2380",
+        "head": "冬天 的 巴黎",
+        "relation": "此 沦 为",
+        "tail_id": "2194",
+        "tail": "地方 性 城市"
+    },
+    {
+        "head_id": "65",
+        "head": "地球",
+        "relation": "不是",
+        "tail_id": "1471",
+        "tail": "宇宙 的 唯一 中心"
+    },
+    {
+        "head_id": "2781",
+        "head": "俄罗斯",
+        "relation": "作 为",
+        "tail_id": "1458",
+        "tail": "标准 俄 语 主要 分布 来源"
+    },
+    {
+        "head_id": "2358",
+        "head": "罗塞尼亚",
+        "relation": "指",
+        "tail_id": "2781",
+        "tail": "俄罗斯"
+    },
+    {
+        "head_id": "907",
+        "head": "一 种 方法",
+        "relation": "用丁烷 制得",
+        "tail_id": "346",
+        "tail": "乙酸"
+    },
+    {
+        "head_id": "2592",
+        "head": "詹姆斯 · 瓦特",
+        "relation": "取得",
+        "tail_id": "3578",
+        "tail": "关键 性 的 进展"
+    },
+    {
+        "head_id": "570",
+        "head": "铑",
+        "relation": "催化",
+        "tail_id": "1085",
+        "tail": "甲基 羰 基化 制 乙酸"
+    },
+    {
+        "head_id": "557",
+        "head": "德國 人",
+        "relation": "移居",
+        "tail_id": "2380",
+        "tail": "冬天 的 巴黎"
+    },
+    {
+        "head_id": "4042",
+        "head": "雷根 总统",
+        "relation": "踢",
+        "tail_id": "1014",
+        "tail": "足球"
+    },
+    {
+        "head_id": "2126",
+        "head": "德国",
+        "relation": "发动",
+        "tail_id": "2252",
+        "tail": "橡树 行动"
+    },
+    {
+        "head_id": "3348",
+        "head": "荷兰 人",
+        "relation": "放弃",
+        "tail_id": "3459",
+        "tail": "毛 里求斯 本岛"
+    },
+    {
+        "head_id": "3548",
+        "head": "黑天",
+        "relation": "有 讲述",
+        "tail_id": "3771",
+        "tail": "两人 的 爱情 故事"
+    },
+    {
+        "head_id": "3540",
+        "head": "阿布哈 茲",
+        "relation": "宣佈",
+        "tail_id": "850",
+        "tail": "独立"
+    },
+    {
+        "head_id": "4242",
+        "head": "英國",
+        "relation": "进攻",
+        "tail_id": "2311",
+        "tail": "廣州"
+    },
+    {
+        "head_id": "2205",
+        "head": "僧相",
+        "relation": "強制 推廣",
+        "tail_id": "130",
+        "tail": "佛教"
+    },
+    {
+        "head_id": "5006",
+        "head": "越南",
+        "relation": "解放",
+        "tail_id": "3863",
+        "tail": "金边"
+    },
+    {
+        "head_id": "2775",
+        "head": "冰川",
+        "relation": "是",
+        "tail_id": "3981",
+        "tail": "独一无二"
+    },
+    {
+        "head_id": "295",
+        "head": "迈索尔",
+        "relation": "接待",
+        "tail_id": "2285",
+        "tail": "自 全 世界 的 大量 游客"
+    },
+    {
+        "head_id": "1590",
+        "head": "香港 政府",
+        "relation": "成立 民政 及 新聞 科",
+        "tail_id": "512",
+        "tail": "负责 香港 政府 之 一切 公共 关係 事宜"
+    },
+    {
+        "head_id": "3114",
+        "head": "马赛 城市",
+        "relation": "实际 控制",
+        "tail_id": "3025",
+        "tail": "纳粹 德军"
+    },
+    {
+        "head_id": "3142",
+        "head": "欧洲",
+        "relation": "已 接纳",
+        "tail_id": "3170",
+        "tail": "阿尔巴尼亞 共和"
+    },
+    {
+        "head_id": "1116",
+        "head": "签名",
+        "relation": "称",
+        "tail_id": "4109",
+        "tail": "加密"
+    },
+    {
+        "head_id": "499",
+        "head": "麦加 人 及 当地 的 麦地那 人",
+        "relation": "移居",
+        "tail_id": "1738",
+        "tail": "麦地那"
+    },
+    {
+        "head_id": "4189",
+        "head": "纳尔逊 · 霍-{} - 利萨薩 · 曼德拉",
+        "relation": "秘密 前往",
+        "tail_id": "3958",
+        "tail": "埃塞俄比亚"
+    },
+    {
+        "head_id": "782",
+        "head": "的 开普 殖民",
+        "relation": "属於",
+        "tail_id": "4242",
+        "tail": "英國"
+    },
+    {
+        "head_id": "3616",
+        "head": "叶酸",
+        "relation": "有",
+        "tail_id": "3034",
+        "tail": "对于 神经 管 的 形成"
+    },
+    {
+        "head_id": "169",
+        "head": "政府",
+        "relation": "应该 调",
+        "tail_id": "3437",
+        "tail": "整总 需求"
+    },
+    {
+        "head_id": "3722",
+        "head": "主要 原料",
+        "relation": "生产",
+        "tail_id": "1679",
+        "tail": "乙炔"
+    },
+    {
+        "head_id": "88",
+        "head": "欧洲 殖民 者",
+        "relation": "抵达",
+        "tail_id": "1748",
+        "tail": "现代 加拿大"
+    },
+    {
+        "head_id": "333",
+        "head": "布达佩斯",
+        "relation": "占领",
+        "tail_id": "1610",
+        "tail": "匈牙利 的 重要 城鎮"
+    },
+    {
+        "head_id": "3069",
+        "head": "硼砂",
+        "relation": "盛产",
+        "tail_id": "1574",
+        "tail": "世界 上"
+    },
+    {
+        "head_id": "761",
+        "head": "M与金卡德 的 手 电筒",
+        "relation": "追到",
+        "tail_id": "3099",
+        "tail": "教堂"
+    },
+    {
+        "head_id": "113",
+        "head": "免费",
+        "relation": "升級",
+        "tail_id": "3477",
+        "tail": "Windows 10"
+    },
+    {
+        "head_id": "2380",
+        "head": "冬天 的 巴黎",
+        "relation": "开始",
+        "tail_id": "2012",
+        "tail": "从 1860"
+    },
+    {
+        "head_id": "4242",
+        "head": "英國",
+        "relation": "正式 脱欧",
+        "tail_id": "167",
+        "tail": "2020 年 1 月 31"
+    },
+    {
+        "head_id": "3830",
+        "head": "芬兰",
+        "relation": "拒绝",
+        "tail_id": "2144",
+        "tail": "苏 联 政府 近乎 割让 领土 的 要求"
+    },
+    {
+        "head_id": "1351",
+        "head": "美国",
+        "relation": "增加",
+        "tail_id": "3875",
+        "tail": "驻军"
+    },
+    {
+        "head_id": "2080",
+        "head": "这",
+        "relation": "为",
+        "tail_id": "1542",
+        "tail": "维斯瓦纳坦 · 阿南德"
+    },
+    {
+        "head_id": "3027",
+        "head": "最高 法院",
+        "relation": "否决",
+        "tail_id": "989",
+        "tail": "没有 按照 适当 程序 进行 的 任命"
+    },
+    {
+        "head_id": "1748",
+        "head": "现代 加拿大",
+        "relation": "驻扎",
+        "tail_id": "3400",
+        "tail": "在 埃尔斯米尔 岛"
+    },
+    {
+        "head_id": "1917",
+        "head": "宪法",
+        "relation": "建立",
+        "tail_id": "522",
+        "tail": "一 个 公共 教育 系统"
+    },
+    {
+        "head_id": "3520",
+        "head": "印度",
+        "relation": "是",
+        "tail_id": "4281",
+        "tail": "重要 的 电影 出产 地区"
+    },
+    {
+        "head_id": "2594",
+        "head": "病毒",
+        "relation": "可能 是",
+        "tail_id": "2611",
+        "tail": "部分 感染 或 其他 区域 感染 ( 如 鼻窦 炎"
+    },
+    {
+        "head_id": "1237",
+        "head": "萨莫拉 · 马歇尔",
+        "relation": "的 前 总统",
+        "tail_id": "4852",
+        "tail": "莫桑比克"
+    },
+    {
+        "head_id": "1695",
+        "head": "靛蓝航空",
+        "relation": "干租 了 22 架 飞机 以 应对",
+        "tail_id": "1212",
+        "tail": "航線"
+    },
+    {
+        "head_id": "524",
+        "head": "格拉斯哥 大学",
+        "relation": "取回",
+        "tail_id": "1449",
+        "tail": "一 台 纽科 门 蒸汽 机"
+    },
+    {
+        "head_id": "2046",
+        "head": "有 严重 过 敏史 的 人",
+        "relation": "不要 接种",
+        "tail_id": "2793",
+        "tail": "疫苗"
+    },
+    {
+        "head_id": "1153",
+        "head": "苏联",
+        "relation": "意为",
+        "tail_id": "1520",
+        "tail": "老 七"
+    },
+    {
+        "head_id": "4477",
+        "head": "香港",
+        "relation": "確 診",
+        "tail_id": "4657",
+        "tail": "该名 墨西哥 患者"
+    },
+    {
+        "head_id": "2746",
+        "head": "意大利",
+        "relation": "入侵",
+        "tail_id": "3823",
+        "tail": "法国"
+    },
+    {
+        "head_id": "4942",
+        "head": "其中",
+        "relation": "用到",
+        "tail_id": "901",
+        "tail": "一些 在 阿拉伯文 中 没有 的 发音 以及 字母"
+    },
+    {
+        "head_id": "4942",
+        "head": "其中",
+        "relation": "包括",
+        "tail_id": "1843",
+        "tail": "在 现代 加拿大 历史 上 最大 的 一 场 屠杀"
+    },
+    {
+        "head_id": "2080",
+        "head": "这",
+        "relation": "正是",
+        "tail_id": "3731",
+        "tail": "计划 中 要 给 Stephen Koenig Armstrong 拍照 的 时间"
+    },
+    {
+        "head_id": "3316",
+        "head": "新任 政府",
+        "relation": "停战",
+        "tail_id": "608",
+        "tail": "向 同盟 军"
+    },
+    {
+        "head_id": "4759",
+        "head": "软件",
+        "relation": "符合",
+        "tail_id": "4704",
+        "tail": "开源 软件 定义"
+    },
+    {
+        "head_id": "1974",
+        "head": "林丹",
+        "relation": "强调",
+        "tail_id": "3128",
+        "tail": "技术 流 和 控 制流"
+    },
+    {
+        "head_id": "2024",
+        "head": "女性",
+        "relation": "无法 避免",
+        "tail_id": "3577",
+        "tail": "性 传 染病"
+    },
+    {
+        "head_id": "2281",
+        "head": "中国",
+        "relation": "发展",
+        "tail_id": "4447",
+        "tail": "撒哈拉 以南 非洲"
+    },
+    {
+        "head_id": "2213",
+        "head": "欧洲 联盟 总 面积 4,233,262",
+        "relation": "则是",
+        "tail_id": "1574",
+        "tail": "世界 上"
+    },
+    {
+        "head_id": "3673",
+        "head": "美国 独立 的 精神",
+        "relation": "影响",
+        "tail_id": "3823",
+        "tail": "法国"
+    },
+    {
+        "head_id": "169",
+        "head": "政府",
+        "relation": "在",
+        "tail_id": "1435",
+        "tail": "地 卡瓦拉蒂 岛"
+    },
+    {
+        "head_id": "346",
+        "head": "乙酸",
+        "relation": "可 脱水",
+        "tail_id": "2991",
+        "tail": "乙酸 酐"
+    },
+    {
+        "head_id": "1679",
+        "head": "乙炔",
+        "relation": "可以 生成",
+        "tail_id": "3071",
+        "tail": "乙炔 钠"
+    },
+    {
+        "head_id": "1087",
+        "head": "澳洲 政府",
+        "relation": "成立",
+        "tail_id": "1677",
+        "tail": "艺术 学 委员 会 文學 委员"
+    },
+    {
+        "head_id": "2024",
+        "head": "女性",
+        "relation": "象征",
+        "tail_id": "611",
+        "tail": "良好 的 生育 能力 与 母性"
+    },
+    {
+        "head_id": "1767",
+        "head": "温床",
+        "relation": "是",
+        "tail_id": "2594",
+        "tail": "病毒"
+    },
+    {
+        "head_id": "3823",
+        "head": "法国",
+        "relation": "占领",
+        "tail_id": "4401",
+        "tail": "该 島后 开始 移民"
+    },
+    {
+        "head_id": "2891",
+        "head": "阿道夫 · 希特勒",
+        "relation": "打败",
+        "tail_id": "1153",
+        "tail": "苏联"
+    },
+    {
+        "head_id": "3934",
+        "head": "温代克斯",
+        "relation": "失敗",
+        "tail_id": "2765",
+        "tail": "自殺"
+    },
+    {
+        "head_id": "186",
+        "head": "德军",
+        "relation": "攻佔",
+        "tail_id": "3570",
+        "tail": "挪威"
+    },
+    {
+        "head_id": "4494",
+        "head": "土耳其",
+        "relation": "已大 大 降 低 加入",
+        "tail_id": "4045",
+        "tail": "欧洲 联盟 的 積極 性"
+    },
+    {
+        "head_id": "502",
+        "head": "阿拉伯 半岛",
+        "relation": "北接",
+        "tail_id": "4494",
+        "tail": "土耳其"
+    },
+    {
+        "head_id": "1642",
+        "head": "Windows 10 的 占有 率",
+        "relation": "已 超越",
+        "tail_id": "695",
+        "tail": "Windows 7"
+    },
+    {
+        "head_id": "3475",
+        "head": "世界 足壇 规模 最大 、 最",
+        "relation": "具 影响",
+        "tail_id": "1029",
+        "tail": "力"
+    },
+    {
+        "head_id": "342",
+        "head": "孔 雀 王朝 建立 者 旃 陀罗笈多",
+        "relation": "传给",
+        "tail_id": "341",
+        "tail": "宾头娑罗"
+    },
+    {
+        "head_id": "3520",
+        "head": "印度",
+        "relation": "进入",
+        "tail_id": "4597",
+        "tail": "了 紧急 状态"
+    },
+    {
+        "head_id": "1821",
+        "head": "路德维希 · 凡 · 贝多芬",
+        "relation": "明顯 恶化",
+        "tail_id": "4122",
+        "tail": "健康"
+    },
+    {
+        "head_id": "2380",
+        "head": "冬天 的 巴黎",
+        "relation": "已经 是",
+        "tail_id": "486",
+        "tail": "主要 的 宗教 中心"
+    },
+    {
+        "head_id": "3485",
+        "head": "0",
+        "relation": "叫做",
+        "tail_id": "3210",
+        "tail": "金元 数字"
+    },
+    {
+        "head_id": "4441",
+        "head": "毗卢遮那佛",
+        "relation": "头戴",
+        "tail_id": "5026",
+        "tail": "五 佛冠"
+    },
+    {
+        "head_id": "880",
+        "head": "西班牙",
+        "relation": "殖民",
+        "tail_id": "2116",
+        "tail": "把 天主 教 耶穌 会传 教士 驱逐"
+    },
+    {
+        "head_id": "750",
+        "head": "一些 国家",
+        "relation": "例如",
+        "tail_id": "2281",
+        "tail": "中国"
+    },
+    {
+        "head_id": "1887",
+        "head": "海因里希 · 赫兹",
+        "relation": "是",
+        "tail_id": "2620",
+        "tail": "电磁 波"
+    },
+    {
+        "head_id": "303",
+        "head": "新加坡 共和 国",
+        "relation": "称作",
+        "tail_id": "3235",
+        "tail": "淡马 锡"
+    },
+    {
+        "head_id": "4802",
+        "head": "白 俄罗斯",
+        "relation": "是",
+        "tail_id": "1619",
+        "tail": "实行 半总 统制 的 共和 国"
+    },
+    {
+        "head_id": "3702",
+        "head": "微软",
+        "relation": "推出",
+        "tail_id": "496",
+        "tail": "Microsoft SQL Server 7 資料 库"
+    },
+    {
+        "head_id": "2708",
+        "head": "乔 治亚",
+        "relation": "逐步 迈向",
+        "tail_id": "850",
+        "tail": "独立"
+    },
+    {
+        "head_id": "1766",
+        "head": "患者",
+        "relation": "已 有",
+        "tail_id": "4603",
+        "tail": "当时"
+    },
+    {
+        "head_id": "4417",
+        "head": "费里尼",
+        "relation": "撰写",
+        "tail_id": "1663",
+        "tail": "剧本"
+    },
+    {
+        "head_id": "2592",
+        "head": "詹姆斯 · 瓦特",
+        "relation": "建有",
+        "tail_id": "914",
+        "tail": "圣玛丽 教堂 里"
+    },
+    {
+        "head_id": "2724",
+        "head": "饮水",
+        "relation": "提供",
+        "tail_id": "1870",
+        "tail": "今天 的 浦那"
+    },
+    {
+        "head_id": "3486",
+        "head": "Stephen Koenig Armstrong",
+        "relation": "踏上",
+        "tail_id": "2302",
+        "tail": "月球"
+    },
+    {
+        "head_id": "3501",
+        "head": "巴黎",
+        "relation": "处",
+        "tail_id": "2646",
+        "tail": "于法 此时 的 法兰克 王國 北部 巴黎 盆地 的 中央"
+    },
+    {
+        "head_id": "2331",
+        "head": "巴基斯坦",
+        "relation": "未能 加强",
+        "tail_id": "3585",
+        "tail": "巴基斯坦 的 进攻"
+    },
+    {
+        "head_id": "873",
+        "head": "波兰",
+        "relation": "抵达 格勒 拜访",
+        "tail_id": "2035",
+        "tail": "阿列克谢 · 柯西金"
+    },
+    {
+        "head_id": "4773",
+        "head": "穆斯林",
+        "relation": "懂得",
+        "tail_id": "717",
+        "tail": "使用"
+    },
+    {
+        "head_id": "2840",
+        "head": "该片",
+        "relation": "开始",
+        "tail_id": "2413",
+        "tail": "从 故事 板 动画 化"
+    },
+    {
+        "head_id": "2927",
+        "head": "欧盟",
+        "relation": "同意",
+        "tail_id": "1123",
+        "tail": "英國 脱欧 日期 再延 至 2020 年 1 月 31"
+    },
+    {
+        "head_id": "304",
+        "head": "萧伯纳",
+        "relation": "是",
+        "tail_id": "589",
+        "tail": "摄影 爱好 者, 使用 莱卡 相机"
+    },
+    {
+        "head_id": "2380",
+        "head": "冬天 的 巴黎",
+        "relation": "也 擁有",
+        "tail_id": "4061",
+        "tail": "十分 巨大 的 电影 院 网络"
+    },
+    {
+        "head_id": "169",
+        "head": "政府",
+        "relation": "提供",
+        "tail_id": "1267",
+        "tail": "免费 的 交通"
+    },
+    {
+        "head_id": "4150",
+        "head": "硼",
+        "relation": "存在",
+        "tail_id": "3681",
+        "tail": "绝少 单独"
+    },
+    {
+        "head_id": "624",
+        "head": "未来",
+        "relation": "属於",
+        "tail_id": "1351",
+        "tail": "美国"
+    },
+    {
+        "head_id": "915",
+        "head": "臭氧",
+        "relation": "能",
+        "tail_id": "591",
+        "tail": "短时 间 内 将 空氣 中 浮游 的 细菌"
+    },
+    {
+        "head_id": "258",
+        "head": "柏油",
+        "relation": "防止",
+        "tail_id": "690",
+        "tail": "洩漏"
+    },
+    {
+        "head_id": "4477",
+        "head": "香港",
+        "relation": "获 誉为",
+        "tail_id": "3207",
+        "tail": "华人 流行 文化 之 都"
+    },
+    {
+        "head_id": "2592",
+        "head": "詹姆斯 · 瓦特",
+        "relation": "合伙 组建",
+        "tail_id": "786",
+        "tail": "与 伯明翰 一 间 铸造 厂 老板 马修 · 博尔顿"
+    },
+    {
+        "head_id": "3569",
+        "head": "巴拉圭",
+        "relation": "属",
+        "tail_id": "1398",
+        "tail": "副 热带 湿润 气候"
+    },
+    {
+        "head_id": "1974",
+        "head": "林丹",
+        "relation": "宣布",
+        "tail_id": "4258",
+        "tail": "退役"
+    },
+    {
+        "head_id": "2793",
+        "head": "疫苗",
+        "relation": "发售",
+        "tail_id": "4673",
+        "tail": "全國 一 万 家 私立 醫院"
+    },
+    {
+        "head_id": "1974",
+        "head": "林丹",
+        "relation": "曾 淘汰",
+        "tail_id": "1972",
+        "tail": "世界 排名 已跌 至 286 名"
+    },
+    {
+        "head_id": "1748",
+        "head": "现代 加拿大",
+        "relation": "被 评",
+        "tail_id": "4292",
+        "tail": "为 2021 年 最佳 国家"
+    },
+    {
+        "head_id": "4093",
+        "head": "世界 排名 已跌 至 286 名 的 林丹",
+        "relation": "转战",
+        "tail_id": "4694",
+        "tail": "柳州"
+    },
+    {
+        "head_id": "4477",
+        "head": "香港",
+        "relation": "宣布",
+        "tail_id": "648",
+        "tail": "为 自由 港"
+    },
+    {
+        "head_id": "4368",
+        "head": "波斯语",
+        "relation": "开始",
+        "tail_id": "4129",
+        "tail": "以 阿拉伯 字母 来 取代 原来 旧 的 字母"
+    },
+    {
+        "head_id": "1280",
+        "head": "硫化氫",
+        "relation": "会 发生",
+        "tail_id": "1276",
+        "tail": "超导 相变"
+    },
+    {
+        "head_id": "2746",
+        "head": "意大利",
+        "relation": "宣战",
+        "tail_id": "2271",
+        "tail": "向 自由 法国 和 英国"
+    },
+    {
+        "head_id": "239",
+        "head": "国民 大会 最多 席位 的 政党 或 政党 联盟",
+        "relation": "将 组成",
+        "tail_id": "169",
+        "tail": "政府"
+    },
+    {
+        "head_id": "1078",
+        "head": "研究",
+        "relation": "进行",
+        "tail_id": "4117",
+        "tail": "实验 室 在 兔子"
+    },
+    {
+        "head_id": "294",
+        "head": "洛杉矶",
+        "relation": "搭建",
+        "tail_id": "1581",
+        "tail": "名叫 “ Totally Toy Story ” 的 欢乐屋"
+    },
+    {
+        "head_id": "3011",
+        "head": "德軍",
+        "relation": "撤出",
+        "tail_id": "2380",
+        "tail": "冬天 的 巴黎"
+    },
+    {
+        "head_id": "1353",
+        "head": "墨西哥 政府",
+        "relation": "进行",
+        "tail_id": "2598",
+        "tail": "对 特派 团"
+    },
+    {
+        "head_id": "3607",
+        "head": "俄语",
+        "relation": "已 不 再是",
+        "tail_id": "2528",
+        "tail": "官方 语言"
+    },
+    {
+        "head_id": "539",
+        "head": "禅宗",
+        "relation": "一直 依附",
+        "tail_id": "280",
+        "tail": "律宗"
+    },
+    {
+        "head_id": "4344",
+        "head": "铅",
+        "relation": "被 禁止",
+        "tail_id": "4176",
+        "tail": "1986 年"
+    },
+    {
+        "head_id": "1144",
+        "head": "建筑",
+        "relation": "源",
+        "tail_id": "1935",
+        "tail": "自 希腊 古典 时期"
+    },
+    {
+        "head_id": "501",
+        "head": "鹰嘴豆",
+        "relation": "属",
+        "tail_id": "369",
+        "tail": "于 高营养豆 类 植物"
+    },
+    {
+        "head_id": "1428",
+        "head": "此",
+        "relation": "亦 乃",
+        "tail_id": "3447",
+        "tail": "合成 ” 一 词 首度 见 诸有 机 化学 文献"
+    },
+    {
+        "head_id": "1351",
+        "head": "美国",
+        "relation": "只有",
+        "tail_id": "3047",
+        "tail": "280万 人 接种 第一 剂 辉瑞 或 莫德纳 疫苗"
+    },
+    {
+        "head_id": "4364",
+        "head": "薑",
+        "relation": "开出",
+        "tail_id": "1358",
+        "tail": "由 白色 和 桃紅 色 的 花芽"
+    },
+    {
+        "head_id": "1369",
+        "head": "佛陀",
+        "relation": "不是",
+        "tail_id": "3520",
+        "tail": "印度"
+    },
+    {
+        "head_id": "4517",
+        "head": "烏拉圭 队",
+        "relation": "反勝",
+        "tail_id": "3103",
+        "tail": "巴西"
+    },
+    {
+        "head_id": "2380",
+        "head": "冬天 的 巴黎",
+        "relation": "会 降雨",
+        "tail_id": "1138",
+        "tail": "整年"
+    },
+    {
+        "head_id": "4945",
+        "head": "男性",
+        "relation": "佩戴",
+        "tail_id": "673",
+        "tail": "缠头"
+    },
+    {
+        "head_id": "1211",
+        "head": "芬兰 共和 国",
+        "relation": "准备",
+        "tail_id": "3148",
+        "tail": "战争"
+    },
+    {
+        "head_id": "169",
+        "head": "政府",
+        "relation": "紧缩",
+        "tail_id": "4180",
+        "tail": "开支"
+    },
+    {
+        "head_id": "3745",
+        "head": "卡達 政府",
+        "relation": "加入",
+        "tail_id": "4902",
+        "tail": "反对 奥斯曼 帝国 的 阿拉伯 起义"
+    },
+    {
+        "head_id": "4093",
+        "head": "世界 排名 已跌 至 286 名 的 林丹",
+        "relation": "获得",
+        "tail_id": "3066",
+        "tail": "首枚 亚锦 赛 金牌"
+    },
+    {
+        "head_id": "224",
+        "head": "Eugene",
+        "relation": "移居",
+        "tail_id": "1351",
+        "tail": "美国"
+    },
+    {
+        "head_id": "4689",
+        "head": "学校",
+        "relation": "会 教授",
+        "tail_id": "4575",
+        "tail": "英語"
+    },
+    {
+        "head_id": "122",
+        "head": "苏 军 部队",
+        "relation": "驻",
+        "tail_id": "3816",
+        "tail": "柏林"
+    },
+    {
+        "head_id": "1748",
+        "head": "现代 加拿大",
+        "relation": "随 着 脱离",
+        "tail_id": "4853",
+        "tail": "英国"
+    },
+    {
+        "head_id": "3989",
+        "head": "哈克德 军",
+        "relation": "将 侵略",
+        "tail_id": "2289",
+        "tail": "捷克 斯洛伐克"
+    },
+    {
+        "head_id": "3845",
+        "head": "法官",
+        "relation": "任命",
+        "tail_id": "4858",
+        "tail": "由 行政 长官"
+    },
+    {
+        "head_id": "3459",
+        "head": "毛 里求斯 本岛",
+        "relation": "被",
+        "tail_id": "4224",
+        "tail": "世界 第三 大 的 珊瑚 群"
+    },
+    {
+        "head_id": "2141",
+        "head": "英国 首相 張 伯倫 、 法国 总理 达拉 第已对德军",
+        "relation": "入侵",
+        "tail_id": "1569",
+        "tail": "捷克"
+    },
+    {
+        "head_id": "1366",
+        "head": "乳房",
+        "relation": "准备",
+        "tail_id": "1347",
+        "tail": "分泌 乳汁"
+    },
+    {
+        "head_id": "1008",
+        "head": "大小",
+        "relation": "接近",
+        "tail_id": "1014",
+        "tail": "足球"
+    },
+    {
+        "head_id": "3253",
+        "head": "「 西班牙 流感 」 的",
+        "relation": "造成",
+        "tail_id": "4520",
+        "tail": "5 亿 人 感染"
+    },
+    {
+        "head_id": "4853",
+        "head": "英国",
+        "relation": "占领",
+        "tail_id": "3882",
+        "tail": "该島"
+    },
+    {
+        "head_id": "1802",
+        "head": "埃瓦里斯特 · 伽罗瓦",
+        "relation": "曾 企图",
+        "tail_id": "2765",
+        "tail": "自殺"
+    },
+    {
+        "head_id": "4780",
+        "head": "珠寶",
+        "relation": "分为",
+        "tail_id": "111",
+        "tail": "天然 珠 宝 玉石 和 人工 宝石 两 大类"
+    },
+    {
+        "head_id": "4942",
+        "head": "其中",
+        "relation": "有",
+        "tail_id": "2094",
+        "tail": "69 人 已 接受 第二 剂 接种"
+    },
+    {
+        "head_id": "3397",
+        "head": "两 名 护士",
+        "relation": "接种",
+        "tail_id": "2793",
+        "tail": "疫苗"
+    },
+    {
+        "head_id": "2238",
+        "head": "美军",
+        "relation": "撤出",
+        "tail_id": "2776",
+        "tail": "伊拉克"
+    },
+    {
+        "head_id": "1428",
+        "head": "此",
+        "relation": "亦为",
+        "tail_id": "425",
+        "tail": "今 伊斯坦布尔 一 个 区 的 正式 名称"
+    },
+    {
+        "head_id": "4465",
+        "head": "Nexus 5",
+        "relation": "开始",
+        "tail_id": "2836",
+        "tail": "收到 Android 5.1 \" Lollipop \" 升级 推送"
+    },
+    {
+        "head_id": "880",
+        "head": "西班牙",
+        "relation": "征服",
+        "tail_id": "597",
+        "tail": "阿兹特克 帝国"
+    },
+    {
+        "head_id": "4014",
+        "head": "貨幣",
+        "relation": "就好 比是",
+        "tail_id": "991",
+        "tail": "像 一般 的 社会 媒介"
+    },
+    {
+        "head_id": "4622",
+        "head": "庞贝",
+        "relation": "译",
+        "tail_id": "2007",
+        "tail": "庞培"
+    },
+    {
+        "head_id": "2034",
+        "head": "细菌",
+        "relation": "可能 入侵",
+        "tail_id": "3294",
+        "tail": "蛛網 膜 下腔"
+    },
+    {
+        "head_id": "4249",
+        "head": "神经",
+        "relation": "干发出",
+        "tail_id": "1038",
+        "tail": "从 大脑 或脑"
+    },
+    {
+        "head_id": "2170",
+        "head": "今天 凤凰 城",
+        "relation": "可以 分 为",
+        "tail_id": "4115",
+        "tail": "六 个 区域"
+    },
+    {
+        "head_id": "1065",
+        "head": "法律",
+        "relation": "具有",
+        "tail_id": "4516",
+        "tail": "投保 人 对 保险 标"
+    },
+    {
+        "head_id": "2380",
+        "head": "冬天 的 巴黎",
+        "relation": "开始 成",
+        "tail_id": "257",
+        "tail": "学術 中心"
+    },
+    {
+        "head_id": "4065",
+        "head": "埃森博阿国际機 场",
+        "relation": "是",
+        "tail_id": "2036",
+        "tail": "安卡拉"
+    },
+    {
+        "head_id": "222",
+        "head": "木炭",
+        "relation": "烧制",
+        "tail_id": "1512",
+        "tail": "椰子 壳"
+    },
+    {
+        "head_id": "169",
+        "head": "政府",
+        "relation": "控制",
+        "tail_id": "2414",
+        "tail": "部分 广播 媒体"
+    },
+    {
+        "head_id": "4116",
+        "head": "任何 思想",
+        "relation": "超越",
+        "tail_id": "1923",
+        "tail": "物质"
+    },
+    {
+        "head_id": "3854",
+        "head": "纳粹 德国",
+        "relation": "宣布",
+        "tail_id": "4227",
+        "tail": "向 协约 国"
+    },
+    {
+        "head_id": "3854",
+        "head": "纳粹 德国",
+        "relation": "开始 策劃",
+        "tail_id": "1143",
+        "tail": "入侵 法国 、 比利时 、 荷兰与 盧森堡"
+    },
+    {
+        "head_id": "2781",
+        "head": "俄罗斯",
+        "relation": "进行",
+        "tail_id": "547",
+        "tail": "在 北极"
+    },
+    {
+        "head_id": "3520",
+        "head": "印度",
+        "relation": "不要 利用",
+        "tail_id": "538",
+        "tail": "东"
+    },
+    {
+        "head_id": "2036",
+        "head": "安卡拉",
+        "relation": "增加",
+        "tail_id": "1863",
+        "tail": "在 安卡拉"
+    },
+    {
+        "head_id": "4945",
+        "head": "男性",
+        "relation": "放入",
+        "tail_id": "2161",
+        "tail": "乳溝"
+    },
+    {
+        "head_id": "3054",
+        "head": "廷布",
+        "relation": "位",
+        "tail_id": "2831",
+        "tail": "于 不 丹西 部"
+    },
+    {
+        "head_id": "1036",
+        "head": "尼安德特 人 的 生活 用品",
+        "relation": "大多 是",
+        "tail_id": "4938",
+        "tail": "工具"
+    },
+    {
+        "head_id": "3520",
+        "head": "印度",
+        "relation": "控制",
+        "tail_id": "1135",
+        "tail": "克什米尔 地区 的 平民 与 军事 设施"
+    },
+    {
+        "head_id": "4993",
+        "head": "的 世锦 赛",
+        "relation": "举行",
+        "tail_id": "3021",
+        "tail": "伦敦"
+    },
+    {
+        "head_id": "4524",
+        "head": "面积",
+        "relation": "增加",
+        "tail_id": "3311",
+        "tail": "至 780 平方公里"
+    },
+    {
+        "head_id": "2013",
+        "head": "希腊语",
+        "relation": "是",
+        "tail_id": "3680",
+        "tail": "臭味"
+    },
+    {
+        "head_id": "980",
+        "head": "穆阿迈尔 · 卡扎菲 领导 下 的 利比亚",
+        "relation": "可 追溯",
+        "tail_id": "762",
+        "tail": "到 至少 公元 前 300"
+    },
+    {
+        "head_id": "1539",
+        "head": "印巴 双 方",
+        "relation": "会 发动",
+        "tail_id": "3148",
+        "tail": "战争"
+    },
+    {
+        "head_id": "3459",
+        "head": "毛 里求斯 本岛",
+        "relation": "成",
+        "tail_id": "3425",
+        "tail": "Community of Portuguese Language Countries ) 的 观察 员国"
+    },
+    {
+        "head_id": "3027",
+        "head": "最高 法院",
+        "relation": "裁定",
+        "tail_id": "4196",
+        "tail": "对 《 斯科特 诉桑福德 案"
+    },
+    {
+        "head_id": "4040",
+        "head": "己烷",
+        "relation": "可以 发生 燃烧 反应, 生成",
+        "tail_id": "3318",
+        "tail": "水 和 二氧化 碳"
+    },
+    {
+        "head_id": "3520",
+        "head": "印度",
+        "relation": "接纳",
+        "tail_id": "1734",
+        "tail": "十四 世達 賴 喇嘛 丹增 嘉措"
+    },
+    {
+        "head_id": "4853",
+        "head": "英国",
+        "relation": "結",
+        "tail_id": "3640",
+        "tail": "与 波兰 陸 陸 续 续"
+    },
+    {
+        "head_id": "2323",
+        "head": "卡达 政府",
+        "relation": "企图 把",
+        "tail_id": "3520",
+        "tail": "印度"
+    },
+    {
+        "head_id": "4731",
+        "head": "农业",
+        "relation": "是 为 侍奉",
+        "tail_id": "3355",
+        "tail": "神"
+    },
+    {
+        "head_id": "1828",
+        "head": "的 古典 阿拉伯 语",
+        "relation": "使用",
+        "tail_id": "4289",
+        "tail": "古兰经"
+    },
+    {
+        "head_id": "3114",
+        "head": "马赛 城市",
+        "relation": "被 统治",
+        "tail_id": "1684",
+        "tail": "第二 次 世界 大战 期间"
+    },
+    {
+        "head_id": "2927",
+        "head": "欧盟",
+        "relation": "相反",
+        "tail_id": "3747",
+        "tail": "之前"
+    },
+    {
+        "head_id": "2793",
+        "head": "疫苗",
+        "relation": "针对",
+        "tail_id": "4928",
+        "tail": "2019 冠 状病 毒病"
+    },
+    {
+        "head_id": "4622",
+        "head": "庞贝",
+        "relation": "或 译",
+        "tail_id": "2007",
+        "tail": "庞培"
+    },
+    {
+        "head_id": "2817",
+        "head": "火星 大气 与 发挥 发物 演化 任務",
+        "relation": "简 称",
+        "tail_id": "1288",
+        "tail": "MAVEN"
+    },
+    {
+        "head_id": "2097",
+        "head": "奴隶 制",
+        "relation": "扫 清",
+        "tail_id": "1596",
+        "tail": "道路"
+    },
+    {
+        "head_id": "4769",
+        "head": "白宮",
+        "relation": "增加",
+        "tail_id": "2552",
+        "tail": "东厅"
+    },
+    {
+        "head_id": "4853",
+        "head": "英国",
+        "relation": "正式 承认",
+        "tail_id": "2931",
+        "tail": "13 个 北 美 殖民 地 的 独立"
+    },
+    {
+        "head_id": "118",
+        "head": "父亲",
+        "relation": "是",
+        "tail_id": "4743",
+        "tail": "村務 委员 会 的 领導"
+    },
+    {
+        "head_id": "1366",
+        "head": "乳房",
+        "relation": "构成",
+        "tail_id": "3137",
+        "tail": "由 腺体 、 导管 、 脂肪 组织 和 结缔 组织"
+    },
+    {
+        "head_id": "1870",
+        "head": "今天 的 浦那",
+        "relation": "有",
+        "tail_id": "2270",
+        "tail": "上百 教育 设施 和 九 个 大学"
+    },
+    {
+        "head_id": "3114",
+        "head": "马赛 城市",
+        "relation": "已 成",
+        "tail_id": "1128",
+        "tail": "法国 地 中海 沿岸 重要 的 商业 贸易 港口"
+    },
+    {
+        "head_id": "118",
+        "head": "父亲",
+        "relation": "是",
+        "tail_id": "3353",
+        "tail": "普雷斯科特 · 布希"
+    },
+    {
+        "head_id": "4880",
+        "head": "的 贡献",
+        "relation": "所 做出",
+        "tail_id": "2253",
+        "tail": "该国"
+    },
+    {
+        "head_id": "1065",
+        "head": "法律",
+        "relation": "让",
+        "tail_id": "790",
+        "tail": "法 律为 人民 服务 时 相当 重要 的 部分"
+    },
+    {
+        "head_id": "128",
+        "head": "大 部分 黑人 劳工",
+        "relation": "参与",
+        "tail_id": "4942",
+        "tail": "其中"
+    },
+    {
+        "head_id": "2024",
+        "head": "女性",
+        "relation": "占有",
+        "tail_id": "1411",
+        "tail": "全 人口 的 51.2%"
+    },
+    {
+        "head_id": "2080",
+        "head": "这",
+        "relation": "完全 是",
+        "tail_id": "1097",
+        "tail": "假"
+    },
+    {
+        "head_id": "346",
+        "head": "乙酸",
+        "relation": "一直 是 用",
+        "tail_id": "830",
+        "tail": "醋杆菌 属 细菌"
+    },
+    {
+        "head_id": "2080",
+        "head": "这",
+        "relation": "是 導致",
+        "tail_id": "2849",
+        "tail": "吉米 · 卡特 敗选 的 主因"
+    },
+    {
+        "head_id": "4062",
+        "head": "菲利普 · 贝当",
+        "relation": "访问",
+        "tail_id": "3114",
+        "tail": "马赛 城市"
+    },
+    {
+        "head_id": "754",
+        "head": "夏季",
+        "relation": "气候",
+        "tail_id": "1199",
+        "tail": "凉 爽 而 潮湿"
+    },
+    {
+        "head_id": "2085",
+        "head": "西醫",
+        "relation": "传入",
+        "tail_id": "2281",
+        "tail": "中国"
+    },
+    {
+        "head_id": "4670",
+        "head": "教学 上 师生",
+        "relation": "必须 保持",
+        "tail_id": "468",
+        "tail": "距离"
+    },
+    {
+        "head_id": "2036",
+        "head": "安卡拉",
+        "relation": "成",
+        "tail_id": "99",
+        "tail": "东 罗马 帝国 的 一 部分"
+    },
+    {
+        "head_id": "2810",
+        "head": "欧麦尔 的 坚决 反对 先知 穆罕默德",
+        "relation": "积极 迫害",
+        "tail_id": "4773",
+        "tail": "穆斯林"
+    },
+    {
+        "head_id": "4787",
+        "head": "现代 加拿大 国家 象征",
+        "relation": "深受",
+        "tail_id": "3201",
+        "tail": "自然"
+    },
+    {
+        "head_id": "2036",
+        "head": "安卡拉",
+        "relation": "有",
+        "tail_id": "2563",
+        "tail": "許多 罗 马 时期 的 遗迹"
+    },
+    {
+        "head_id": "2701",
+        "head": "澳大利亚 大陆",
+        "relation": "属於",
+        "tail_id": "639",
+        "tail": "澳大利 亚 人"
+    },
+    {
+        "head_id": "2253",
+        "head": "该国",
+        "relation": "已经 施打",
+        "tail_id": "3157",
+        "tail": "逾 2180万 剂 新冠 疫苗"
+    },
+    {
+        "head_id": "2036",
+        "head": "安卡拉",
+        "relation": "共有",
+        "tail_id": "4279",
+        "tail": "两条 铁 路 穿越 埃森博阿国际機 场"
+    },
+    {
+        "head_id": "2776",
+        "head": "伊拉克",
+        "relation": "尽可 能 满足",
+        "tail_id": "4430",
+        "tail": "人道 救济 的 需求"
+    },
+    {
+        "head_id": "209",
+        "head": "利比亚",
+        "relation": "政體",
+        "tail_id": "2703",
+        "tail": "类似 于 混合 型 政體"
+    },
+    {
+        "head_id": "2737",
+        "head": "科学",
+        "relation": "所 定义",
+        "tail_id": "509",
+        "tail": "卡尔 · 波普尔"
+    },
+    {
+        "head_id": "2324",
+        "head": "先知 穆罕默德",
+        "relation": "迁徙",
+        "tail_id": "1738",
+        "tail": "麦地那"
+    },
+    {
+        "head_id": "1351",
+        "head": "美国",
+        "relation": "完成",
+        "tail_id": "430",
+        "tail": "400多万 剂 莫德纳 疫苗 的 注射"
+    },
+    {
+        "head_id": "2080",
+        "head": "这",
+        "relation": "是",
+        "tail_id": "4395",
+        "tail": "一 个 关鍵 性 的 行动"
+    },
+    {
+        "head_id": "2927",
+        "head": "欧盟",
+        "relation": "重新 谈判",
+        "tail_id": "671",
+        "tail": "就 脱 欧 协议"
+    },
+    {
+        "head_id": "1870",
+        "head": "今天 的 浦那",
+        "relation": "是",
+        "tail_id": "1998",
+        "tail": "印度 一些 非常 重要 的 研究 机构 的 驻地"
+    },
+    {
+        "head_id": "3114",
+        "head": "马赛 城市",
+        "relation": "是",
+        "tail_id": "2337",
+        "tail": "法国 地 中海 沿岸 一 个 重要 的 铁路 枢纽"
+    },
+    {
+        "head_id": "1238",
+        "head": "第一 套 行动 电话 及 呼叫 器",
+        "relation": "传到",
+        "tail_id": "2281",
+        "tail": "中国"
+    },
+    {
+        "head_id": "130",
+        "head": "佛教",
+        "relation": "显露",
+        "tail_id": "992",
+        "tail": "出 现 代化 特征"
+    },
+    {
+        "head_id": "4238",
+        "head": "印度 河 及 其他 好几 条 支流",
+        "relation": "都是 流入",
+        "tail_id": "2331",
+        "tail": "巴基斯坦"
+    },
+    {
+        "head_id": "4661",
+        "head": "信息",
+        "relation": "管理",
+        "tail_id": "3342",
+        "tail": "该網 站 系统 所"
+    },
+    {
+        "head_id": "4289",
+        "head": "古兰经",
+        "relation": "是",
+        "tail_id": "1668",
+        "tail": "神授 启示"
+    },
+    {
+        "head_id": "347",
+        "head": "亚美尼亚 、 阿塞拜 疆 和 塔吉克斯坦",
+        "relation": "仅好 于 陷入",
+        "tail_id": "3148",
+        "tail": "战争"
+    },
+    {
+        "head_id": "2793",
+        "head": "疫苗",
+        "relation": "仍然",
+        "tail_id": "2971",
+        "tail": "过 于 昂贵"
+    },
+    {
+        "head_id": "1351",
+        "head": "美国",
+        "relation": "希望",
+        "tail_id": "1362",
+        "tail": "萨达姆 · 侯赛 因 会 被 内部 政变 推翻"
+    },
+    {
+        "head_id": "1351",
+        "head": "美国",
+        "relation": "将 追着",
+        "tail_id": "2599",
+        "tail": "伊斯兰 国"
+    },
+    {
+        "head_id": "3520",
+        "head": "印度",
+        "relation": "获得",
+        "tail_id": "4173",
+        "tail": "两面 銀牌"
+    },
+    {
+        "head_id": "2927",
+        "head": "欧盟",
+        "relation": "同意",
+        "tail_id": "2382",
+        "tail": "对 脱 欧 协议 进行 修改"
+    },
+    {
+        "head_id": "1591",
+        "head": "每 9 人",
+        "relation": "收看",
+        "tail_id": "1574",
+        "tail": "世界 上"
+    },
+    {
+        "head_id": "349",
+        "head": "劳工",
+        "relation": "是 进入",
+        "tail_id": "3142",
+        "tail": "欧洲"
+    },
+    {
+        "head_id": "2435",
+        "head": "文化",
+        "relation": "有",
+        "tail_id": "2041",
+        "tail": "社会 组织 及 分工"
+    },
+    {
+        "head_id": "1258",
+        "head": "班 加罗尔",
+        "relation": "也 被",
+        "tail_id": "840",
+        "tail": "英 国 东 印度 公司"
+    },
+    {
+        "head_id": "1258",
+        "head": "班 加罗尔",
+        "relation": "发展",
+        "tail_id": "3690",
+        "tail": "成重 工业 的 中心"
+    },
+    {
+        "head_id": "4477",
+        "head": "香港",
+        "relation": "表 现",
+        "tail_id": "503",
+        "tail": "在 多 次 金融 衝击"
+    },
+    {
+        "head_id": "4942",
+        "head": "其中",
+        "relation": "有",
+        "tail_id": "345",
+        "tail": "3.28% 为 两 个 或 多 个 种族 混血"
+    },
+    {
+        "head_id": "4200",
+        "head": "英国 政府",
+        "relation": "通过",
+        "tail_id": "1854",
+        "tail": "在 下议 院"
+    },
+    {
+        "head_id": "3114",
+        "head": "马赛 城市",
+        "relation": "也是",
+        "tail_id": "1089",
+        "tail": "欧洲 犹太 人 数量 第三 多 的 法国 城市"
+    },
+    {
+        "head_id": "2080",
+        "head": "这",
+        "relation": "是",
+        "tail_id": "792",
+        "tail": "一 场 騙局"
+    },
+    {
+        "head_id": "346",
+        "head": "乙酸",
+        "relation": "是",
+        "tail_id": "1108",
+        "tail": "第二 简单 的 羧酸 ( 仅 次 于 甲酸"
+    },
+    {
+        "head_id": "3123",
+        "head": "科索沃",
+        "relation": "宣布",
+        "tail_id": "4580",
+        "tail": "独立 事件"
+    },
+    {
+        "head_id": "4832",
+        "head": "汽车",
+        "relation": "运行",
+        "tail_id": "379",
+        "tail": "道路 交通 公司"
+    },
+    {
+        "head_id": "2036",
+        "head": "安卡拉",
+        "relation": "有",
+        "tail_id": "2777",
+        "tail": "25 个 区"
+    },
+    {
+        "head_id": "954",
+        "head": "马歇尔",
+        "relation": "的 前 总统",
+        "tail_id": "4852",
+        "tail": "莫桑比克"
+    },
+    {
+        "head_id": "1087",
+        "head": "澳洲 政府",
+        "relation": "非常 重视",
+        "tail_id": "3133",
+        "tail": "对 这些 珍贵 自然 遗存 的 保护"
+    },
+    {
+        "head_id": "143",
+        "head": "美利 堅 联 盟 国",
+        "relation": "继续",
+        "tail_id": "3148",
+        "tail": "战争"
+    },
+    {
+        "head_id": "2672",
+        "head": "多 条 河流",
+        "relation": "通称",
+        "tail_id": "3520",
+        "tail": "印度"
+    },
+    {
+        "head_id": "2036",
+        "head": "安卡拉",
+        "relation": "建立",
+        "tail_id": "674",
+        "tail": "于 1178"
+    },
+    {
+        "head_id": "4661",
+        "head": "信息",
+        "relation": "请求",
+        "tail_id": "4105",
+        "tail": "自 法"
+    },
+    {
+        "head_id": "3477",
+        "head": "Windows 10",
+        "relation": "将 持续 接收",
+        "tail_id": "2926",
+        "tail": "更新"
+    },
+    {
+        "head_id": "4942",
+        "head": "其中",
+        "relation": "包括",
+        "tail_id": "2175",
+        "tail": "一 种 病毒 酵素"
+    },
+    {
+        "head_id": "1748",
+        "head": "现代 加拿大",
+        "relation": "拥有",
+        "tail_id": "2760",
+        "tail": "世界 上 最长 的 海岸 线"
+    },
+    {
+        "head_id": "304",
+        "head": "萧伯纳",
+        "relation": "为",
+        "tail_id": "4890",
+        "tail": "乔治 · 伯纳德 · 蕭"
+    },
+    {
+        "head_id": "4234",
+        "head": "拉马努 金天",
+        "relation": "带到",
+        "tail_id": "4853",
+        "tail": "英国"
+    },
+    {
+        "head_id": "4477",
+        "head": "香港",
+        "relation": "位",
+        "tail_id": "1937",
+        "tail": "于 中途 站"
+    },
+    {
+        "head_id": "1065",
+        "head": "法律",
+        "relation": "只限",
+        "tail_id": "219",
+        "tail": "于 一 国 主权 范围 内 适用"
+    },
+    {
+        "head_id": "1301",
+        "head": "Bamako",
+        "relation": "作 为",
+        "tail_id": "3140",
+        "tail": "首都"
+    },
+    {
+        "head_id": "303",
+        "head": "新加坡 共和 国",
+        "relation": "寻求",
+        "tail_id": "4256",
+        "tail": "国际 承认"
+    },
+    {
+        "head_id": "4169",
+        "head": "626,628 名 欧洲 移民",
+        "relation": "进入",
+        "tail_id": "1748",
+        "tail": "现代 加拿大"
+    },
+    {
+        "head_id": "3377",
+        "head": "硝酸",
+        "relation": "认为",
+        "tail_id": "2885",
+        "tail": "硝酸 的 水 溶液 是 完全 电离"
+    },
+    {
+        "head_id": "4636",
+        "head": "HTML 的 子集",
+        "relation": "示範 该網 站 的 域模型 显示",
+        "tail_id": "4661",
+        "tail": "信息"
+    },
+    {
+        "head_id": "3520",
+        "head": "印度",
+        "relation": "日 达成",
+        "tail_id": "4492",
+        "tail": "与 俄国"
+    },
+    {
+        "head_id": "1629",
+        "head": "雅典",
+        "relation": "出现",
+        "tail_id": "229",
+        "tail": "职业 烘 焙师"
+    },
+    {
+        "head_id": "1065",
+        "head": "法律",
+        "relation": "应 该 交付 给 自由, 让",
+        "tail_id": "2322",
+        "tail": "权力 意志 得以 推进"
+    },
+    {
+        "head_id": "2992",
+        "head": "城市",
+        "relation": "并 没有",
+        "tail_id": "445",
+        "tail": "一 个 明确 的 定义 和 标准"
+    },
+    {
+        "head_id": "296",
+        "head": "大学 专院",
+        "relation": "提供",
+        "tail_id": "4188",
+        "tail": "教育"
+    },
+    {
+        "head_id": "2316",
+        "head": "海峽 两岸 关係",
+        "relation": "安撫",
+        "tail_id": "1351",
+        "tail": "美国"
+    },
+    {
+        "head_id": "2045",
+        "head": "用户",
+        "relation": "注册",
+        "tail_id": "1812",
+        "tail": "Windows"
+    },
+    {
+        "head_id": "4085",
+        "head": "澳大利亚",
+        "relation": "允許",
+        "tail_id": "293",
+        "tail": "5 岁 至 11 岁 儿童 提供 辉瑞 疫苗 接种"
+    },
+    {
+        "head_id": "2981",
+        "head": "皮膚",
+        "relation": "免受",
+        "tail_id": "72",
+        "tail": "陽光 的 傷害"
+    },
+    {
+        "head_id": "3526",
+        "head": "数学",
+        "relation": "成",
+        "tail_id": "2727",
+        "tail": "只 是 某种 公理 化 的 集合"
+    },
+    {
+        "head_id": "169",
+        "head": "政府",
+        "relation": "会 发放",
+        "tail_id": "3129",
+        "tail": "相当 于 当 今 職 业 运 动員 的 薪水"
+    },
+    {
+        "head_id": "2466",
+        "head": "生命",
+        "relation": "看来",
+        "tail_id": "4560",
+        "tail": "在 印度 教"
+    },
+    {
+        "head_id": "1258",
+        "head": "班 加罗尔",
+        "relation": "的 所在",
+        "tail_id": "3272",
+        "tail": "许多 教育 和 研究 机构"
+    },
+    {
+        "head_id": "4441",
+        "head": "毗卢遮那佛",
+        "relation": "显现",
+        "tail_id": "4837",
+        "tail": "为 菩萨 形象"
+    },
+    {
+        "head_id": "4093",
+        "head": "世界 排名 已跌 至 286 名 的 林丹",
+        "relation": "参加",
+        "tail_id": "70",
+        "tail": "了 瑞士 大奖 赛"
+    },
+    {
+        "head_id": "1720",
+        "head": "安东尼奥 · 皮加費塔",
+        "relation": "通称",
+        "tail_id": "4032",
+        "tail": "柬埔寨"
+    },
+    {
+        "head_id": "3459",
+        "head": "毛 里求斯 本岛",
+        "relation": "实行",
+        "tail_id": "6",
+        "tail": "多 党 制"
+    },
+    {
+        "head_id": "2143",
+        "head": "其中 大 部分",
+        "relation": "是 进入",
+        "tail_id": "4494",
+        "tail": "土耳其"
+    },
+    {
+        "head_id": "2466",
+        "head": "生命",
+        "relation": "不是",
+        "tail_id": "1611",
+        "tail": "以 生 为 始, 以 死告 终"
+    },
+    {
+        "head_id": "956",
+        "head": "Google",
+        "relation": "公布",
+        "tail_id": "3298",
+        "tail": "「 时代 精神 」 名单"
+    },
+    {
+        "head_id": "3787",
+        "head": "西班牙 政府",
+        "relation": "不应 该 掩 盖",
+        "tail_id": "4545",
+        "tail": "事實"
+    },
+    {
+        "head_id": "2809",
+        "head": "唾液",
+        "relation": "能 起到",
+        "tail_id": "51",
+        "tail": "保护 性 的 作用"
+    },
+    {
+        "head_id": "4477",
+        "head": "香港",
+        "relation": "出现",
+        "tail_id": "3413",
+        "tail": "第一 份 中国 人办 的 报章"
+    },
+    {
+        "head_id": "3550",
+        "head": "古 印度 人",
+        "relation": "逐渐 变成",
+        "tail_id": "3485",
+        "tail": "0"
+    },
+    {
+        "head_id": "1766",
+        "head": "患者",
+        "relation": "患脑",
+        "tail_id": "3898",
+        "tail": "膜 炎"
+    },
+    {
+        "head_id": "1960",
+        "head": "在 毛 里求斯 本岛 最 流行 的 运动",
+        "relation": "是",
+        "tail_id": "1014",
+        "tail": "足球"
+    },
+    {
+        "head_id": "283",
+        "head": "副 总统 阿氏",
+        "relation": "流亡",
+        "tail_id": "3103",
+        "tail": "巴西"
+    },
+    {
+        "head_id": "1974",
+        "head": "林丹",
+        "relation": "参加",
+        "tail_id": "3482",
+        "tail": "世界 羽毛 球 锦标 赛"
+    },
+    {
+        "head_id": "2080",
+        "head": "这",
+        "relation": "有效 地 解决",
+        "tail_id": "3394",
+        "tail": "其他 城市 普遍 存在 的 交通 堵塞 问题"
+    },
+    {
+        "head_id": "4414",
+        "head": "诸天 神 和 众 阿修罗",
+        "relation": "共 搅乳",
+        "tail_id": "3449",
+        "tail": "海"
+    },
+    {
+        "head_id": "3094",
+        "head": "婆罗 门",
+        "relation": "学",
+        "tail_id": "1696",
+        "tail": "四 吠陀 论"
+    },
+    {
+        "head_id": "4731",
+        "head": "农业",
+        "relation": "是",
+        "tail_id": "3615",
+        "tail": "尼日尔 共和 国"
+    },
+    {
+        "head_id": "3459",
+        "head": "毛 里求斯 本岛",
+        "relation": "成 为",
+        "tail_id": "3167",
+        "tail": "水上 运动 的"
+    },
+    {
+        "head_id": "3569",
+        "head": "巴拉圭",
+        "relation": "举行",
+        "tail_id": "1905",
+        "tail": "总统 大选"
+    },
+    {
+        "head_id": "543",
+        "head": "国家",
+        "relation": "手持",
+        "tail_id": "1753",
+        "tail": "麦穗"
+    },
+    {
+        "head_id": "2126",
+        "head": "德国",
+        "relation": "展开",
+        "tail_id": "1674",
+        "tail": "为期 3 天 的 柏林 墙倒 塌 25 周年 庆祝"
+    },
+    {
+        "head_id": "1065",
+        "head": "法律",
+        "relation": "应 该 交付",
+        "tail_id": "2682",
+        "tail": "给 自由"
+    },
+    {
+        "head_id": "3119",
+        "head": "拿那克",
+        "relation": "去 朝觐",
+        "tail_id": "4214",
+        "tail": "麦加"
+    },
+    {
+        "head_id": "1969",
+        "head": "马斯喀特",
+        "relation": "地称",
+        "tail_id": "4841",
+        "tail": "首都 区域"
+    },
+    {
+        "head_id": "4521",
+        "head": "罗杰 · 艾伯特",
+        "relation": "反映",
+        "tail_id": "2564",
+        "tail": "本片"
+    },
+    {
+        "head_id": "2380",
+        "head": "冬天 的 巴黎",
+        "relation": "具有",
+        "tail_id": "3347",
+        "tail": "濃厚 的 文化 或 意識 形態 意味"
+    },
+    {
+        "head_id": "169",
+        "head": "政府",
+        "relation": "提出",
+        "tail_id": "3331",
+        "tail": "妥协 性 税收 方案"
+    },
+    {
+        "head_id": "2034",
+        "head": "细菌",
+        "relation": "进入",
+        "tail_id": "3753",
+        "tail": "血液 循環"
+    },
+    {
+        "head_id": "4717",
+        "head": "眼",
+        "relation": "看",
+        "tail_id": "3869",
+        "tail": "着 大势 将 去"
+    },
+    {
+        "head_id": "4769",
+        "head": "白宮",
+        "relation": "发表",
+        "tail_id": "4302",
+        "tail": "第一 次 讨论 这 疾病"
+    },
+    {
+        "head_id": "539",
+        "head": "禅宗",
+        "relation": "看",
+        "tail_id": "1439",
+        "tail": "净土 宗"
+    },
+    {
+        "head_id": "3971",
+        "head": "伊斯兰教",
+        "relation": "包括",
+        "tail_id": "406",
+        "tail": "多 情 及 嘲諷 伊斯兰教 的 圣战"
+    },
+    {
+        "head_id": "769",
+        "head": "貧窮",
+        "relation": "情况",
+        "tail_id": "4022",
+        "tail": "在 65 岁 或 以上 老 人 中 尤其 严重"
+    },
+    {
+        "head_id": "4728",
+        "head": "卡尔 · 马克思",
+        "relation": "移居",
+        "tail_id": "156",
+        "tail": "法國 巴黎"
+    },
+    {
+        "head_id": "2324",
+        "head": "先知 穆罕默德",
+        "relation": "除",
+        "tail_id": "1476",
+        "tail": "偶像"
+    },
+    {
+        "head_id": "2594",
+        "head": "病毒",
+        "relation": "传入",
+        "tail_id": "2984",
+        "tail": "不同 途径"
+    },
+    {
+        "head_id": "3485",
+        "head": "0",
+        "relation": "为",
+        "tail_id": "3669",
+        "tail": "最腐 化"
+    },
+    {
+        "head_id": "4011",
+        "head": "的 铁矿砂",
+        "relation": "出产",
+        "tail_id": "838",
+        "tail": "瑞典"
+    },
+    {
+        "head_id": "3477",
+        "head": "Windows 10",
+        "relation": "支持",
+        "tail_id": "2822",
+        "tail": "Matroska格 式 的 媒体"
+    },
+    {
+        "head_id": "835",
+        "head": "西藏",
+        "relation": "爆发",
+        "tail_id": "148",
+        "tail": "两 次 伤寒 大 流行"
+    },
+    {
+        "head_id": "98",
+        "head": "酸雨",
+        "relation": "可能 破壞",
+        "tail_id": "2568",
+        "tail": "特定 的 建筑 材料 和 石雕"
+    },
+    {
+        "head_id": "3520",
+        "head": "印度",
+        "relation": "抵挡 住 了 克什米尔 解放 军 的 进攻 防止",
+        "tail_id": "4059",
+        "tail": "斯利那加 被 占"
+    },
+    {
+        "head_id": "2592",
+        "head": "詹姆斯 · 瓦特",
+        "relation": "心思",
+        "tail_id": "1986",
+        "tail": "细腻"
+    },
+    {
+        "head_id": "4995",
+        "head": "浦那",
+        "relation": "开始",
+        "tail_id": "77",
+        "tail": "从 19 世纪"
+    },
+    {
+        "head_id": "57",
+        "head": "23,148,669 名 游客",
+        "relation": "到访",
+        "tail_id": "4494",
+        "tail": "土耳其"
+    },
+    {
+        "head_id": "4409",
+        "head": "大量",
+        "relation": "移居",
+        "tail_id": "3114",
+        "tail": "马赛 城市"
+    },
+    {
+        "head_id": "169",
+        "head": "政府",
+        "relation": "开始",
+        "tail_id": "1174",
+        "tail": "在 新界 各區 发展 香港 新市 镇"
+    },
+    {
+        "head_id": "695",
+        "head": "Windows 7",
+        "relation": "使用",
+        "tail_id": "4267",
+        "tail": "屏幕 的 一 部分"
+    },
+    {
+        "head_id": "3838",
+        "head": "的 几乎 每个 城市",
+        "relation": "可 飞往",
+        "tail_id": "4494",
+        "tail": "土耳其"
+    },
+    {
+        "head_id": "4231",
+        "head": "历史",
+        "relation": "没有 使用",
+        "tail_id": "1058",
+        "tail": "黑人 奴隶"
+    },
+    {
+        "head_id": "3520",
+        "head": "印度",
+        "relation": "变成",
+        "tail_id": "2816",
+        "tail": "今天 的 晚上 的 乐吶"
+    },
+    {
+        "head_id": "118",
+        "head": "父亲",
+        "relation": "就 教他",
+        "tail_id": "1900",
+        "tail": "拉丁 语 、 宗教 和 地理"
+    },
+    {
+        "head_id": "3925",
+        "head": "圣战",
+        "relation": "嘲諷",
+        "tail_id": "3971",
+        "tail": "伊斯兰教"
+    },
+    {
+        "head_id": "4154",
+        "head": "基因",
+        "relation": "是",
+        "tail_id": "3514",
+        "tail": "脱氧 核醣 核酸 的 一 段 区域"
+    },
+    {
+        "head_id": "1300",
+        "head": "萨缪尔 · 芬利 · 布里斯 · 摩尔斯",
+        "relation": "的 发明",
+        "tail_id": "1351",
+        "tail": "美国"
+    },
+    {
+        "head_id": "4242",
+        "head": "英國",
+        "relation": "进入",
+        "tail_id": "1035",
+        "tail": "脱 欧过 渡期"
+    },
+    {
+        "head_id": "3816",
+        "head": "柏林",
+        "relation": "是",
+        "tail_id": "2713",
+        "tail": "一 个 “ 自由 的 城市"
+    },
+    {
+        "head_id": "3477",
+        "head": "Windows 10",
+        "relation": "引入",
+        "tail_id": "4",
+        "tail": "通用 Windows 平台"
+    },
+    {
+        "head_id": "4361",
+        "head": "意大利 在 军事 同盟 的 倾向 性",
+        "relation": "偏向",
+        "tail_id": "2221",
+        "tail": "德国 与 意大利"
+    },
+    {
+        "head_id": "3217",
+        "head": "电信 诈骗",
+        "relation": "非法 获取",
+        "tail_id": "4661",
+        "tail": "信息"
+    },
+    {
+        "head_id": "3377",
+        "head": "硝酸",
+        "relation": "有",
+        "tail_id": "74",
+        "tail": "氧化 性 和 腐蚀"
+    },
+    {
+        "head_id": "2750",
+        "head": "二氧化氮",
+        "relation": "溶於",
+        "tail_id": "1356",
+        "tail": "水生"
+    },
+    {
+        "head_id": "3997",
+        "head": "乙醚",
+        "relation": "是",
+        "tail_id": "2319",
+        "tail": "最 简單 的 醚类"
+    },
+    {
+        "head_id": "2911",
+        "head": "卡特斯 总统",
+        "relation": "访问",
+        "tail_id": "3414",
+        "tail": "阿根廷"
+    },
+    {
+        "head_id": "1887",
+        "head": "海因里希 · 赫兹",
+        "relation": "做",
+        "tail_id": "1941",
+        "tail": "实验"
+    },
+    {
+        "head_id": "4233",
+        "head": "人",
+        "relation": "雇用",
+        "tail_id": "4983",
+        "tail": "雕塑"
+    },
+    {
+        "head_id": "1870",
+        "head": "今天 的 浦那",
+        "relation": "被 纳入",
+        "tail_id": "3651",
+        "tail": "孟买管 辖区 管理"
+    },
+    {
+        "head_id": "3121",
+        "head": "法语",
+        "relation": "取代",
+        "tail_id": "2779",
+        "tail": "拉丁 语 、 方言 和 其他 地方 性 语言"
+    },
+    {
+        "head_id": "2494",
+        "head": "东边",
+        "relation": "紧邻",
+        "tail_id": "2281",
+        "tail": "中国"
+    },
+    {
+        "head_id": "4477",
+        "head": "香港",
+        "relation": "特指",
+        "tail_id": "948",
+        "tail": "铁坑 对面 的 小島"
+    },
+    {
+        "head_id": "3477",
+        "head": "Windows 10",
+        "relation": "将 自由 接收",
+        "tail_id": "4894",
+        "tail": "更 新 的 “ 支持 设备 寿命"
+    },
+    {
+        "head_id": "1974",
+        "head": "林丹",
+        "relation": "亦 成",
+        "tail_id": "865",
+        "tail": "第一 五 夺 中国 公开 赛 的 選手"
+    },
+    {
+        "head_id": "4245",
+        "head": "撒切尔夫 人",
+        "relation": "飛到",
+        "tail_id": "3083",
+        "tail": "北京"
+    },
+    {
+        "head_id": "2380",
+        "head": "冬天 的 巴黎",
+        "relation": "也是",
+        "tail_id": "4463",
+        "tail": "法國多 数 国际 大 企业 的 总部 所 在"
+    },
+    {
+        "head_id": "1991",
+        "head": "新 闻業 的 行为",
+        "relation": "不是",
+        "tail_id": "464",
+        "tail": "犯罪"
+    },
+    {
+        "head_id": "4995",
+        "head": "浦那",
+        "relation": "开始",
+        "tail_id": "605",
+        "tail": "吸引 外国 资本"
+    },
+    {
+        "head_id": "685",
+        "head": "曲柄 专利",
+        "relation": "阻碍",
+        "tail_id": "2592",
+        "tail": "詹姆斯 · 瓦特"
+    },
+    {
+        "head_id": "3477",
+        "head": "Windows 10",
+        "relation": "到达",
+        "tail_id": "708",
+        "tail": "原定 的 主流 支持 期限"
+    },
+    {
+        "head_id": "2343",
+        "head": "石油",
+        "relation": "是",
+        "tail_id": "4392",
+        "tail": "经济 支柱"
+    },
+    {
+        "head_id": "1292",
+        "head": "李 慧詩",
+        "relation": "的 运动 员",
+        "tail_id": "4477",
+        "tail": "香港"
+    },
+    {
+        "head_id": "507",
+        "head": "怀 疑病 毒源 头",
+        "relation": "是",
+        "tail_id": "2281",
+        "tail": "中国"
+    },
+    {
+        "head_id": "1351",
+        "head": "美国",
+        "relation": "跌 落",
+        "tail_id": "1944",
+        "tail": "財政 懸崖"
+    },
+    {
+        "head_id": "915",
+        "head": "臭氧",
+        "relation": "暴露",
+        "tail_id": "2967",
+        "tail": "在 0.1-1 ppm"
+    },
+    {
+        "head_id": "1227",
+        "head": "该網 站 在 美国 的 访问 人 数",
+        "relation": "已 超越",
+        "tail_id": "956",
+        "tail": "Google"
+    },
+    {
+        "head_id": "169",
+        "head": "政府",
+        "relation": "提供",
+        "tail_id": "3240",
+        "tail": "购买 组屋 津贴"
+    },
+    {
+        "head_id": "65",
+        "head": "地球",
+        "relation": "也 可以 视为",
+        "tail_id": "4534",
+        "tail": "慣性 参 考系"
+    },
+    {
+        "head_id": "3534",
+        "head": "生物",
+        "relation": "适应",
+        "tail_id": "1305",
+        "tail": "环境"
+    },
+    {
+        "head_id": "3772",
+        "head": "白俄罗斯",
+        "relation": "未 被",
+        "tail_id": "2759",
+        "tail": "鞑靼 蒙古"
+    },
+    {
+        "head_id": "854",
+        "head": "独立 后 的 美国",
+        "relation": "遭到",
+        "tail_id": "490",
+        "tail": "基督 徒 的 批判"
+    },
+    {
+        "head_id": "2002",
+        "head": "穆罕默德 二世",
+        "relation": "开始 试图 复苏",
+        "tail_id": "337",
+        "tail": "该城"
+    },
+    {
+        "head_id": "566",
+        "head": "村",
+        "relation": "建立",
+        "tail_id": "751",
+        "tail": "共产 主义"
+    },
+    {
+        "head_id": "883",
+        "head": "查士丁尼大 帝成 文法",
+        "relation": "合併",
+        "tail_id": "1065",
+        "tail": "法律"
+    },
+    {
+        "head_id": "2080",
+        "head": "这",
+        "relation": "不 符合",
+        "tail_id": "4746",
+        "tail": "自由 软件 的 定义"
+    },
+    {
+        "head_id": "1450",
+        "head": "大 多数 无线 局域 网",
+        "relation": "使用",
+        "tail_id": "723",
+        "tail": "Wi-Fi"
+    },
+    {
+        "head_id": "3463",
+        "head": "邓",
+        "relation": "提出 冲出",
+        "tail_id": "1463",
+        "tail": "亚洲"
+    },
+    {
+        "head_id": "1748",
+        "head": "现代 加拿大",
+        "relation": "合力 解决",
+        "tail_id": "2674",
+        "tail": "世界 问题"
+    },
+    {
+        "head_id": "20",
+        "head": "美国 政府",
+        "relation": "转 变 为",
+        "tail_id": "2579",
+        "tail": "从 原本 世界 最大 的 债权 国"
+    },
+    {
+        "head_id": "1870",
+        "head": "今天 的 浦那",
+        "relation": "有",
+        "tail_id": "559",
+        "tail": "一 地 称作 的 农民 住处"
+    },
+    {
+        "head_id": "2781",
+        "head": "俄罗斯",
+        "relation": "亦 不 准許",
+        "tail_id": "1709",
+        "tail": "European Union Monitoring Mission"
+    },
+    {
+        "head_id": "505",
+        "head": "纳粹 德國",
+        "relation": "占领",
+        "tail_id": "3170",
+        "tail": "阿尔巴尼亞 共和"
+    },
+    {
+        "head_id": "3548",
+        "head": "黑天",
+        "relation": "是",
+        "tail_id": "561",
+        "tail": "第8 个 儿子"
+    },
+    {
+        "head_id": "2736",
+        "head": "英迪拉 · 普里雅达希尼 · 甘地",
+        "relation": "修改",
+        "tail_id": "1917",
+        "tail": "宪法"
+    },
+    {
+        "head_id": "2034",
+        "head": "细菌",
+        "relation": "可以 直接 进入",
+        "tail_id": "1603",
+        "tail": "蛛网 膜 下腔"
+    },
+    {
+        "head_id": "2333",
+        "head": "阿那克西曼德",
+        "relation": "留下",
+        "tail_id": "4287",
+        "tail": "只有 一 篇 残篇"
+    },
+    {
+        "head_id": "2331",
+        "head": "巴基斯坦",
+        "relation": "得到",
+        "tail_id": "1624",
+        "tail": "约 2 /3 的 领土"
+    },
+    {
+        "head_id": "3114",
+        "head": "马赛 城市",
+        "relation": "下辖",
+        "tail_id": "1056",
+        "tail": "马赛 区"
+    },
+    {
+        "head_id": "2036",
+        "head": "安卡拉",
+        "relation": "成",
+        "tail_id": "2595",
+        "tail": "土耳其 共和 国 的 新 首都"
+    },
+    {
+        "head_id": "3589",
+        "head": "瘟疫",
+        "relation": "也 曾 被 这 来 当成",
+        "tail_id": "2378",
+        "tail": "生物 武器"
+    },
+    {
+        "head_id": "3504",
+        "head": "穆罕默德",
+        "relation": "沿用",
+        "tail_id": "4961",
+        "tail": "这种 制度"
+    },
+    {
+        "head_id": "3148",
+        "head": "战争",
+        "relation": "需要",
+        "tail_id": "1723",
+        "tail": "更多 的 士兵"
+    },
+    {
+        "head_id": "3569",
+        "head": "巴拉圭",
+        "relation": "为",
+        "tail_id": "667",
+        "tail": "0.728"
+    },
+    {
+        "head_id": "2080",
+        "head": "这",
+        "relation": "使用",
+        "tail_id": "2721",
+        "tail": "第一 次"
+    },
+    {
+        "head_id": "3027",
+        "head": "最高 法院",
+        "relation": "提名",
+        "tail_id": "4152",
+        "tail": "8 名 得票 最多 的 败选 者"
+    },
+    {
+        "head_id": "488",
+        "head": "的 土地",
+        "relation": "为覆 盖",
+        "tail_id": "207",
+        "tail": "灌木"
+    },
+    {
+        "head_id": "1054",
+        "head": "甲型 H1N1 流感 病毒",
+        "relation": "进逼",
+        "tail_id": "1463",
+        "tail": "亚洲"
+    },
+    {
+        "head_id": "1609",
+        "head": "湿婆",
+        "relation": "去引",
+        "tail_id": "2347",
+        "tail": "湿婆 出 加德满 都 山谷"
+    },
+    {
+        "head_id": "2080",
+        "head": "这",
+        "relation": "表明",
+        "tail_id": "3874",
+        "tail": "中国 劳工 不太 可能 成 原始 宿主"
+    },
+    {
+        "head_id": "2281",
+        "head": "中国",
+        "relation": "恢复",
+        "tail_id": "1622",
+        "tail": "正常 的 宗教 活动"
+    },
+    {
+        "head_id": "2841",
+        "head": "俗语",
+        "relation": "也 将 比较 大 的 称 为",
+        "tail_id": "1032",
+        "tail": "树"
+    },
+    {
+        "head_id": "4942",
+        "head": "其中",
+        "relation": "包括",
+        "tail_id": "1350",
+        "tail": "今天 的 浦那 快速 汽车 运输 系统"
+    },
+    {
+        "head_id": "1766",
+        "head": "患者",
+        "relation": "已 罹有",
+        "tail_id": "3985",
+        "tail": "肝臟 相关 疾病"
+    },
+    {
+        "head_id": "1258",
+        "head": "班 加罗尔",
+        "relation": "位",
+        "tail_id": "3488",
+        "tail": "于 印度 南部 的 德干 高原"
+    },
+    {
+        "head_id": "360",
+        "head": "本片 DVD 、 蓝光 和 数字 高清",
+        "relation": "登陆",
+        "tail_id": "4853",
+        "tail": "英国"
+    },
+    {
+        "head_id": "1277",
+        "head": "墨西哥",
+        "relation": "城位",
+        "tail_id": "2969",
+        "tail": "于 柯本 气候 分类法 : Cwb"
+    },
+    {
+        "head_id": "3478",
+        "head": "海拔",
+        "relation": "只有",
+        "tail_id": "364",
+        "tail": "60-90 米"
+    },
+    {
+        "head_id": "169",
+        "head": "政府",
+        "relation": "不能 做",
+        "tail_id": "153",
+        "tail": "任何 事情, 除非 法律 許可"
+    },
+    {
+        "head_id": "2917",
+        "head": "太阳",
+        "relation": "不断 地 被 消耗",
+        "tail_id": "4460",
+        "tail": "在 地球"
+    },
+    {
+        "head_id": "4542",
+        "head": "舞蹈",
+        "relation": "是",
+        "tail_id": "4629",
+        "tail": "上海"
+    },
+    {
+        "head_id": "3702",
+        "head": "微软",
+        "relation": "首度 释出 Skype 翻译 给 开发 者 支援",
+        "tail_id": "319",
+        "tail": "英文 和 西班牙 文 的 语音 翻译"
+    },
+    {
+        "head_id": "4477",
+        "head": "香港",
+        "relation": "感染",
+        "tail_id": "755",
+        "tail": "140万 人"
+    },
+    {
+        "head_id": "4344",
+        "head": "铅",
+        "relation": "是",
+        "tail_id": "1813",
+        "tail": "水管 的 常用 材料"
+    },
+    {
+        "head_id": "1870",
+        "head": "今天 的 浦那",
+        "relation": "发展",
+        "tail_id": "763",
+        "tail": "1947 年 印度 独立 法生 效后"
+    },
+    {
+        "head_id": "562",
+        "head": "德國",
+        "relation": "发起",
+        "tail_id": "396",
+        "tail": "对卡尔 · 卡尔可夫"
+    },
+    {
+        "head_id": "4882",
+        "head": "哈佛 大学 的",
+        "relation": "支持",
+        "tail_id": "1278",
+        "tail": "开放 获取 文化"
+    },
+    {
+        "head_id": "4773",
+        "head": "穆斯林",
+        "relation": "搶 掠",
+        "tail_id": "3015",
+        "tail": "这 座 城市 长 达 六 个 月后"
+    },
+    {
+        "head_id": "4945",
+        "head": "男性",
+        "relation": "会 有",
+        "tail_id": "3441",
+        "tail": "乳头 坚 挺 感应"
+    },
+    {
+        "head_id": "118",
+        "head": "父亲",
+        "relation": "移民",
+        "tail_id": "4638",
+        "tail": "从 东欧"
+    }
+]

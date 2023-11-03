@@ -1,0 +1,3852 @@
+[
+    {
+        "head_id": "7895",
+        "head": "Louis Pasteur",
+        "relation": "disproved",
+        "tail_id": "12261",
+        "tail": "Heinrich Hermann Robert Koch"
+    },
+    {
+        "head_id": "1406",
+        "head": "Avalokiteśvara",
+        "relation": "is called",
+        "tail_id": "15547",
+        "tail": "as Lokesvara"
+    },
+    {
+        "head_id": "880",
+        "head": "friend Nikolaus Simrock",
+        "relation": "began publishing",
+        "tail_id": "6603",
+        "tail": "Ludwig van Beethoven"
+    },
+    {
+        "head_id": "18118",
+        "head": "Lin Dan",
+        "relation": "captured",
+        "tail_id": "20242",
+        "tail": "the Korea Open"
+    },
+    {
+        "head_id": "19838",
+        "head": "Minnesota west of the Mississippi River",
+        "relation": "has",
+        "tail_id": "8608",
+        "tail": "an active program of organized amateur and professional sports"
+    },
+    {
+        "head_id": "14325",
+        "head": "Bread",
+        "relation": "is",
+        "tail_id": "15688",
+        "tail": "one of the oldest human - made foods"
+    },
+    {
+        "head_id": "9862",
+        "head": "First Lady Nancy Reagan",
+        "relation": "helped",
+        "tail_id": "15207",
+        "tail": "create a safer, freer world"
+    },
+    {
+        "head_id": "4513",
+        "head": "Joe Biden",
+        "relation": "carried",
+        "tail_id": "19751",
+        "tail": "the Delaware Department of Transportation"
+    },
+    {
+        "head_id": "9985",
+        "head": "the French",
+        "relation": "prevailed",
+        "tail_id": "1607",
+        "tail": "on 29 June"
+    },
+    {
+        "head_id": "8",
+        "head": "the Crusades",
+        "relation": "were commanded",
+        "tail_id": "10598",
+        "tail": "by God"
+    },
+    {
+        "head_id": "2305",
+        "head": "Two decades of economic growth",
+        "relation": "have helped make",
+        "tail_id": "19717",
+        "tail": "Cambodia"
+    },
+    {
+        "head_id": "1145",
+        "head": "George Herbert Walker Bush",
+        "relation": "lost",
+        "tail_id": "13748",
+        "tail": "the next several primaries"
+    },
+    {
+        "head_id": "1985",
+        "head": "Archaeology",
+        "relation": "developed",
+        "tail_id": "7126",
+        "tail": "out of antiquarianism in Europe"
+    },
+    {
+        "head_id": "14444",
+        "head": "Quantum mechanics",
+        "relation": "allows",
+        "tail_id": "2745",
+        "tail": "the calculation of properties and behaviour of physical systems"
+    },
+    {
+        "head_id": "18896",
+        "head": "Russian language in Israel",
+        "relation": "is",
+        "tail_id": "12460",
+        "tail": "the most spoken Slavic language"
+    },
+    {
+        "head_id": "13266",
+        "head": "The inventor Thomas Edison good fortune",
+        "relation": "to encounter",
+        "tail_id": "9565",
+        "tail": "Thomas Paine"
+    },
+    {
+        "head_id": "20014",
+        "head": "Evangelista Torricelli",
+        "relation": "had invented",
+        "tail_id": "10926",
+        "tail": "the barometer"
+    },
+    {
+        "head_id": "10864",
+        "head": "Breast cancer",
+        "relation": "is",
+        "tail_id": "11479",
+        "tail": "the most common cause of cancer death among women"
+    },
+    {
+        "head_id": "17682",
+        "head": "Latin",
+        "relation": "came",
+        "tail_id": "13053",
+        "tail": "from the Proto -Indo - European root"
+    },
+    {
+        "head_id": "17430",
+        "head": "Boron",
+        "relation": "can be highly concentrated",
+        "tail_id": "3781",
+        "tail": "by the action of water"
+    },
+    {
+        "head_id": "12405",
+        "head": "Lord Vishnu",
+        "relation": "saved",
+        "tail_id": "14665",
+        "tail": "the life Of Gajaraj"
+    },
+    {
+        "head_id": "2378",
+        "head": "Abraham Lincoln",
+        "relation": "was",
+        "tail_id": "11726",
+        "tail": "a religious skeptic"
+    },
+    {
+        "head_id": "11684",
+        "head": "Rome",
+        "relation": "founded",
+        "tail_id": "5863",
+        "tail": "many cities"
+    },
+    {
+        "head_id": "4743",
+        "head": "Marseille",
+        "relation": "sided",
+        "tail_id": "9775",
+        "tail": "with the exiled faction at war with Julius Caesar"
+    },
+    {
+        "head_id": "9906",
+        "head": "the Taliban",
+        "relation": "came",
+        "tail_id": "3940",
+        "tail": "to establish an enclave"
+    },
+    {
+        "head_id": "182",
+        "head": "Debendranath Tagore",
+        "relation": "had seen",
+        "tail_id": "20148",
+        "tail": "God"
+    },
+    {
+        "head_id": "17679",
+        "head": "Aaron Hillel Swartz",
+        "relation": "joined",
+        "tail_id": "1414",
+        "tail": "a startup called Infogami"
+    },
+    {
+        "head_id": "2227",
+        "head": "many natural historians",
+        "relation": "believed",
+        "tail_id": "2368",
+        "tail": "Carl Linnaeus"
+    },
+    {
+        "head_id": "3776",
+        "head": "Arthur Mailey",
+        "relation": "to tour",
+        "tail_id": "9378",
+        "tail": "Australia"
+    },
+    {
+        "head_id": "9862",
+        "head": "First Lady Nancy Reagan",
+        "relation": "became",
+        "tail_id": "12563",
+        "tail": "an iconic influence within the Republican Party"
+    },
+    {
+        "head_id": "3418",
+        "head": "Wikibooks",
+        "relation": "has been included",
+        "tail_id": "11201",
+        "tail": "in BASE"
+    },
+    {
+        "head_id": "7751",
+        "head": "John Adams",
+        "relation": "was raised",
+        "tail_id": "9989",
+        "tail": "a Congregationalist"
+    },
+    {
+        "head_id": "7472",
+        "head": "Subhas Chandra Bose",
+        "relation": "to return",
+        "tail_id": "18508",
+        "tail": "to secure an independent India independence"
+    },
+    {
+        "head_id": "14533",
+        "head": "President John Adams",
+        "relation": "declined to occupy",
+        "tail_id": "10177",
+        "tail": "a much grander presidential mansion"
+    },
+    {
+        "head_id": "2378",
+        "head": "Abraham Lincoln",
+        "relation": "led",
+        "tail_id": "943",
+        "tail": "a sovereign nation"
+    },
+    {
+        "head_id": "19743",
+        "head": "Leprosy",
+        "relation": "is distinguished",
+        "tail_id": "16813",
+        "tail": "by the regular, circular form of patches"
+    },
+    {
+        "head_id": "11716",
+        "head": "Diethyl ether",
+        "relation": "inhibits",
+        "tail_id": "2819",
+        "tail": "metabolism of other drugs"
+    },
+    {
+        "head_id": "13807",
+        "head": "Slumdog Millionaire",
+        "relation": "is co-produced",
+        "tail_id": "767",
+        "tail": "by Celador"
+    },
+    {
+        "head_id": "7472",
+        "head": "Subhas Chandra Bose",
+        "relation": "agreed to accept",
+        "tail_id": "8975",
+        "tail": "nomination as Bengal State Congress President"
+    },
+    {
+        "head_id": "2378",
+        "head": "Abraham Lincoln",
+        "relation": "could not afford",
+        "tail_id": "16678",
+        "tail": "to hang men for votes"
+    },
+    {
+        "head_id": "20001",
+        "head": "Federico Fellini",
+        "relation": "was",
+        "tail_id": "9969",
+        "tail": "for the most part indifferent to politics"
+    },
+    {
+        "head_id": "8184",
+        "head": "Oxalic acid",
+        "relation": "is",
+        "tail_id": "15258",
+        "tail": "relatively strong compared to other carboxylic acids"
+    },
+    {
+        "head_id": "2085",
+        "head": "George Bernard Shaw",
+        "relation": "was",
+        "tail_id": "13332",
+        "tail": "keenly interested in transport"
+    },
+    {
+        "head_id": "6960",
+        "head": "Le Corbusier and Ozenfant",
+        "relation": "formed",
+        "tail_id": "6954",
+        "tail": "the Purism movement"
+    },
+    {
+        "head_id": "16023",
+        "head": "Louisiana French",
+        "relation": "has gradually been effectively displaced",
+        "tail_id": "6430",
+        "tail": "as the main foreign language of choice by English"
+    },
+    {
+        "head_id": "6745",
+        "head": "Sri Lanka",
+        "relation": "is listed",
+        "tail_id": "6375",
+        "tail": "as one of the Next Eleven countries"
+    },
+    {
+        "head_id": "20312",
+        "head": "Clitoria ternatea",
+        "relation": "has also been introduced",
+        "tail_id": "9587",
+        "tail": "to Africa, Australia and the Americas"
+    },
+    {
+        "head_id": "5101",
+        "head": "Max Born",
+        "relation": "continued",
+        "tail_id": "5493",
+        "tail": "scientific work"
+    },
+    {
+        "head_id": "6520",
+        "head": "John Philip Sousa",
+        "relation": "composed",
+        "tail_id": "16174",
+        "tail": "The Washington Post"
+    },
+    {
+        "head_id": "18181",
+        "head": "Bamako",
+        "relation": "features",
+        "tail_id": "5761",
+        "tail": "a tropical savanna climate"
+    },
+    {
+        "head_id": "2657",
+        "head": "Steve Ballmer",
+        "relation": "is CEO of",
+        "tail_id": "20132",
+        "tail": "Microsoft"
+    },
+    {
+        "head_id": "6879",
+        "head": "China",
+        "relation": "has hampered",
+        "tail_id": "15620",
+        "tail": "Taiwan efforts to procure vaccine doses"
+    },
+    {
+        "head_id": "1434",
+        "head": "Neanderthal",
+        "relation": "derived",
+        "tail_id": "18336",
+        "tail": "alleles near ASB1 and EXOC6"
+    },
+    {
+        "head_id": "13282",
+        "head": "the main army of the rebels",
+        "relation": "retook",
+        "tail_id": "4303",
+        "tail": "New Delhi"
+    },
+    {
+        "head_id": "6169",
+        "head": "Skyfall",
+        "relation": "to gross",
+        "tail_id": "687",
+        "tail": "over $ 1 billion worldwide"
+    },
+    {
+        "head_id": "8277",
+        "head": "Heat stroke",
+        "relation": "is",
+        "tail_id": "5875",
+        "tail": "a type of severe heat illness"
+    },
+    {
+        "head_id": "1102",
+        "head": "Hebrew",
+        "relation": "declining",
+        "tail_id": "5230",
+        "tail": "in the aftermath of the unsuccessful Bar Kokhba revolt"
+    },
+    {
+        "head_id": "13604",
+        "head": "Vietnam",
+        "relation": "is",
+        "tail_id": "4039",
+        "tail": "the largest known cave passage in the world's by volume"
+    },
+    {
+        "head_id": "15273",
+        "head": "Swami Vivekananda",
+        "relation": "trained",
+        "tail_id": "17213",
+        "tail": "disciples"
+    },
+    {
+        "head_id": "9181",
+        "head": "Windows 10",
+        "relation": "dropping",
+        "tail_id": "15123",
+        "tail": "32 - bit hardware support altogether"
+    },
+    {
+        "head_id": "11649",
+        "head": "Richard Wagner",
+        "relation": "is the chief justice of",
+        "tail_id": "12329",
+        "tail": "Canada"
+    },
+    {
+        "head_id": "9690",
+        "head": "Charles - Édouard Jeanneret",
+        "relation": "contributed",
+        "tail_id": "18475",
+        "tail": "a highly original plan"
+    },
+    {
+        "head_id": "3640",
+        "head": "Indonesia",
+        "relation": "was dedicated",
+        "tail_id": "10605",
+        "tail": "to the Dhyani Buddha Vairocana"
+    },
+    {
+        "head_id": "5829",
+        "head": "Phoolan Devi",
+        "relation": "agreed",
+        "tail_id": "6648",
+        "tail": "to surrender to the authorities"
+    },
+    {
+        "head_id": "6083",
+        "head": "Vishnu",
+        "relation": "killed",
+        "tail_id": "6452",
+        "tail": "Hiranyakasipu"
+    },
+    {
+        "head_id": "3984",
+        "head": "English",
+        "relation": "used",
+        "tail_id": "5587",
+        "tail": "in university education and many technical fields"
+    },
+    {
+        "head_id": "18193",
+        "head": "Philadelphia",
+        "relation": "is also",
+        "tail_id": "11202",
+        "tail": "a biotechnology hub"
+    },
+    {
+        "head_id": "811",
+        "head": "the Kingdom of Ormus",
+        "relation": "would withdraw",
+        "tail_id": "12675",
+        "tail": "from the Persian Gulf"
+    },
+    {
+        "head_id": "8792",
+        "head": "Mars",
+        "relation": "had",
+        "tail_id": "7783",
+        "tail": "a dense enough atmosphere"
+    },
+    {
+        "head_id": "3984",
+        "head": "English",
+        "relation": "has been replacing",
+        "tail_id": "16886",
+        "tail": "French as the main foreign language"
+    },
+    {
+        "head_id": "7569",
+        "head": "Association football",
+        "relation": "has grown",
+        "tail_id": "19459",
+        "tail": "in popularity in the wider Fijian community"
+    },
+    {
+        "head_id": "10378",
+        "head": "the eighteen - year - old Rumi",
+        "relation": "encountered",
+        "tail_id": "20012",
+        "tail": "one of the most famous mystic Persian poets"
+    },
+    {
+        "head_id": "1103",
+        "head": "a'Vajra Throne'Buddha",
+        "relation": "overlooking",
+        "tail_id": "10301",
+        "tail": "the capital city of Thimphu"
+    },
+    {
+        "head_id": "9334",
+        "head": "the middle - aged Abraham Lincoln",
+        "relation": "proposed",
+        "tail_id": "10076",
+        "tail": "emancipation proclamation"
+    },
+    {
+        "head_id": "5548",
+        "head": "Ankara",
+        "relation": "started expanding",
+        "tail_id": "2782",
+        "tail": "westward"
+    },
+    {
+        "head_id": "11057",
+        "head": "the US",
+        "relation": "controlled",
+        "tail_id": "12980",
+        "tail": "Manas Air Base"
+    },
+    {
+        "head_id": "18500",
+        "head": "Mexico City",
+        "relation": "is widely known",
+        "tail_id": "19103",
+        "tail": "for specialized, often low-cost retailers"
+    },
+    {
+        "head_id": "13807",
+        "head": "Slumdog Millionaire",
+        "relation": "appeared",
+        "tail_id": "13602",
+        "tail": "in 123 different top ten lists"
+    },
+    {
+        "head_id": "832",
+        "head": "Hari Singh",
+        "relation": "is the Maharaja of",
+        "tail_id": "5139",
+        "tail": "Jammu and Kashmir"
+    },
+    {
+        "head_id": "9329",
+        "head": "Bangalore",
+        "relation": "has also encouraged",
+        "tail_id": "13415",
+        "tail": "the growth of Telugu, Urdu, and English literatures"
+    },
+    {
+        "head_id": "15587",
+        "head": "1",
+        "relation": "refers",
+        "tail_id": "11361",
+        "tail": "to a unary number"
+    },
+    {
+        "head_id": "3130",
+        "head": "Nero",
+        "relation": "ordered",
+        "tail_id": "9366",
+        "tail": "the construction of amphitheaters"
+    },
+    {
+        "head_id": "15439",
+        "head": "East Timor",
+        "relation": "were allowed",
+        "tail_id": "13236",
+        "tail": "to compete under the Olympics Flag with country code IOA"
+    },
+    {
+        "head_id": "13277",
+        "head": "Rama",
+        "relation": "to be",
+        "tail_id": "20070",
+        "tail": "an incarnation of Vishnu"
+    },
+    {
+        "head_id": "7472",
+        "head": "Subhas Chandra Bose",
+        "relation": "felt",
+        "tail_id": "13883",
+        "tail": "the University of Calcutta was within easy reach"
+    },
+    {
+        "head_id": "15862",
+        "head": "Vatican City",
+        "relation": "placed",
+        "tail_id": "1752",
+        "tail": "under the Eastern Orthodox Church law"
+    },
+    {
+        "head_id": "20335",
+        "head": "Iraq",
+        "relation": "has",
+        "tail_id": "4536",
+        "tail": "a community of 2,500 Chechens, and some 20,000 Armenians"
+    },
+    {
+        "head_id": "11385",
+        "head": "Adi Shankara",
+        "relation": "is also",
+        "tail_id": "14957",
+        "tail": "as an avatara of Lord Shiva"
+    },
+    {
+        "head_id": "17704",
+        "head": "The NetBeans 7.4 and later",
+        "relation": "uses",
+        "tail_id": "8308",
+        "tail": "the new Nashorn JavaScript engine"
+    },
+    {
+        "head_id": "2085",
+        "head": "George Bernard Shaw",
+        "relation": "attended",
+        "tail_id": "13526",
+        "tail": "the Bradford conference"
+    },
+    {
+        "head_id": "19197",
+        "head": "Mary Burns",
+        "relation": "left Manchester",
+        "tail_id": "5559",
+        "tail": "German thinker Friedrich Engels"
+    },
+    {
+        "head_id": "17456",
+        "head": "Carl Friedrich Gauss",
+        "relation": "contains",
+        "tail_id": "11132",
+        "tail": "a critique of Jean le Rond d'Alembert work"
+    },
+    {
+        "head_id": "6700",
+        "head": "Albert Einstein",
+        "relation": "to develop",
+        "tail_id": "2688",
+        "tail": "the theory of special relativity"
+    },
+    {
+        "head_id": "16567",
+        "head": "West Germans and citizens of other Western countries",
+        "relation": "could generally visit",
+        "tail_id": "8376",
+        "tail": "East Germany"
+    },
+    {
+        "head_id": "12923",
+        "head": "50 % of Eritrea's population",
+        "relation": "followed",
+        "tail_id": "10528",
+        "tail": "Islam"
+    },
+    {
+        "head_id": "16474",
+        "head": "Shaivism",
+        "relation": "is related",
+        "tail_id": "19404",
+        "tail": "to Shaktism"
+    },
+    {
+        "head_id": "13935",
+        "head": "India",
+        "relation": "has been",
+        "tail_id": "6113",
+        "tail": "a federal republic"
+    },
+    {
+        "head_id": "2368",
+        "head": "Carl Linnaeus",
+        "relation": "created",
+        "tail_id": "9317",
+        "tail": "a wastebasket taxon"
+    },
+    {
+        "head_id": "5570",
+        "head": "Alaska",
+        "relation": "employs",
+        "tail_id": "15822",
+        "tail": "approximately 16,000 people statewide"
+    },
+    {
+        "head_id": "5943",
+        "head": "Nirmala Sitharaman",
+        "relation": "is a member of",
+        "tail_id": "13859",
+        "tail": "the Rajya Sabha"
+    },
+    {
+        "head_id": "13935",
+        "head": "India",
+        "relation": "adopted",
+        "tail_id": "14750",
+        "tail": "IR8"
+    },
+    {
+        "head_id": "868",
+        "head": "Afghan President Ashraf Ghani",
+        "relation": "fled",
+        "tail_id": "9770",
+        "tail": "Afghanistan"
+    },
+    {
+        "head_id": "12628",
+        "head": "The summit of Mount Fuji",
+        "relation": "is",
+        "tail_id": "3131",
+        "tail": "a very distinctive feature of the geography of Japan"
+    },
+    {
+        "head_id": "20453",
+        "head": "Acetic acid",
+        "relation": "is",
+        "tail_id": "13838",
+        "tail": "a chemical reagent for the production of chemical compounds"
+    },
+    {
+        "head_id": "17922",
+        "head": "Sikhs and Hindus",
+        "relation": "left",
+        "tail_id": "1757",
+        "tail": "West Pakistan"
+    },
+    {
+        "head_id": "20633",
+        "head": "the 150 million Muslims",
+        "relation": "generally support",
+        "tail_id": "15844",
+        "tail": "the Indian National Congress"
+    },
+    {
+        "head_id": "10547",
+        "head": "Bingu wa Mutharika",
+        "relation": "had implemented reforms to address",
+        "tail_id": "19801",
+        "tail": "Malawi"
+    },
+    {
+        "head_id": "14779",
+        "head": "Serena Jameka Williams",
+        "relation": "has played",
+        "tail_id": "19524",
+        "tail": "Elena Vesnina"
+    },
+    {
+        "head_id": "3100",
+        "head": "NASA",
+        "relation": "had declined to rename",
+        "tail_id": "17195",
+        "tail": "The James Webb Space Telescope"
+    },
+    {
+        "head_id": "5231",
+        "head": "the British",
+        "relation": "added",
+        "tail_id": "19808",
+        "tail": "to the consolidation of feudalism in South India"
+    },
+    {
+        "head_id": "4356",
+        "head": "Guru Tegh Bahadur",
+        "relation": "started",
+        "tail_id": "13087",
+        "tail": "community water wells and langars"
+    },
+    {
+        "head_id": "16448",
+        "head": "Jaisalmer",
+        "relation": "stands",
+        "tail_id": "10819",
+        "tail": "on a ridge of yellowish sandstone"
+    },
+    {
+        "head_id": "14838",
+        "head": "Mussolini's Fascists",
+        "relation": "remained",
+        "tail_id": "18016",
+        "tail": "suspicious of Zionism"
+    },
+    {
+        "head_id": "19750",
+        "head": "Samuel Finley Breese Morse",
+        "relation": "chose to paint",
+        "tail_id": "19944",
+        "tail": "The House of Representatives"
+    },
+    {
+        "head_id": "11313",
+        "head": "President Donald Trump",
+        "relation": "condemned",
+        "tail_id": "17563",
+        "tail": "a terrorist attack in Christchurch"
+    },
+    {
+        "head_id": "4965",
+        "head": "Rameswaram",
+        "relation": "comes",
+        "tail_id": "96",
+        "tail": "under the Ramanathapuram"
+    },
+    {
+        "head_id": "16174",
+        "head": "The Washington Post",
+        "relation": "is considered",
+        "tail_id": "13028",
+        "tail": "a newspaper of record in the U.S. government"
+    },
+    {
+        "head_id": "5768",
+        "head": "Gautama Buddha",
+        "relation": "set out on a quest to find",
+        "tail_id": "20405",
+        "tail": "liberation from suffering"
+    },
+    {
+        "head_id": "1803",
+        "head": "Srinivasa Ramanujan",
+        "relation": "had anticipated",
+        "tail_id": "12234",
+        "tail": "the work of a Polish mathematician"
+    },
+    {
+        "head_id": "12433",
+        "head": "Philippine Airlines",
+        "relation": "is known",
+        "tail_id": "18153",
+        "tail": "for being the first airline in the Philippines"
+    },
+    {
+        "head_id": "3048",
+        "head": "Daman and Diu",
+        "relation": "is Glacier of",
+        "tail_id": "16142",
+        "tail": "Siachen"
+    },
+    {
+        "head_id": "19550",
+        "head": "Meningitis",
+        "relation": "is classified",
+        "tail_id": "9002",
+        "tail": "as a medical emergency"
+    },
+    {
+        "head_id": "4002",
+        "head": "Pfizer",
+        "relation": "released",
+        "tail_id": "19628",
+        "tail": "trial results for a candidate vaccine"
+    },
+    {
+        "head_id": "8918",
+        "head": "Russian president Vladimir Putin",
+        "relation": "greeted",
+        "tail_id": "4324",
+        "tail": "Viswanathan"
+    },
+    {
+        "head_id": "15924",
+        "head": "Gary Goetzman",
+        "relation": "chronicled",
+        "tail_id": "7680",
+        "tail": "the United States"
+    },
+    {
+        "head_id": "3873",
+        "head": "The driest country in sub - Saharan Africa",
+        "relation": "has",
+        "tail_id": "19272",
+        "tail": "a population of 2.55 million people"
+    },
+    {
+        "head_id": "4234",
+        "head": "Radhika Apte",
+        "relation": "has acted",
+        "tail_id": "7038",
+        "tail": "in plays like \" Tu"
+    },
+    {
+        "head_id": "7928",
+        "head": "the New Mexico Territory",
+        "relation": "is",
+        "tail_id": "2765",
+        "tail": "home to the Palo Verde Nuclear Generating Station"
+    },
+    {
+        "head_id": "2085",
+        "head": "George Bernard Shaw",
+        "relation": "expressed",
+        "tail_id": "17157",
+        "tail": "admiration for both Mussolini and Stalin"
+    },
+    {
+        "head_id": "20001",
+        "head": "Federico Fellini",
+        "relation": "visited",
+        "tail_id": "5946",
+        "tail": "Cinecittà"
+    },
+    {
+        "head_id": "328",
+        "head": "Joseph Priestley",
+        "relation": "had hurt",
+        "tail_id": "8176",
+        "tail": "Shelburne"
+    },
+    {
+        "head_id": "18660",
+        "head": "Louis Braille",
+        "relation": "innovated",
+        "tail_id": "16153",
+        "tail": "by simplifying Barbier's system form and maximizing Barbier's system efficiency"
+    },
+    {
+        "head_id": "10493",
+        "head": "Ozone",
+        "relation": "condenses",
+        "tail_id": "3947",
+        "tail": "to form a dark blue liquid"
+    },
+    {
+        "head_id": "3035",
+        "head": "President Ronald Reagan",
+        "relation": "visited the Indian Embassy to sign",
+        "tail_id": "12334",
+        "tail": "a book of condolences"
+    },
+    {
+        "head_id": "5548",
+        "head": "Ankara",
+        "relation": "expanding westward",
+        "tail_id": "18953",
+        "tail": "in the 1970s"
+    },
+    {
+        "head_id": "13355",
+        "head": "the language of the Quran",
+        "relation": "is used",
+        "tail_id": "16940",
+        "tail": "to varying degrees in workplaces, governments and the media"
+    },
+    {
+        "head_id": "7012",
+        "head": "over 14million devices",
+        "relation": "were running",
+        "tail_id": "8834",
+        "tail": "Windows10"
+    },
+    {
+        "head_id": "1379",
+        "head": "Chenab",
+        "relation": "join",
+        "tail_id": "10291",
+        "tail": "the Indus River"
+    },
+    {
+        "head_id": "10528",
+        "head": "Islam",
+        "relation": "keeps",
+        "tail_id": "16771",
+        "tail": "the Kyrgyz society more moral, cleaner"
+    },
+    {
+        "head_id": "13553",
+        "head": "Hong Kong",
+        "relation": "is Special Administrative Region of",
+        "tail_id": "4213",
+        "tail": "the People's Republic of China"
+    },
+    {
+        "head_id": "14613",
+        "head": "Muzio Clementi",
+        "relation": "secured the rights for publishing",
+        "tail_id": "6603",
+        "tail": "Ludwig van Beethoven"
+    },
+    {
+        "head_id": "6770",
+        "head": "Mohammad Hamid Ansari",
+        "relation": "defeating",
+        "tail_id": "9823",
+        "tail": "the NDA's nominee Jaswant Singh"
+    },
+    {
+        "head_id": "1348",
+        "head": "The Padma or Podda",
+        "relation": "enters",
+        "tail_id": "5275",
+        "tail": "Bangladesh"
+    },
+    {
+        "head_id": "8561",
+        "head": "The Mali Empire",
+        "relation": "came",
+        "tail_id": "4207",
+        "tail": "to dominate the Trans - Saharan trade routes"
+    },
+    {
+        "head_id": "16596",
+        "head": "Buddhism",
+        "relation": "spread",
+        "tail_id": "19040",
+        "tail": "to Khotan"
+    },
+    {
+        "head_id": "12252",
+        "head": "the Yadava dynasty",
+        "relation": "had renamed",
+        "tail_id": "8428",
+        "tail": "Pune"
+    },
+    {
+        "head_id": "20168",
+        "head": "the Vijayanagara Empire",
+        "relation": "was defeated",
+        "tail_id": "6208",
+        "tail": "by a coalition of Muslim sultanates"
+    },
+    {
+        "head_id": "10730",
+        "head": "Indira Gandhi",
+        "relation": "was",
+        "tail_id": "1734",
+        "tail": "in prison"
+    },
+    {
+        "head_id": "8421",
+        "head": "Ashraf Ghani",
+        "relation": "is the President of",
+        "tail_id": "9770",
+        "tail": "Afghanistan"
+    },
+    {
+        "head_id": "6391",
+        "head": "Shamanism",
+        "relation": "is",
+        "tail_id": "5095",
+        "tail": "a system of religious practice"
+    },
+    {
+        "head_id": "2368",
+        "head": "Carl Linnaeus",
+        "relation": "were troubled",
+        "tail_id": "17489",
+        "tail": "by illness"
+    },
+    {
+        "head_id": "5647",
+        "head": "O Umar",
+        "relation": "accepted",
+        "tail_id": "10528",
+        "tail": "Islam"
+    },
+    {
+        "head_id": "15233",
+        "head": "the Gupta Empire",
+        "relation": "remains",
+        "tail_id": "8270",
+        "tail": "a \" classical \" period for Indian sculpture"
+    },
+    {
+        "head_id": "17756",
+        "head": "illness",
+        "relation": "struck",
+        "tail_id": "6603",
+        "tail": "Ludwig van Beethoven"
+    },
+    {
+        "head_id": "17456",
+        "head": "Carl Friedrich Gauss",
+        "relation": "strongly upheld",
+        "tail_id": "17256",
+        "tail": "religious tolerance"
+    },
+    {
+        "head_id": "14741",
+        "head": "Mount Canopus or Canopus Hill",
+        "relation": "is not located",
+        "tail_id": "4146",
+        "tail": "near the subgroups of Centaurus Association"
+    },
+    {
+        "head_id": "16643",
+        "head": "Nadine Gordimer",
+        "relation": "was the wife of",
+        "tail_id": "7218",
+        "tail": "the Parliamentarian Bernard Friedman"
+    },
+    {
+        "head_id": "10593",
+        "head": "Shanghai",
+        "relation": "was opened up",
+        "tail_id": "6175",
+        "tail": "to western populations and merchants"
+    },
+    {
+        "head_id": "14809",
+        "head": "Psoriasis",
+        "relation": "has been associated",
+        "tail_id": "11831",
+        "tail": "with low self-esteem and depression"
+    },
+    {
+        "head_id": "1145",
+        "head": "George Herbert Walker Bush",
+        "relation": "supported",
+        "tail_id": "10636",
+        "tail": "the Nixon administration's President Richard Nixon administration's Vietnam policies"
+    },
+    {
+        "head_id": "2482",
+        "head": "Tsai Ing-wen",
+        "relation": "is",
+        "tail_id": "11688",
+        "tail": "unmarried"
+    },
+    {
+        "head_id": "14980",
+        "head": "Also still fresh in the minds of the public",
+        "relation": "was",
+        "tail_id": "9565",
+        "tail": "Thomas Paine"
+    },
+    {
+        "head_id": "17263",
+        "head": "the United Kingdom",
+        "relation": "split off",
+        "tail_id": "19851",
+        "tail": "the Chagos Archipelago"
+    },
+    {
+        "head_id": "5647",
+        "head": "O Umar",
+        "relation": "became",
+        "tail_id": "15662",
+        "tail": "the first Muslim to openly pray at the Kaaba"
+    },
+    {
+        "head_id": "16348",
+        "head": "Mysore Airport",
+        "relation": "serves",
+        "tail_id": "9131",
+        "tail": "Mysore"
+    },
+    {
+        "head_id": "14726",
+        "head": "Valentin Haüy school",
+        "relation": "is founder of",
+        "tail_id": "9260",
+        "tail": "Paris"
+    },
+    {
+        "head_id": "2101",
+        "head": "The Agartala Municipality",
+        "relation": "is nestled",
+        "tail_id": "14334",
+        "tail": "with tents"
+    },
+    {
+        "head_id": "2299",
+        "head": "Leucaena leucocephala",
+        "relation": "is also",
+        "tail_id": "2436",
+        "tail": "efficient in nitrogen fixation"
+    },
+    {
+        "head_id": "233",
+        "head": "Agrippina the Younger",
+        "relation": "opposed",
+        "tail_id": "3130",
+        "tail": "Nero"
+    },
+    {
+        "head_id": "2368",
+        "head": "Carl Linnaeus",
+        "relation": "returned",
+        "tail_id": "11393",
+        "tail": "to Lund University in Skåne"
+    },
+    {
+        "head_id": "11234",
+        "head": "South Africa",
+        "relation": "returned",
+        "tail_id": "12030",
+        "tail": "to The 1992 Summer Olympics"
+    },
+    {
+        "head_id": "17739",
+        "head": "Joseph Letombe",
+        "relation": "is the French consul in",
+        "tail_id": "18193",
+        "tail": "Philadelphia"
+    },
+    {
+        "head_id": "14811",
+        "head": "Hypnosis",
+        "relation": "begins",
+        "tail_id": "7109",
+        "tail": "with a hypnotic induction"
+    },
+    {
+        "head_id": "13566",
+        "head": "Adolf Hitler",
+        "relation": "sent troops to Spain to support",
+        "tail_id": "6340",
+        "tail": "General Franco"
+    },
+    {
+        "head_id": "328",
+        "head": "Joseph Priestley",
+        "relation": "yearned",
+        "tail_id": "17894",
+        "tail": "for urban life and theological debate"
+    },
+    {
+        "head_id": "6879",
+        "head": "China",
+        "relation": "established",
+        "tail_id": "10147",
+        "tail": "the Lop Nur Nuclear Test Base"
+    },
+    {
+        "head_id": "9615",
+        "head": "Robert Koch",
+        "relation": "wrote",
+        "tail_id": "10210",
+        "tail": "On the Anthrax Inoculation"
+    },
+    {
+        "head_id": "20112",
+        "head": "Belarus",
+        "relation": "is dependent on",
+        "tail_id": "10139",
+        "tail": "Kievan Rus"
+    },
+    {
+        "head_id": "7976",
+        "head": "Paramahansa Yogananda",
+        "relation": "returns",
+        "tail_id": "12805",
+        "tail": "to India for a yearlong visit"
+    },
+    {
+        "head_id": "9565",
+        "head": "Thomas Paine",
+        "relation": "would become",
+        "tail_id": "9128",
+        "tail": "engrossed in the French Revolution"
+    },
+    {
+        "head_id": "5976",
+        "head": "Mimosa pudica",
+        "relation": "is",
+        "tail_id": "3129",
+        "tail": "shade intolerant and frost -sensitive"
+    },
+    {
+        "head_id": "13566",
+        "head": "Adolf Hitler",
+        "relation": "was living",
+        "tail_id": "334",
+        "tail": "in Munich"
+    },
+    {
+        "head_id": "1424",
+        "head": "Saliva",
+        "relation": "limits",
+        "tail_id": "8557",
+        "tail": "the growth of bacterial pathogens"
+    },
+    {
+        "head_id": "5416",
+        "head": "International Translation Day",
+        "relation": "is",
+        "tail_id": "13113",
+        "tail": "an international day recognising translation professionals"
+    },
+    {
+        "head_id": "10140",
+        "head": "Clotrimazole",
+        "relation": "was discovered",
+        "tail_id": "11409",
+        "tail": "in 1969"
+    },
+    {
+        "head_id": "9986",
+        "head": "the temple of Aalok Pashupatinath",
+        "relation": "has",
+        "tail_id": "213",
+        "tail": "a gold pinnacle"
+    },
+    {
+        "head_id": "10232",
+        "head": "the Berlin Wall",
+        "relation": "worsened",
+        "tail_id": "2110",
+        "tail": "the relations between The United States and the Soviet Union"
+    },
+    {
+        "head_id": "5751",
+        "head": "Ranchi Municipal Corporation",
+        "relation": "became",
+        "tail_id": "8878",
+        "tail": "the capital of the Indian state of Jharkhand"
+    },
+    {
+        "head_id": "15569",
+        "head": "Mughal India",
+        "relation": "to become",
+        "tail_id": "15190",
+        "tail": "the Islamic world largest economy"
+    },
+    {
+        "head_id": "7941",
+        "head": "Circumcision",
+        "relation": "is",
+        "tail_id": "3096",
+        "tail": "a treatment option for refractory or recurrent balanoposthitis"
+    },
+    {
+        "head_id": "9714",
+        "head": "Agastya",
+        "relation": "built the Agastyeshwara temple",
+        "tail_id": "16987",
+        "tail": "in the last Treta Yuga around the swayambhu linga"
+    },
+    {
+        "head_id": "17743",
+        "head": "Évariste Galois",
+        "relation": "was head of",
+        "tail_id": "7072",
+        "tail": "Bourg -la - Reine's liberal party"
+    },
+    {
+        "head_id": "15011",
+        "head": "Facebook",
+        "relation": "launched a climate science information centre to promote",
+        "tail_id": "1623",
+        "tail": "authoritative voices on climate change"
+    },
+    {
+        "head_id": "20590",
+        "head": "the nervous British",
+        "relation": "devised",
+        "tail_id": "13582",
+        "tail": "the \" Cabinet Mission Plan"
+    },
+    {
+        "head_id": "9690",
+        "head": "Charles - Édouard Jeanneret",
+        "relation": "had",
+        "tail_id": "15212",
+        "tail": "connections to the Villa Savoye"
+    },
+    {
+        "head_id": "8834",
+        "head": "Windows10",
+        "relation": "offers",
+        "tail_id": "19533",
+        "tail": "two separate user interface modes"
+    },
+    {
+        "head_id": "4027",
+        "head": "Unemployment",
+        "relation": "has been linked",
+        "tail_id": "13533",
+        "tail": "to extremely adverse effects on men's mental health"
+    },
+    {
+        "head_id": "14801",
+        "head": "Luxembourg - based Skype Technologies SA",
+        "relation": "was",
+        "tail_id": "7357",
+        "tail": "on Nokia X, Symbian, BlackBerry OS and BlackBerry 10 devices"
+    },
+    {
+        "head_id": "1990",
+        "head": "Singapore",
+        "relation": "to combat",
+        "tail_id": "5002",
+        "tail": "this decline in natural space"
+    },
+    {
+        "head_id": "328",
+        "head": "Joseph Priestley",
+        "relation": "was increasingly embarrassed",
+        "tail_id": "6220",
+        "tail": "by Priestley's son"
+    },
+    {
+        "head_id": "1145",
+        "head": "George Herbert Walker Bush",
+        "relation": "easily won",
+        "tail_id": "12572",
+        "tail": "the Republican primary"
+    },
+    {
+        "head_id": "8524",
+        "head": "fictional MI6 agent James Bond",
+        "relation": "chases",
+        "tail_id": "16082",
+        "tail": "Sévérine's employer"
+    },
+    {
+        "head_id": "4769",
+        "head": "LibreOffice Online",
+        "relation": "is",
+        "tail_id": "5348",
+        "tail": "a free and open-source office productivity software suite"
+    },
+    {
+        "head_id": "11214",
+        "head": "Linoleic acid",
+        "relation": "comprises",
+        "tail_id": "7031",
+        "tail": "over half safflower, sunflower, and corn oil composition by weight"
+    },
+    {
+        "head_id": "17456",
+        "head": "Carl Friedrich Gauss",
+        "relation": "was elected",
+        "tail_id": "2534",
+        "tail": "as a member of the American Philosophical Society"
+    },
+    {
+        "head_id": "13566",
+        "head": "Adolf Hitler",
+        "relation": "continued to face",
+        "tail_id": "15043",
+        "tail": "some opposition within the Nazi Party"
+    },
+    {
+        "head_id": "1145",
+        "head": "George Herbert Walker Bush",
+        "relation": "was opposed",
+        "tail_id": "13696",
+        "tail": "to major defense spending cuts"
+    },
+    {
+        "head_id": "9151",
+        "head": "Bindusara",
+        "relation": "ruled",
+        "tail_id": "1723",
+        "tail": "for 25 years"
+    },
+    {
+        "head_id": "16643",
+        "head": "Nadine Gordimer",
+        "relation": "involved",
+        "tail_id": "301",
+        "tail": "in the Sophiatown renaissance"
+    },
+    {
+        "head_id": "20453",
+        "head": "Acetic acid",
+        "relation": "is used",
+        "tail_id": "17513",
+        "tail": "as a solvent in the production of terephthalic acid"
+    },
+    {
+        "head_id": "4234",
+        "head": "Radhika Apte",
+        "relation": "agreed",
+        "tail_id": "2930",
+        "tail": "to move to Mumbai"
+    },
+    {
+        "head_id": "2191",
+        "head": "Lord Keen",
+        "relation": "is the law officer for",
+        "tail_id": "15671",
+        "tail": "Scotland and Northern Ireland"
+    },
+    {
+        "head_id": "12064",
+        "head": "Calcium carbide",
+        "relation": "is sold commercially",
+        "tail_id": "3821",
+        "tail": "as a mole repellent"
+    },
+    {
+        "head_id": "17378",
+        "head": "The city of Ranchi",
+        "relation": "is in",
+        "tail_id": "11353",
+        "tail": "Jharkhand"
+    },
+    {
+        "head_id": "7007",
+        "head": "Mao Zedong",
+        "relation": "took",
+        "tail_id": "9206",
+        "tail": "action to regain control of Communist Party of China"
+    },
+    {
+        "head_id": "7738",
+        "head": "Lord Byron",
+        "relation": "had been born",
+        "tail_id": "2856",
+        "tail": "with a deformed right foot"
+    },
+    {
+        "head_id": "4743",
+        "head": "Marseille",
+        "relation": "was divided",
+        "tail_id": "4884",
+        "tail": "between the northern arrondissements"
+    },
+    {
+        "head_id": "5697",
+        "head": "Ptolemy",
+        "relation": "wrote",
+        "tail_id": "6246",
+        "tail": "the \" Tetrabiblos"
+    },
+    {
+        "head_id": "619",
+        "head": "future New York Mets general manager Brodie Van Wagenen Armstrong",
+        "relation": "was born",
+        "tail_id": "5753",
+        "tail": "near Wapakoneta"
+    },
+    {
+        "head_id": "1329",
+        "head": "post-apartheid South Africa",
+        "relation": "used",
+        "tail_id": "8098",
+        "tail": "the army and police to combat The anti-apartheid resistance"
+    },
+    {
+        "head_id": "17335",
+        "head": "Mikhail Gorbachev",
+        "relation": "was",
+        "tail_id": "6364",
+        "tail": "the key to peace"
+    },
+    {
+        "head_id": "11550",
+        "head": "Shellac",
+        "relation": "to be added",
+        "tail_id": "6909",
+        "tail": "to the previous beeswax recipes"
+    },
+    {
+        "head_id": "1803",
+        "head": "Srinivasa Ramanujan",
+        "relation": "received",
+        "tail_id": "10617",
+        "tail": "a scholarship to study at Government Arts College"
+    },
+    {
+        "head_id": "16919",
+        "head": "Coal",
+        "relation": "to drive",
+        "tail_id": "20416",
+        "tail": "ships and locomotives"
+    },
+    {
+        "head_id": "2085",
+        "head": "George Bernard Shaw",
+        "relation": "published",
+        "tail_id": "4492",
+        "tail": "articles on travel"
+    },
+    {
+        "head_id": "19231",
+        "head": "Emperor Michael III",
+        "relation": "ordered",
+        "tail_id": "5548",
+        "tail": "Ankara"
+    },
+    {
+        "head_id": "20014",
+        "head": "Evangelista Torricelli",
+        "relation": "studied",
+        "tail_id": "19850",
+        "tail": "projectiles and how projectiles traveled through the air"
+    },
+    {
+        "head_id": "16050",
+        "head": "Delta Air Lines",
+        "relation": "operated",
+        "tail_id": "15438",
+        "tail": "a fleet of 750 aircraft"
+    },
+    {
+        "head_id": "15917",
+        "head": "Russia",
+        "relation": "was asking",
+        "tail_id": "17600",
+        "tail": "for US $ 2.9 billion for INS"
+    },
+    {
+        "head_id": "11973",
+        "head": "Krishna",
+        "relation": "is not married",
+        "tail_id": "17372",
+        "tail": "to Radha ( or Rādhikā"
+    },
+    {
+        "head_id": "12848",
+        "head": "Italy",
+        "relation": "to withdraw",
+        "tail_id": "2872",
+        "tail": "from the EU Settlement Scheme"
+    },
+    {
+        "head_id": "5697",
+        "head": "Ptolemy",
+        "relation": "proceeds",
+        "tail_id": "3607",
+        "tail": "to discuss Pythagorean tuning"
+    },
+    {
+        "head_id": "20445",
+        "head": "the Andaman and Nicobar Islands",
+        "relation": "had been annexed",
+        "tail_id": "7711",
+        "tail": "to the Provisional Government harbour"
+    },
+    {
+        "head_id": "8780",
+        "head": "Litmus",
+        "relation": "is",
+        "tail_id": "5186",
+        "tail": "a water - soluble mixture of different dyes"
+    },
+    {
+        "head_id": "3823",
+        "head": "the incompetent examiner",
+        "relation": "enraged",
+        "tail_id": "17743",
+        "tail": "Évariste Galois"
+    },
+    {
+        "head_id": "5647",
+        "head": "O Umar",
+        "relation": "was feared",
+        "tail_id": "9478",
+        "tail": "more than loved"
+    },
+    {
+        "head_id": "3048",
+        "head": "Daman and Diu",
+        "relation": "has also been ruled",
+        "tail_id": "18939",
+        "tail": "by Kolis"
+    },
+    {
+        "head_id": "2321",
+        "head": "the City of Copenhagen",
+        "relation": "has",
+        "tail_id": "18774",
+        "tail": "a multitude of districts"
+    },
+    {
+        "head_id": "8792",
+        "head": "Mars",
+        "relation": "can appear brighter",
+        "tail_id": "11358",
+        "tail": "than the planet Jupiter"
+    },
+    {
+        "head_id": "11160",
+        "head": "Constantinople",
+        "relation": "became",
+        "tail_id": "13267",
+        "tail": "the capital of the Roman Empire"
+    },
+    {
+        "head_id": "20193",
+        "head": "Australopithecus afarensis",
+        "relation": "is",
+        "tail_id": "16090",
+        "tail": "an extinct species of australopithecine"
+    },
+    {
+        "head_id": "10798",
+        "head": "Bruce Lee",
+        "relation": "learned",
+        "tail_id": "8675",
+        "tail": "the fundamentals of Wu-style t'ai chi ch'uan"
+    },
+    {
+        "head_id": "7941",
+        "head": "Circumcision",
+        "relation": "was associated",
+        "tail_id": "7240",
+        "tail": "with spiritual and intellectual development"
+    },
+    {
+        "head_id": "19280",
+        "head": "Lee Min-ho",
+        "relation": "is born in",
+        "tail_id": "15935",
+        "tail": "June 22, 1987"
+    },
+    {
+        "head_id": "16149",
+        "head": "The 1983 Code of Canon Law",
+        "relation": "governs",
+        "tail_id": "15345",
+        "tail": "the Catholic Church"
+    },
+    {
+        "head_id": "11550",
+        "head": "Shellac",
+        "relation": "has been replaced",
+        "tail_id": "6215",
+        "tail": "by plastic"
+    },
+    {
+        "head_id": "1989",
+        "head": "Nazi Germany and the United Nations",
+        "relation": "adopted",
+        "tail_id": "2626",
+        "tail": "the Universal Declaration of Human Rights"
+    },
+    {
+        "head_id": "18193",
+        "head": "Philadelphia",
+        "relation": "is also served",
+        "tail_id": "8858",
+        "tail": "by Interstate 76"
+    },
+    {
+        "head_id": "11149",
+        "head": "Adobe Flash",
+        "relation": "was widely installed",
+        "tail_id": "19312",
+        "tail": "on desktop computers"
+    },
+    {
+        "head_id": "1473",
+        "head": "Zero",
+        "relation": "has been proposed",
+        "tail_id": "13942",
+        "tail": "as the atomic number of the theoretical element tetraneutron"
+    },
+    {
+        "head_id": "6848",
+        "head": "Bombay",
+        "relation": "reported",
+        "tail_id": "9688",
+        "tail": "~ 15,000 deaths in a population of 1.1 million"
+    },
+    {
+        "head_id": "7515",
+        "head": "Pakistan",
+        "relation": "signed",
+        "tail_id": "16622",
+        "tail": "The Universal Declaration of Human Rights"
+    },
+    {
+        "head_id": "15004",
+        "head": "The Krishna River",
+        "relation": "rises",
+        "tail_id": "108",
+        "tail": "in the Western Ghats"
+    },
+    {
+        "head_id": "12799",
+        "head": "the Victoria Falls",
+        "relation": "are",
+        "tail_id": "4082",
+        "tail": "relatively small"
+    },
+    {
+        "head_id": "14801",
+        "head": "Luxembourg - based Skype Technologies SA",
+        "relation": "was set",
+        "tail_id": "7910",
+        "tail": "to continue working on Windows RT until October 2016"
+    },
+    {
+        "head_id": "16704",
+        "head": "Kyrgyzstan",
+        "relation": "is divided",
+        "tail_id": "8083",
+        "tail": "into seven regions"
+    },
+    {
+        "head_id": "18500",
+        "head": "Mexico City",
+        "relation": "called",
+        "tail_id": "10530",
+        "tail": "the Basin of Mexico"
+    },
+    {
+        "head_id": "1990",
+        "head": "Singapore",
+        "relation": "gained",
+        "tail_id": "10739",
+        "tail": "self - governance"
+    },
+    {
+        "head_id": "17679",
+        "head": "Aaron Hillel Swartz",
+        "relation": "co-founded",
+        "tail_id": "12820",
+        "tail": "Demand Progress"
+    },
+    {
+        "head_id": "17509",
+        "head": "Paraguay",
+        "relation": "was ranked",
+        "tail_id": "1366",
+        "tail": "97th in the Global Innovation Index"
+    },
+    {
+        "head_id": "6955",
+        "head": "the Government of India",
+        "relation": "would not accept",
+        "tail_id": "2244",
+        "tail": "accession from the Maharaja"
+    },
+    {
+        "head_id": "15146",
+        "head": "Christian Gottlob Neefe",
+        "relation": "taught",
+        "tail_id": "6603",
+        "tail": "Ludwig van Beethoven"
+    },
+    {
+        "head_id": "16478",
+        "head": "Oracle Systems Corporation",
+        "relation": "supports",
+        "tail_id": "6202",
+        "tail": "two operating systems"
+    },
+    {
+        "head_id": "20320",
+        "head": "the Radicals",
+        "relation": "denounced",
+        "tail_id": "2378",
+        "tail": "Abraham Lincoln"
+    },
+    {
+        "head_id": "4356",
+        "head": "Guru Tegh Bahadur",
+        "relation": "built",
+        "tail_id": "2802",
+        "tail": "the city of Anandpur Sahib"
+    },
+    {
+        "head_id": "17733",
+        "head": "the once strong economic links",
+        "relation": "integrated",
+        "tail_id": "10680",
+        "tail": "East Bengal"
+    },
+    {
+        "head_id": "14412",
+        "head": "Asthma",
+        "relation": "starts",
+        "tail_id": "18014",
+        "tail": "before the age of 12 years old"
+    },
+    {
+        "head_id": "5146",
+        "head": "three million people",
+        "relation": "perished in",
+        "tail_id": "969",
+        "tail": "Bengal"
+    },
+    {
+        "head_id": "7472",
+        "head": "Subhas Chandra Bose",
+        "relation": "was",
+        "tail_id": "9525",
+        "tail": "unusually driven and charismatic"
+    },
+    {
+        "head_id": "16023",
+        "head": "Louisiana French",
+        "relation": "descended",
+        "tail_id": "9097",
+        "tail": "from the Vulgar Latin of the Western Roman Empire"
+    },
+    {
+        "head_id": "14010",
+        "head": "Lord Shiva",
+        "relation": "manifests",
+        "tail_id": "18251",
+        "tail": "as the human-lion - bird Sharabha"
+    },
+    {
+        "head_id": "11931",
+        "head": "the City of Paris",
+        "relation": "is also",
+        "tail_id": "15541",
+        "tail": "the home of the world's largest cosmetics company"
+    },
+    {
+        "head_id": "5647",
+        "head": "O Umar",
+        "relation": "analyzed",
+        "tail_id": "13548",
+        "tail": "Roman and Persian societies"
+    },
+    {
+        "head_id": "9094",
+        "head": "the Bible",
+        "relation": "was published",
+        "tail_id": "12138",
+        "tail": "in Prague and Vilnius"
+    },
+    {
+        "head_id": "15276",
+        "head": "the Sun",
+        "relation": "existed",
+        "tail_id": "1945",
+        "tail": "in the form of a continuous fluid"
+    },
+    {
+        "head_id": "7751",
+        "head": "John Adams",
+        "relation": "was",
+        "tail_id": "737",
+        "tail": "a sort of middle ground between Protestantism and deism"
+    },
+    {
+        "head_id": "3703",
+        "head": "Victoria Falls",
+        "relation": "becoming",
+        "tail_id": "8208",
+        "tail": "the main tourist centre"
+    },
+    {
+        "head_id": "20001",
+        "head": "Federico Fellini",
+        "relation": "to buy",
+        "tail_id": "9712",
+        "tail": "film rights to all of Carlos Castaneda's work"
+    },
+    {
+        "head_id": "20507",
+        "head": "the United Nations",
+        "relation": "recognised",
+        "tail_id": "12564",
+        "tail": "the South West Africa People's Organisation"
+    },
+    {
+        "head_id": "15273",
+        "head": "Swami Vivekananda",
+        "relation": "failed to pray",
+        "tail_id": "17276",
+        "tail": "for any kind of worldly necessities"
+    },
+    {
+        "head_id": "15511",
+        "head": "Ricardo Ffrench - Davis Gabriel Boric",
+        "relation": "has",
+        "tail_id": "2874",
+        "tail": "two brothers, Simón and Tomás"
+    },
+    {
+        "head_id": "7620",
+        "head": "Hydrogen sulfide",
+        "relation": "is",
+        "tail_id": "11959",
+        "tail": "a colorless chalcogen - hydride gas"
+    },
+    {
+        "head_id": "7895",
+        "head": "Louis Pasteur",
+        "relation": "was appointed",
+        "tail_id": "2762",
+        "tail": "a tutor at the Collège d'Arbois Besançon college"
+    },
+    {
+        "head_id": "2469",
+        "head": "InterGlobe Aviation Ltd.",
+        "relation": "commenced",
+        "tail_id": "1951",
+        "tail": "operations"
+    },
+    {
+        "head_id": "3831",
+        "head": "Yellandu Municipality",
+        "relation": "is classified",
+        "tail_id": "18859",
+        "tail": "as a \" third grade municipality"
+    },
+    {
+        "head_id": "12357",
+        "head": "dictator Alfredo Stroessner",
+        "relation": "ruled",
+        "tail_id": "17509",
+        "tail": "Paraguay"
+    },
+    {
+        "head_id": "16989",
+        "head": "The Emancipation Proclamation",
+        "relation": "included",
+        "tail_id": "2378",
+        "tail": "Abraham Lincoln"
+    },
+    {
+        "head_id": "7409",
+        "head": "only 3.4 % of The population of Lesotho",
+        "relation": "use",
+        "tail_id": "9855",
+        "tail": "the Internet"
+    },
+    {
+        "head_id": "20307",
+        "head": "Aurobindo Ghose",
+        "relation": "retired",
+        "tail_id": "10296",
+        "tail": "into seclusion"
+    },
+    {
+        "head_id": "14443",
+        "head": "Avatar",
+        "relation": "is",
+        "tail_id": "8580",
+        "tail": "a concept within Hinduism"
+    },
+    {
+        "head_id": "5943",
+        "head": "Nirmala Sitharaman",
+        "relation": "is",
+        "tail_id": "186",
+        "tail": "India's first full - time female finance minister"
+    },
+    {
+        "head_id": "8834",
+        "head": "Windows10",
+        "relation": "delivers",
+        "tail_id": "9137",
+        "tail": "the most refined desktop experience ever from Microsoft"
+    },
+    {
+        "head_id": "5480",
+        "head": "Pakistani Punjab",
+        "relation": "came",
+        "tail_id": "3006",
+        "tail": "under the rule of Marathas"
+    },
+    {
+        "head_id": "8428",
+        "head": "Pune",
+        "relation": "has emerged",
+        "tail_id": "18226",
+        "tail": "as a major global educational hub"
+    },
+    {
+        "head_id": "4274",
+        "head": "Hexane",
+        "relation": "is biotransformed",
+        "tail_id": "4391",
+        "tail": "to 2 - hexanol"
+    },
+    {
+        "head_id": "16643",
+        "head": "Nadine Gordimer",
+        "relation": "sparked",
+        "tail_id": "7881",
+        "tail": "outrage in Gordimer's South Africa"
+    },
+    {
+        "head_id": "10289",
+        "head": "William Jefferson Clinton",
+        "relation": "enthusiastically endorsed",
+        "tail_id": "18919",
+        "tail": "Clinton rival Barack Obama"
+    },
+    {
+        "head_id": "13553",
+        "head": "Hong Kong",
+        "relation": "transitioned",
+        "tail_id": "20217",
+        "tail": "to a service - based economy"
+    },
+    {
+        "head_id": "5528",
+        "head": "Finland",
+        "relation": "rapidly industrialized",
+        "tail_id": "3530",
+        "tail": "after World War II"
+    },
+    {
+        "head_id": "12519",
+        "head": "Ram Singh I",
+        "relation": "became",
+        "tail_id": "4356",
+        "tail": "Guru Tegh Bahadur"
+    },
+    {
+        "head_id": "13935",
+        "head": "India",
+        "relation": "is",
+        "tail_id": "15886",
+        "tail": "in the vicinity of Sri Lanka and the Maldives"
+    },
+    {
+        "head_id": "11972",
+        "head": "France",
+        "relation": "invaded",
+        "tail_id": "4502",
+        "tail": "Mexico"
+    },
+    {
+        "head_id": "5841",
+        "head": "lactic acid",
+        "relation": "is produced",
+        "tail_id": "18571",
+        "tail": "by muscle activity"
+    },
+    {
+        "head_id": "15045",
+        "head": "the Krishna mentioned along with Devaki in the ancient Upanishad",
+        "relation": "is woshipped",
+        "tail_id": "12699",
+        "tail": "in the form of Purushottama in Odia"
+    },
+    {
+        "head_id": "3700",
+        "head": "cinematographer Roger Deakins",
+        "relation": "had made",
+        "tail_id": "6169",
+        "tail": "Skyfall"
+    },
+    {
+        "head_id": "13566",
+        "head": "Adolf Hitler",
+        "relation": "became",
+        "tail_id": "256",
+        "tail": "the Chancellor of Nazi Germany"
+    },
+    {
+        "head_id": "17128",
+        "head": "Aspirin",
+        "relation": "was synthesised",
+        "tail_id": "20055",
+        "tail": "to replace the sodium salicylate"
+    },
+    {
+        "head_id": "1160",
+        "head": "Judy Garland",
+        "relation": "had lost",
+        "tail_id": "559",
+        "tail": "15 pounds"
+    },
+    {
+        "head_id": "9329",
+        "head": "Bangalore",
+        "relation": "has",
+        "tail_id": "19585",
+        "tail": "the largest number of broadband Internet connections in India"
+    },
+    {
+        "head_id": "12626",
+        "head": "Alexander Graham Bell",
+        "relation": "was awarded",
+        "tail_id": "6942",
+        "tail": "the first U.S. patent for the telephone"
+    },
+    {
+        "head_id": "7985",
+        "head": "Albania",
+        "relation": "has",
+        "tail_id": "17914",
+        "tail": "a long and ancient history of wine production"
+    },
+    {
+        "head_id": "7895",
+        "head": "Louis Pasteur",
+        "relation": "proposed preventing",
+        "tail_id": "16962",
+        "tail": "the entry of micro-organisms into the human body"
+    },
+    {
+        "head_id": "18193",
+        "head": "Philadelphia",
+        "relation": "colloquially known simply",
+        "tail_id": "19995",
+        "tail": "as Philly"
+    },
+    {
+        "head_id": "20391",
+        "head": "Education",
+        "relation": "attempted",
+        "tail_id": "3714",
+        "tail": "to purge ideas"
+    },
+    {
+        "head_id": "5829",
+        "head": "Phoolan Devi",
+        "relation": "endured",
+        "tail_id": "2487",
+        "tail": "poverty, child marriage"
+    },
+    {
+        "head_id": "3260",
+        "head": "Hindal Mirza Hindal",
+        "relation": "is youngest brother of",
+        "tail_id": "12736",
+        "tail": "Humayun"
+    },
+    {
+        "head_id": "1571",
+        "head": "Anil Kapoor",
+        "relation": "has appeared",
+        "tail_id": "15344",
+        "tail": "in more than 100 films"
+    },
+    {
+        "head_id": "2481",
+        "head": "Alexander the Great",
+        "relation": "conquered",
+        "tail_id": "6350",
+        "tail": "the Middle East"
+    },
+    {
+        "head_id": "12852",
+        "head": "Lesotho",
+        "relation": "did not receive",
+        "tail_id": "552",
+        "tail": "full international recognition"
+    },
+    {
+        "head_id": "12124",
+        "head": "Muzaffarpur Town",
+        "relation": "was named",
+        "tail_id": "19866",
+        "tail": "after an \" aumil"
+    },
+    {
+        "head_id": "8244",
+        "head": "Muslims",
+        "relation": "stopped",
+        "tail_id": "861",
+        "tail": "combat for fear of killing noncombatants"
+    },
+    {
+        "head_id": "20132",
+        "head": "Microsoft",
+        "relation": "produced",
+        "tail_id": "16545",
+        "tail": "MS - Net"
+    },
+    {
+        "head_id": "9862",
+        "head": "First Lady Nancy Reagan",
+        "relation": "took office",
+        "tail_id": "14970",
+        "tail": "in 1981"
+    },
+    {
+        "head_id": "18653",
+        "head": "France and Italy",
+        "relation": "directly undermining",
+        "tail_id": "10554",
+        "tail": "the League of Nations"
+    },
+    {
+        "head_id": "6123",
+        "head": "Virat Kohli",
+        "relation": "had become",
+        "tail_id": "17444",
+        "tail": "the first Indian and also the first Asian skipper"
+    },
+    {
+        "head_id": "1990",
+        "head": "Singapore",
+        "relation": "has restricted",
+        "tail_id": "551",
+        "tail": "freedom of speech and freedom of the press"
+    },
+    {
+        "head_id": "3715",
+        "head": "Nexus 5",
+        "relation": "was unveiled",
+        "tail_id": "7938",
+        "tail": "on October 31, 2013"
+    },
+    {
+        "head_id": "16704",
+        "head": "Kyrgyzstan",
+        "relation": "ranks",
+        "tail_id": "11740",
+        "tail": "last in Central Asia"
+    },
+    {
+        "head_id": "7895",
+        "head": "Louis Pasteur",
+        "relation": "completed",
+        "tail_id": "16024",
+        "tail": "tests on blood and urine"
+    },
+    {
+        "head_id": "5610",
+        "head": "Bhagavad Gita",
+        "relation": "links",
+        "tail_id": "5396",
+        "tail": "the varṇa to an individual's duty"
+    },
+    {
+        "head_id": "2386",
+        "head": "Forbes Magazine",
+        "relation": "has ranked",
+        "tail_id": "5943",
+        "tail": "Nirmala Sitharaman"
+    },
+    {
+        "head_id": "982",
+        "head": "The United Kingdom",
+        "relation": "reneged",
+        "tail_id": "11012",
+        "tail": "on promises of self - governance"
+    },
+    {
+        "head_id": "3873",
+        "head": "The driest country in sub - Saharan Africa",
+        "relation": "has",
+        "tail_id": "19098",
+        "tail": "the second - lowest population density of any sovereign country"
+    },
+    {
+        "head_id": "10303",
+        "head": "The city of San Antonio",
+        "relation": "is visited",
+        "tail_id": "9746",
+        "tail": "by about 32 million tourists"
+    },
+    {
+        "head_id": "4743",
+        "head": "Marseille",
+        "relation": "boasts",
+        "tail_id": "13877",
+        "tail": "a wide variety of sports facilities and teams"
+    },
+    {
+        "head_id": "6565",
+        "head": "mathematics",
+        "relation": "was divided",
+        "tail_id": "6541",
+        "tail": "into two main areas"
+    },
+    {
+        "head_id": "10867",
+        "head": "four Italian SM.82 s bombers",
+        "relation": "bombed",
+        "tail_id": "19681",
+        "tail": "Bahrain"
+    },
+    {
+        "head_id": "6634",
+        "head": "Jamui",
+        "relation": "Situated",
+        "tail_id": "4503",
+        "tail": "along the Bihar - Jharkhand border"
+    },
+    {
+        "head_id": "15917",
+        "head": "Russia",
+        "relation": "decided",
+        "tail_id": "17725",
+        "tail": "to support the Ossetian separatists"
+    },
+    {
+        "head_id": "8027",
+        "head": "The World Health Organization",
+        "relation": "has investigated",
+        "tail_id": "11683",
+        "tail": "the health effects of demineralized water"
+    },
+    {
+        "head_id": "1500",
+        "head": "Coconut water",
+        "relation": "is consumed",
+        "tail_id": "3382",
+        "tail": "throughout the humid tropics"
+    },
+    {
+        "head_id": "13343",
+        "head": "Bidya Devi Bhandari",
+        "relation": "has been accused",
+        "tail_id": "18287",
+        "tail": "of taking a partisan"
+    },
+    {
+        "head_id": "328",
+        "head": "Joseph Priestley",
+        "relation": "to help",
+        "tail_id": "5370",
+        "tail": "found Unitarianism in England"
+    },
+    {
+        "head_id": "13566",
+        "head": "Adolf Hitler",
+        "relation": "suffered",
+        "tail_id": "8263",
+        "tail": "a second bout of blindness"
+    },
+    {
+        "head_id": "17537",
+        "head": "A city wall",
+        "relation": "to protect",
+        "tail_id": "10593",
+        "tail": "Shanghai"
+    },
+    {
+        "head_id": "1004",
+        "head": "The Kalakuta poison",
+        "relation": "generated",
+        "tail_id": "14055",
+        "tail": "Kurma"
+    },
+    {
+        "head_id": "8164",
+        "head": "RNA",
+        "relation": "substitutes",
+        "tail_id": "156",
+        "tail": "uracil"
+    },
+    {
+        "head_id": "15680",
+        "head": "the site of Pompeii",
+        "relation": "offered",
+        "tail_id": "897",
+        "tail": "a unique snapshot of Roman life"
+    },
+    {
+        "head_id": "572",
+        "head": "The Soho Foundry Watt",
+        "relation": "was Initiated",
+        "tail_id": "8522",
+        "tail": "into Scottish Freemasonry"
+    },
+    {
+        "head_id": "12200",
+        "head": "Microsoft Windows",
+        "relation": "includes",
+        "tail_id": "310",
+        "tail": "support for the TRIM command"
+    },
+    {
+        "head_id": "3873",
+        "head": "The driest country in sub - Saharan Africa",
+        "relation": "is also poorly ranked",
+        "tail_id": "1978",
+        "tail": "at the 28th position"
+    },
+    {
+        "head_id": "433",
+        "head": "Sun Microsystems",
+        "relation": "valued",
+        "tail_id": "16144",
+        "tail": "at more than $ 7 billion"
+    },
+    {
+        "head_id": "19552",
+        "head": "Insurance",
+        "relation": "is",
+        "tail_id": "17461",
+        "tail": "a means of protection from financial loss"
+    },
+    {
+        "head_id": "16696",
+        "head": "Equatorial Guinea",
+        "relation": "ranks",
+        "tail_id": "12273",
+        "tail": "144th on the 2019 Human Development Index"
+    },
+    {
+        "head_id": "7495",
+        "head": "Ginger",
+        "relation": "was primarily grown",
+        "tail_id": "9538",
+        "tail": "in southern India and the Greater Sunda Islands"
+    },
+    {
+        "head_id": "12393",
+        "head": "Chukchi geographer Nikolai Daurkin",
+        "relation": "had visited",
+        "tail_id": "5570",
+        "tail": "Alaska"
+    },
+    {
+        "head_id": "6664",
+        "head": "Kottayam Town",
+        "relation": "is",
+        "tail_id": "10941",
+        "tail": "the district headquarters of Kottayam district"
+    },
+    {
+        "head_id": "1324",
+        "head": "Hillary Clinton",
+        "relation": "lost",
+        "tail_id": "13649",
+        "tail": "the 2016 US election"
+    },
+    {
+        "head_id": "6879",
+        "head": "China",
+        "relation": "did not ratify",
+        "tail_id": "655",
+        "tail": "the Comprehensive Nuclear- Test - Ban Treaty"
+    },
+    {
+        "head_id": "9862",
+        "head": "First Lady Nancy Reagan",
+        "relation": "became",
+        "tail_id": "8954",
+        "tail": "a spokesman for General Electric"
+    },
+    {
+        "head_id": "14136",
+        "head": "Foreign Secretary Boris Johnson",
+        "relation": "signed",
+        "tail_id": "614",
+        "tail": "the withdrawal agreement negotiated in October 2019 in Brussels"
+    },
+    {
+        "head_id": "19357",
+        "head": "Lucia",
+        "relation": "died",
+        "tail_id": "16164",
+        "tail": "1906"
+    },
+    {
+        "head_id": "3518",
+        "head": "Irrfan Khan",
+        "relation": "hosted",
+        "tail_id": "14250",
+        "tail": "Kyaa Kahein"
+    },
+    {
+        "head_id": "9741",
+        "head": "Qualcomm",
+        "relation": "had grown",
+        "tail_id": "17340",
+        "tail": "to 6,300 employees"
+    },
+    {
+        "head_id": "4303",
+        "head": "New Delhi",
+        "relation": "called",
+        "tail_id": "18885",
+        "tail": "Kingsway most important tourist attractions"
+    },
+    {
+        "head_id": "1145",
+        "head": "George Herbert Walker Bush",
+        "relation": "signed",
+        "tail_id": "14327",
+        "tail": "the Americans with Disabilities Act"
+    },
+    {
+        "head_id": "18255",
+        "head": "Literary Arabic",
+        "relation": "is modernized",
+        "tail_id": "671",
+        "tail": "Classical Arabic"
+    },
+    {
+        "head_id": "2973",
+        "head": "North America",
+        "relation": "elected",
+        "tail_id": "2450",
+        "tail": "legislative assembly"
+    },
+    {
+        "head_id": "18416",
+        "head": "Osama bin Laden",
+        "relation": "instructed",
+        "tail_id": "16084",
+        "tail": "a Portuguese convert to Islam"
+    },
+    {
+        "head_id": "1102",
+        "head": "Hebrew",
+        "relation": "has been revived",
+        "tail_id": "9683",
+        "tail": "several times as a literary language"
+    },
+    {
+        "head_id": "2085",
+        "head": "George Bernard Shaw",
+        "relation": "experimented",
+        "tail_id": "5363",
+        "tail": "with unorthodox theatrical forms"
+    },
+    {
+        "head_id": "5751",
+        "head": "Ranchi Municipal Corporation",
+        "relation": "is divided",
+        "tail_id": "19889",
+        "tail": "into 55 administrative wards"
+    },
+    {
+        "head_id": "12270",
+        "head": "North Korea",
+        "relation": "is developing",
+        "tail_id": "13757",
+        "tail": "an ICBM"
+    },
+    {
+        "head_id": "10750",
+        "head": "Gurū Nānak",
+        "relation": "is the founder of",
+        "tail_id": "4461",
+        "tail": "Sikhism"
+    },
+    {
+        "head_id": "6766",
+        "head": "the EU",
+        "relation": "sets",
+        "tail_id": "7321",
+        "tail": "catch quotas"
+    },
+    {
+        "head_id": "3913",
+        "head": "Tipu Sultan",
+        "relation": "to issue",
+        "tail_id": "4003",
+        "tail": "pagodas, mohurs and rupees"
+    },
+    {
+        "head_id": "1403",
+        "head": "Warangal district",
+        "relation": "to consist",
+        "tail_id": "4766",
+        "tail": "of 6 talukas and 2 revenue divisions"
+    },
+    {
+        "head_id": "9862",
+        "head": "First Lady Nancy Reagan",
+        "relation": "attended",
+        "tail_id": "2108",
+        "tail": "Dixon High School"
+    },
+    {
+        "head_id": "6195",
+        "head": "Abraham",
+        "relation": "was building",
+        "tail_id": "6429",
+        "tail": "The Kaaba"
+    },
+    {
+        "head_id": "1403",
+        "head": "Warangal district",
+        "relation": "is sub-divided",
+        "tail_id": "15193",
+        "tail": "into 13 and 14 mandals"
+    },
+    {
+        "head_id": "6039",
+        "head": "General Kofi Annan",
+        "relation": "is Secretary of",
+        "tail_id": "727",
+        "tail": "United Nations"
+    },
+    {
+        "head_id": "19681",
+        "head": "Bahrain",
+        "relation": "participated",
+        "tail_id": "13907",
+        "tail": "in military action against the Taliban"
+    },
+    {
+        "head_id": "13355",
+        "head": "the language of the Quran",
+        "relation": "has been taught",
+        "tail_id": "16447",
+        "tail": "worldwide"
+    },
+    {
+        "head_id": "6865",
+        "head": "Limonia acidissima",
+        "relation": "has also been introduced",
+        "tail_id": "151",
+        "tail": "to Indochina and Malesia"
+    },
+    {
+        "head_id": "6169",
+        "head": "Skyfall",
+        "relation": "grossed",
+        "tail_id": "18024",
+        "tail": "£ 20.1 million on"
+    },
+    {
+        "head_id": "7549",
+        "head": "William Worrall Mayo",
+        "relation": "is an immigrant from",
+        "tail_id": "16280",
+        "tail": "England"
+    },
+    {
+        "head_id": "19523",
+        "head": "Jupiter",
+        "relation": "is one of",
+        "tail_id": "709",
+        "tail": "the two gas giants"
+    },
+    {
+        "head_id": "971",
+        "head": "the water surplus Godavari River",
+        "relation": "receives",
+        "tail_id": "222",
+        "tail": "a minor but significant tributary Kadam river"
+    },
+    {
+        "head_id": "4732",
+        "head": "Tamil Nadu",
+        "relation": "use",
+        "tail_id": "15461",
+        "tail": "Natural farming"
+    },
+    {
+        "head_id": "6123",
+        "head": "Virat Kohli",
+        "relation": "invested",
+        "tail_id": "2927",
+        "tail": "in Indian Super League club FC Goa"
+    },
+    {
+        "head_id": "14577",
+        "head": "Plumbing",
+        "relation": "originated",
+        "tail_id": "17548",
+        "tail": "during ancient civilizations"
+    },
+    {
+        "head_id": "1280",
+        "head": "Avestan",
+        "relation": "was the language of",
+        "tail_id": "20083",
+        "tail": "the Zoroastrian"
+    },
+    {
+        "head_id": "6583",
+        "head": "Arundo donax",
+        "relation": "to be",
+        "tail_id": "16488",
+        "tail": "rich in active tryptamine compounds"
+    },
+    {
+        "head_id": "19088",
+        "head": "Microsoft Corporation",
+        "relation": "added",
+        "tail_id": "13",
+        "tail": "Skype Interviews"
+    },
+    {
+        "head_id": "9743",
+        "head": "William Shakespeare",
+        "relation": "most frequently performed",
+        "tail_id": "3106",
+        "tail": "plays"
+    },
+    {
+        "head_id": "619",
+        "head": "future New York Mets general manager Brodie Van Wagenen Armstrong",
+        "relation": "graduated",
+        "tail_id": "4801",
+        "tail": "with a Bachelor of Science degree in Aeronautical Engineering"
+    },
+    {
+        "head_id": "328",
+        "head": "Joseph Priestley",
+        "relation": "is",
+        "tail_id": "3441",
+        "tail": "the sufferer for the doctrines"
+    },
+    {
+        "head_id": "1102",
+        "head": "Hebrew",
+        "relation": "has",
+        "tail_id": "12826",
+        "tail": "as the language of prayer and study"
+    },
+    {
+        "head_id": "18118",
+        "head": "Lin Dan",
+        "relation": "is",
+        "tail_id": "5817",
+        "tail": "a Chinese former professional badminton player"
+    },
+    {
+        "head_id": "14650",
+        "head": "President Ali Abdullah Saleh",
+        "relation": "handed",
+        "tail_id": "9175",
+        "tail": "power to Vice President Hadi"
+    },
+    {
+        "head_id": "16596",
+        "head": "Buddhism",
+        "relation": "flourished",
+        "tail_id": "16021",
+        "tail": "under the support of the Pāla Empire"
+    },
+    {
+        "head_id": "10593",
+        "head": "Shanghai",
+        "relation": "was severely damaged",
+        "tail_id": "7471",
+        "tail": "with 310,000 wrongful convictions"
+    },
+    {
+        "head_id": "12497",
+        "head": "Kashmiri militants",
+        "relation": "fighting",
+        "tail_id": "6893",
+        "tail": "NATO"
+    },
+    {
+        "head_id": "16615",
+        "head": "a new constitution",
+        "relation": "formally made",
+        "tail_id": "19801",
+        "tail": "Malawi"
+    },
+    {
+        "head_id": "16561",
+        "head": "Japan",
+        "relation": "aimed",
+        "tail_id": "8510",
+        "tail": "to dominate Asia and the Pacific in the Central Pacific"
+    },
+    {
+        "head_id": "2482",
+        "head": "Tsai Ing-wen",
+        "relation": "defeated",
+        "tail_id": "12696",
+        "tail": "Kaohsiung County deputy commissioner Kuo Tai-lin"
+    },
+    {
+        "head_id": "1985",
+        "head": "Archaeology",
+        "relation": "sheds",
+        "tail_id": "7429",
+        "tail": "light on many of humanity's technological advances"
+    },
+    {
+        "head_id": "7985",
+        "head": "Albania",
+        "relation": "has participated",
+        "tail_id": "382",
+        "tail": "in six international missions"
+    },
+    {
+        "head_id": "1127",
+        "head": "vasectomy",
+        "relation": "is associated",
+        "tail_id": "16429",
+        "tail": "with prostate cancer"
+    },
+    {
+        "head_id": "3873",
+        "head": "The driest country in sub - Saharan Africa",
+        "relation": "became",
+        "tail_id": "13217",
+        "tail": "the 50th member of the Commonwealth of Nations"
+    },
+    {
+        "head_id": "18216",
+        "head": "Nazi Germany",
+        "relation": "seizing",
+        "tail_id": "280",
+        "tail": "military control of Italian areas"
+    },
+    {
+        "head_id": "12124",
+        "head": "Muzaffarpur Town",
+        "relation": "is known",
+        "tail_id": "6698",
+        "tail": "as the Lychee Kingdom"
+    },
+    {
+        "head_id": "19524",
+        "head": "Elena Vesnina",
+        "relation": "appeared",
+        "tail_id": "5699",
+        "tail": "on ABC comedic improv TV series"
+    },
+    {
+        "head_id": "2378",
+        "head": "Abraham Lincoln",
+        "relation": "was",
+        "tail_id": "4659",
+        "tail": "an active wrestler"
+    },
+    {
+        "head_id": "15273",
+        "head": "Swami Vivekananda",
+        "relation": "began",
+        "tail_id": "4238",
+        "tail": "to frequently visit Ramakrishna, O Lord at Dakshineswar"
+    },
+    {
+        "head_id": "12720",
+        "head": "Nawazuddin Siddiqui",
+        "relation": "was awarded",
+        "tail_id": "5706",
+        "tail": "the Special Jury Award"
+    },
+    {
+        "head_id": "19750",
+        "head": "Samuel Finley Breese Morse",
+        "relation": "visited",
+        "tail_id": "11684",
+        "tail": "Rome"
+    },
+    {
+        "head_id": "3502",
+        "head": "the U.S. government",
+        "relation": "agreed",
+        "tail_id": "9415",
+        "tail": "to a $ 92 million settlement with Gen Re"
+    },
+    {
+        "head_id": "7348",
+        "head": "Kabaddi",
+        "relation": "was also played",
+        "tail_id": "8966",
+        "tail": "by the British Army for fun"
+    },
+    {
+        "head_id": "2085",
+        "head": "George Bernard Shaw",
+        "relation": "read",
+        "tail_id": "3724",
+        "tail": "the political economist Henry George book"
+    },
+    {
+        "head_id": "308",
+        "head": "climate change",
+        "relation": "has impacted",
+        "tail_id": "6945",
+        "tail": "Tanzania"
+    },
+    {
+        "head_id": "1145",
+        "head": "George Herbert Walker Bush",
+        "relation": "needed",
+        "tail_id": "14875",
+        "tail": "Mikhail Gorbachev cooperation in the potential reunification of Germany"
+    },
+    {
+        "head_id": "13566",
+        "head": "Adolf Hitler",
+        "relation": "faced",
+        "tail_id": "4588",
+        "tail": "the risk of deportation"
+    },
+    {
+        "head_id": "9378",
+        "head": "Australia",
+        "relation": "has been shaped",
+        "tail_id": "1707",
+        "tail": "by centuries of immigration"
+    },
+    {
+        "head_id": "13935",
+        "head": "India",
+        "relation": "became",
+        "tail_id": "1111",
+        "tail": "the largest motorcycle market of Honda Racing Corporation"
+    },
+    {
+        "head_id": "7495",
+        "head": "Ginger",
+        "relation": "is also consumed",
+        "tail_id": "1352",
+        "tail": "in candied and pickled form"
+    },
+    {
+        "head_id": "1145",
+        "head": "George Herbert Walker Bush",
+        "relation": "left",
+        "tail_id": "2636",
+        "tail": "office with a 56 percent job approval rating"
+    },
+    {
+        "head_id": "5528",
+        "head": "Finland",
+        "relation": "joined",
+        "tail_id": "20507",
+        "tail": "the United Nations"
+    },
+    {
+        "head_id": "2736",
+        "head": "Kenneth Stone",
+        "relation": "is Professor of",
+        "tail_id": "1388",
+        "tail": "Economics"
+    },
+    {
+        "head_id": "5559",
+        "head": "German thinker Friedrich Engels",
+        "relation": "had also developed",
+        "tail_id": "9029",
+        "tail": "a close relationship with many Chartist leaders"
+    },
+    {
+        "head_id": "6770",
+        "head": "Mohammad Hamid Ansari",
+        "relation": "was appointed",
+        "tail_id": "5287",
+        "tail": "the Vice - Chancellor of the Aligarh Muslim University"
+    },
+    {
+        "head_id": "6568",
+        "head": "Pepsi",
+        "relation": "outsells",
+        "tail_id": "4409",
+        "tail": "Coca - Cola Co."
+    },
+    {
+        "head_id": "6510",
+        "head": "Nitric acid",
+        "relation": "was pumped out",
+        "tail_id": "10980",
+        "tail": "from a earthenware pipe"
+    },
+    {
+        "head_id": "5037",
+        "head": "Viking Technology",
+        "relation": "demonstrated a 1 TB flash SSD using",
+        "tail_id": "19966",
+        "tail": "a PCI Express × 8 interface"
+    },
+    {
+        "head_id": "586",
+        "head": "Nusrat Fateh Ali Khan",
+        "relation": "adopted",
+        "tail_id": "2003",
+        "tail": "music as a profession"
+    },
+    {
+        "head_id": "15780",
+        "head": "Mirabilis jalapa",
+        "relation": "became naturalized",
+        "tail_id": "14682",
+        "tail": "on the west coast"
+    },
+    {
+        "head_id": "12856",
+        "head": "The Stone Age of Europe",
+        "relation": "ended",
+        "tail_id": "12314",
+        "tail": "around 50,000 years ago"
+    },
+    {
+        "head_id": "242",
+        "head": "2.4 million immigrants from non-EU countries",
+        "relation": "entered",
+        "tail_id": "10444",
+        "tail": "The European Union"
+    },
+    {
+        "head_id": "20103",
+        "head": "Cooking",
+        "relation": "increases",
+        "tail_id": "10390",
+        "tail": "protein digestibility, essential amino acid index, and protein efficiency ratio"
+    },
+    {
+        "head_id": "13566",
+        "head": "Adolf Hitler",
+        "relation": "launched",
+        "tail_id": "1487",
+        "tail": "the invasion of Yugoslavia"
+    },
+    {
+        "head_id": "19073",
+        "head": "Photographer Felix Beato",
+        "relation": "climbed",
+        "tail_id": "12628",
+        "tail": "The summit of Mount Fuji"
+    },
+    {
+        "head_id": "14404",
+        "head": "Psidium",
+        "relation": "is",
+        "tail_id": "15557",
+        "tail": "a genus of trees and shrubs in the family Myrtaceae"
+    },
+    {
+        "head_id": "9862",
+        "head": "First Lady Nancy Reagan",
+        "relation": "was",
+        "tail_id": "6065",
+        "tail": "the first president to have been divorced"
+    },
+    {
+        "head_id": "9770",
+        "head": "Afghanistan",
+        "relation": "became",
+        "tail_id": "15747",
+        "tail": "a Christian nation"
+    },
+    {
+        "head_id": "13558",
+        "head": "British India",
+        "relation": "is",
+        "tail_id": "19441",
+        "tail": "about 1100 miles south of the national capital New Delhi"
+    },
+    {
+        "head_id": "544",
+        "head": "Lawrence Lessig",
+        "relation": "is founder of",
+        "tail_id": "14715",
+        "tail": "Creative Commons"
+    },
+    {
+        "head_id": "2862",
+        "head": "the mass of humidity",
+        "relation": "surrounded",
+        "tail_id": "10865",
+        "tail": "Earth"
+    },
+    {
+        "head_id": "1661",
+        "head": "Ore",
+        "relation": "refined",
+        "tail_id": "438",
+        "tail": "often via smelting"
+    },
+    {
+        "head_id": "17679",
+        "head": "Aaron Hillel Swartz",
+        "relation": "has been featured",
+        "tail_id": "4616",
+        "tail": "in various works of art"
+    },
+    {
+        "head_id": "9690",
+        "head": "Charles - Édouard Jeanneret",
+        "relation": "designed",
+        "tail_id": "11788",
+        "tail": "furniture to go with the Esprit Nouveau Pavilion"
+    },
+    {
+        "head_id": "11662",
+        "head": "Andorra",
+        "relation": "is not",
+        "tail_id": "13973",
+        "tail": "a member of the European Union"
+    },
+    {
+        "head_id": "14369",
+        "head": "Leonardo da Vinci",
+        "relation": "warned",
+        "tail_id": "9147",
+        "tail": "artists not to use verdigris"
+    },
+    {
+        "head_id": "2205",
+        "head": "Technetium",
+        "relation": "may have been discovered naturally",
+        "tail_id": "12251",
+        "tail": "in 1925"
+    },
+    {
+        "head_id": "6867",
+        "head": "ZnO",
+        "relation": "has been demonstrated",
+        "tail_id": "9912",
+        "tail": "in miniaturised high frequency thin film resonators, sensors and filters"
+    },
+    {
+        "head_id": "8460",
+        "head": "Fashion design",
+        "relation": "to have started",
+        "tail_id": "8127",
+        "tail": "in the 19th century with Charles Frederick Worth"
+    },
+    {
+        "head_id": "3072",
+        "head": "Jean-Joseph Sanfourche",
+        "relation": "studying",
+        "tail_id": "5122",
+        "tail": "accounting"
+    },
+    {
+        "head_id": "7766",
+        "head": "Calculus",
+        "relation": "is",
+        "tail_id": "13328",
+        "tail": "the study of continuous functions"
+    },
+    {
+        "head_id": "15273",
+        "head": "Swami Vivekananda",
+        "relation": "repeatedly addressed social issues",
+        "tail_id": "18607",
+        "tail": "the caste system"
+    },
+    {
+        "head_id": "9985",
+        "head": "the French",
+        "relation": "administered",
+        "tail_id": "3691",
+        "tail": "the province of Fezzan"
+    },
+    {
+        "head_id": "7472",
+        "head": "Subhas Chandra Bose",
+        "relation": "died aged",
+        "tail_id": "5892",
+        "tail": "48"
+    },
+    {
+        "head_id": "10680",
+        "head": "East Bengal",
+        "relation": "was",
+        "tail_id": "17130",
+        "tail": "into the Mughal Empire"
+    },
+    {
+        "head_id": "9862",
+        "head": "First Lady Nancy Reagan",
+        "relation": "didn't have",
+        "tail_id": "16469",
+        "tail": "Sandra Day O'Connor"
+    },
+    {
+        "head_id": "16478",
+        "head": "Oracle Systems Corporation",
+        "relation": "hiring",
+        "tail_id": "17405",
+        "tail": "former Hewlett - Packard CEO Mark Hurd"
+    },
+    {
+        "head_id": "2085",
+        "head": "George Bernard Shaw",
+        "relation": "to give up keeping",
+        "tail_id": "2491",
+        "tail": "a diary"
+    },
+    {
+        "head_id": "1160",
+        "head": "Judy Garland",
+        "relation": "was not officially divorced",
+        "tail_id": "13231",
+        "tail": "from Sidney Luft"
+    },
+    {
+        "head_id": "857",
+        "head": "Lakshadweep",
+        "relation": "does not have",
+        "tail_id": "7714",
+        "tail": "a rich flora"
+    },
+    {
+        "head_id": "3061",
+        "head": "Colombo",
+        "relation": "was",
+        "tail_id": "639",
+        "tail": "as a military fort"
+    },
+    {
+        "head_id": "16696",
+        "head": "Equatorial Guinea",
+        "relation": "has become",
+        "tail_id": "5635",
+        "tail": "one of Sub -Saharan Africa largest oil producers"
+    },
+    {
+        "head_id": "4491",
+        "head": "Muscat",
+        "relation": "is the seat of",
+        "tail_id": "10455",
+        "tail": "the Governorate"
+    },
+    {
+        "head_id": "3495",
+        "head": "Arcturus",
+        "relation": "is",
+        "tail_id": "12229",
+        "tail": "the zenith star of the Marquesas Islands"
+    },
+    {
+        "head_id": "20335",
+        "head": "Iraq",
+        "relation": "imposed",
+        "tail_id": "1189",
+        "tail": "large tariffs to keep out foreign goods"
+    },
+    {
+        "head_id": "8834",
+        "head": "Windows10",
+        "relation": "uses",
+        "tail_id": "3274",
+        "tail": "PINs to create strong asymmetric key pairs"
+    },
+    {
+        "head_id": "16448",
+        "head": "Jaisalmer",
+        "relation": "nicknamed",
+        "tail_id": "12745",
+        "tail": "The Golden city"
+    },
+    {
+        "head_id": "3934",
+        "head": "Ronald Reagan",
+        "relation": "built up",
+        "tail_id": "17040",
+        "tail": "a commanding delegate lead"
+    },
+    {
+        "head_id": "1388",
+        "head": "Economics",
+        "relation": "studies",
+        "tail_id": "16717",
+        "tail": "effects of monetary policy and fiscal policy"
+    },
+    {
+        "head_id": "5",
+        "head": "the Government of Bangladesh",
+        "relation": "made",
+        "tail_id": "8095",
+        "tail": "resumption of food aid"
+    },
+    {
+        "head_id": "10300",
+        "head": "the World Health Organization",
+        "relation": "has recommended",
+        "tail_id": "13124",
+        "tail": "two typhoid fever vaccines"
+    },
+    {
+        "head_id": "9383",
+        "head": "Isaac Newton",
+        "relation": "defined",
+        "tail_id": "17330",
+        "tail": "inertia as a force"
+    },
+    {
+        "head_id": "12863",
+        "head": "HIV",
+        "relation": "originated",
+        "tail_id": "6051",
+        "tail": "in Africa"
+    },
+    {
+        "head_id": "6237",
+        "head": "the Thousand - Armed Avalokiteśvara",
+        "relation": "had freed",
+        "tail_id": "10074",
+        "tail": "all sentient beings from saṃsāra"
+    },
+    {
+        "head_id": "2368",
+        "head": "Carl Linnaeus",
+        "relation": "went",
+        "tail_id": "13276",
+        "tail": "to Falun"
+    },
+    {
+        "head_id": "12359",
+        "head": "Santa Clara Valley",
+        "relation": "received",
+        "tail_id": "2392",
+        "tail": "41 % of all U.S. venture investment"
+    },
+    {
+        "head_id": "2085",
+        "head": "George Bernard Shaw",
+        "relation": "espoused",
+        "tail_id": "8565",
+        "tail": "racial equality, and inter-marriage between people of different races"
+    },
+    {
+        "head_id": "6583",
+        "head": "Arundo donax",
+        "relation": "is",
+        "tail_id": "9617",
+        "tail": "one of several so - called reed species"
+    },
+    {
+        "head_id": "6635",
+        "head": "Formaldehyde",
+        "relation": "gives sequentially",
+        "tail_id": "451",
+        "tail": "propargyl alcohol and butynediol"
+    },
+    {
+        "head_id": "10824",
+        "head": "Libya",
+        "relation": "having been ruled",
+        "tail_id": "4528",
+        "tail": "by the Ottoman Empire"
+    },
+    {
+        "head_id": "305",
+        "head": "T. S. Eliot",
+        "relation": "play",
+        "tail_id": "19617",
+        "tail": "The Confidential Clerk"
+    },
+    {
+        "head_id": "11902",
+        "head": "Lake Malawi",
+        "relation": "also called",
+        "tail_id": "10678",
+        "tail": "Lake Nyasa"
+    },
+    {
+        "head_id": "17493",
+        "head": "Singaporeans",
+        "relation": "are mostly",
+        "tail_id": "12382",
+        "tail": "bilingual"
+    },
+    {
+        "head_id": "17266",
+        "head": "Ireland",
+        "relation": "achieved",
+        "tail_id": "6957",
+        "tail": "independence"
+    },
+    {
+        "head_id": "4401",
+        "head": "Qatar",
+        "relation": "joined",
+        "tail_id": "3234",
+        "tail": "NATO operations in Libya"
+    },
+    {
+        "head_id": "9378",
+        "head": "Australia",
+        "relation": "has pursued",
+        "tail_id": "3284",
+        "tail": "an official policy of multiculturalism"
+    },
+    {
+        "head_id": "7825",
+        "head": "Goh Chok Tong",
+        "relation": "became",
+        "tail_id": "1990",
+        "tail": "Singapore"
+    },
+    {
+        "head_id": "13566",
+        "head": "Adolf Hitler",
+        "relation": "expressed",
+        "tail_id": "10601",
+        "tail": "loyalty only to Nazi Germany"
+    },
+    {
+        "head_id": "6478",
+        "head": "Thomas Jefferson",
+        "relation": "was portrayed",
+        "tail_id": "5488",
+        "tail": "as an apostle of liberty and man of the people"
+    },
+    {
+        "head_id": "8230",
+        "head": "Sayyid Ruhollah Musavi Khomeini",
+        "relation": "began to study",
+        "tail_id": "8539",
+        "tail": "the Qur 'an"
+    },
+    {
+        "head_id": "9314",
+        "head": "Nero Claudius Caesar Augustus Germanicus",
+        "relation": "is full name of",
+        "tail_id": "3130",
+        "tail": "Nero"
+    },
+    {
+        "head_id": "9690",
+        "head": "Charles - Édouard Jeanneret",
+        "relation": "was contacted",
+        "tail_id": "3584",
+        "tail": "in 1950 by Indian Prime Minister Jawaharlal Nehru"
+    },
+    {
+        "head_id": "20445",
+        "head": "the Andaman and Nicobar Islands",
+        "relation": "were nominally put",
+        "tail_id": "8727",
+        "tail": "under the authority of the Arzi Hukumat -e- Azad Hind"
+    },
+    {
+        "head_id": "13550",
+        "head": "Seleucus of Seleucia",
+        "relation": "had affirmed",
+        "tail_id": "10540",
+        "tail": "the Earth"
+    },
+    {
+        "head_id": "9623",
+        "head": "Jain community",
+        "relation": "has adorned",
+        "tail_id": "16448",
+        "tail": "Jaisalmer"
+    },
+    {
+        "head_id": "18416",
+        "head": "Osama bin Laden",
+        "relation": "planned to hijack",
+        "tail_id": "8813",
+        "tail": "a plane"
+    },
+    {
+        "head_id": "19775",
+        "head": "the Hindu God Vishnu",
+        "relation": "assumes the form of Mohini merely to distribute",
+        "tail_id": "17803",
+        "tail": "the nectar amongst the gods"
+    },
+    {
+        "head_id": "4200",
+        "head": "Potassium bromide",
+        "relation": "is",
+        "tail_id": "6685",
+        "tail": "as an antiepileptic drug for humans, particularly children and adolescents"
+    },
+    {
+        "head_id": "10769",
+        "head": "Fire",
+        "relation": "releases",
+        "tail_id": "8415",
+        "tail": "CO"
+    },
+    {
+        "head_id": "5275",
+        "head": "Bangladesh",
+        "relation": "to keep",
+        "tail_id": "2328",
+        "tail": "public order"
+    },
+    {
+        "head_id": "10730",
+        "head": "Indira Gandhi",
+        "relation": "is the then Prime Minister of",
+        "tail_id": "13935",
+        "tail": "India"
+    },
+    {
+        "head_id": "3873",
+        "head": "The driest country in sub - Saharan Africa",
+        "relation": "depends largely",
+        "tail_id": "8210",
+        "tail": "on groundwater"
+    },
+    {
+        "head_id": "4270",
+        "head": "Vishnuvardhana",
+        "relation": "is King of",
+        "tail_id": "17702",
+        "tail": "Hoysala"
+    },
+    {
+        "head_id": "807",
+        "head": "alcohol",
+        "relation": "to make",
+        "tail_id": "17487",
+        "tail": "A.C.E. mixture"
+    },
+    {
+        "head_id": "15468",
+        "head": "Napoleon",
+        "relation": "called",
+        "tail_id": "12509",
+        "tail": "The Man of Destiny"
+    },
+    {
+        "head_id": "4860",
+        "head": "Indian troops",
+        "relation": "to secure",
+        "tail_id": "12492",
+        "tail": "Hyderabad State"
+    },
+    {
+        "head_id": "5570",
+        "head": "Alaska",
+        "relation": "regularly supports",
+        "tail_id": "13830",
+        "tail": "Republicans"
+    },
+    {
+        "head_id": "17164",
+        "head": "folate deficiency",
+        "relation": "limits",
+        "tail_id": "9965",
+        "tail": "cell division"
+    },
+    {
+        "head_id": "10680",
+        "head": "East Bengal",
+        "relation": "had",
+        "tail_id": "20236",
+        "tail": "a large shipbuilding industry"
+    },
+    {
+        "head_id": "7545",
+        "head": "Hakeem Arshad Qureshi",
+        "relation": "is Major General of",
+        "tail_id": "1726",
+        "tail": "Pakistan Army"
+    },
+    {
+        "head_id": "18500",
+        "head": "Mexico City",
+        "relation": "can never become",
+        "tail_id": "1988",
+        "tail": "a state"
+    },
+    {
+        "head_id": "12515",
+        "head": "John Lasseter",
+        "relation": "tried to pitch",
+        "tail_id": "3570",
+        "tail": "The Brave Little Toaster"
+    },
+    {
+        "head_id": "13432",
+        "head": "B. Narsing Rao",
+        "relation": "directed",
+        "tail_id": "15816",
+        "tail": "Daasi"
+    },
+    {
+        "head_id": "13807",
+        "head": "Slumdog Millionaire",
+        "relation": "lacks",
+        "tail_id": "9596",
+        "tail": "recognisable stars"
+    },
+    {
+        "head_id": "4097",
+        "head": "Blood plasma",
+        "relation": "is",
+        "tail_id": "19234",
+        "tail": "a light amber - colored liquid component of blood"
+    },
+    {
+        "head_id": "16271",
+        "head": "Stephen A. Douglas",
+        "relation": "is Senator from",
+        "tail_id": "19269",
+        "tail": "Illinois"
+    },
+    {
+        "head_id": "9690",
+        "head": "Charles - Édouard Jeanneret",
+        "relation": "sought",
+        "tail_id": "9106",
+        "tail": "commissions from the pro-Axis Vichy regime"
+    },
+    {
+        "head_id": "6123",
+        "head": "Virat Kohli",
+        "relation": "found success",
+        "tail_id": "12680",
+        "tail": "in the test series in Australia"
+    },
+    {
+        "head_id": "3683",
+        "head": "Baptism",
+        "relation": "is understood",
+        "tail_id": "10357",
+        "tail": "as a confessional expression of faith and repentance"
+    },
+    {
+        "head_id": "2996",
+        "head": "United Kingdom",
+        "relation": "to invade",
+        "tail_id": "3136",
+        "tail": "Vichy -held Madagascar"
+    },
+    {
+        "head_id": "19650",
+        "head": "The State of Connecticut government",
+        "relation": "was also",
+        "tail_id": "18894",
+        "tail": "an important U.S. Navy supplier"
+    },
+    {
+        "head_id": "4027",
+        "head": "Unemployment",
+        "relation": "can cause",
+        "tail_id": "15455",
+        "tail": "underemployment"
+    },
+    {
+        "head_id": "19329",
+        "head": "French",
+        "relation": "to join",
+        "tail_id": "15174",
+        "tail": "Francophonie"
+    },
+    {
+        "head_id": "17817",
+        "head": "the Bharatiya Janata Party government",
+        "relation": "promulgated",
+        "tail_id": "6721",
+        "tail": "three ordinances ( or temporary laws"
+    },
+    {
+        "head_id": "12329",
+        "head": "Canada",
+        "relation": "to grant",
+        "tail_id": "6271",
+        "tail": "academic degrees"
+    },
+    {
+        "head_id": "1181",
+        "head": "television stations",
+        "relation": "broadcasts",
+        "tail_id": "5041",
+        "tail": "Adhan"
+    },
+    {
+        "head_id": "328",
+        "head": "Joseph Priestley",
+        "relation": "fitted in well",
+        "tail_id": "2480",
+        "tail": "at Warrington"
+    },
+    {
+        "head_id": "3210",
+        "head": "European",
+        "relation": "dominated",
+        "tail_id": "3709",
+        "tail": "IMF"
+    },
+    {
+        "head_id": "9062",
+        "head": "MPs",
+        "relation": "to represent",
+        "tail_id": "10710",
+        "tail": "constituencies"
+    },
+    {
+        "head_id": "10798",
+        "head": "Bruce Lee",
+        "relation": "also started",
+        "tail_id": "14075",
+        "tail": "to teach martial arts"
+    },
+    {
+        "head_id": "5231",
+        "head": "the British",
+        "relation": "took over",
+        "tail_id": "17317",
+        "tail": "the administration of the new colony of Italian Eritrea"
+    },
+    {
+        "head_id": "1641",
+        "head": "Aisha",
+        "relation": "is widow of",
+        "tail_id": "19157",
+        "tail": "Prophet Muhammad"
+    },
+    {
+        "head_id": "3913",
+        "head": "Tipu Sultan",
+        "relation": "continued to issue",
+        "tail_id": "4003",
+        "tail": "pagodas, mohurs and rupees"
+    },
+    {
+        "head_id": "895",
+        "head": "Michel Platini",
+        "relation": "is President of",
+        "tail_id": "20167",
+        "tail": "UEFA"
+    },
+    {
+        "head_id": "1581",
+        "head": "William Shockley",
+        "relation": "left",
+        "tail_id": "6894",
+        "tail": "Bell Labs"
+    },
+    {
+        "head_id": "6955",
+        "head": "the Government of India",
+        "relation": "has also competed",
+        "tail_id": "20544",
+        "tail": "at several Winter Olympic Games"
+    },
+    {
+        "head_id": "17154",
+        "head": "Bonobos",
+        "relation": "is apparel company of",
+        "tail_id": "20231",
+        "tail": "men"
+    },
+    {
+        "head_id": "5269",
+        "head": "a 2001 law on contraception and infanticide",
+        "relation": "permitted",
+        "tail_id": "1127",
+        "tail": "vasectomy"
+    },
+    {
+        "head_id": "2368",
+        "head": "Carl Linnaeus",
+        "relation": "set out",
+        "tail_id": "12220",
+        "tail": "from Lund University in Skåne"
+    },
+    {
+        "head_id": "7472",
+        "head": "Subhas Chandra Bose",
+        "relation": "chose",
+        "tail_id": "18366",
+        "tail": "to study philosophy"
+    },
+    {
+        "head_id": "2518",
+        "head": "Maulana Masood Azhar",
+        "relation": "to have met",
+        "tail_id": "18416",
+        "tail": "Osama bin Laden"
+    },
+    {
+        "head_id": "15923",
+        "head": "the San Diego City and County",
+        "relation": "is served",
+        "tail_id": "10189",
+        "tail": "by a network of freeways and highways"
+    },
+    {
+        "head_id": "11901",
+        "head": "copper",
+        "relation": "for creating",
+        "tail_id": "13045",
+        "tail": "bracelets"
+    },
+    {
+        "head_id": "11347",
+        "head": "Alkanes",
+        "relation": "do not form",
+        "tail_id": "4055",
+        "tail": "hydrogen bonds"
+    }
+]

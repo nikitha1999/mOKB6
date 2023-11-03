@@ -1,0 +1,3852 @@
+[
+    {
+        "head_id": "4163",
+        "head": "路易斯 · 巴斯德",
+        "relation": "反驳 了",
+        "tail_id": "1559",
+        "tail": "海因里希 · 赫尔曼 · 罗伯特 · 科赫"
+    },
+    {
+        "head_id": "4005",
+        "head": "观世 音 菩萨",
+        "relation": "称",
+        "tail_id": "1239",
+        "tail": "为 世间 菩萨"
+    },
+    {
+        "head_id": "4247",
+        "head": "朋友 Nikolaus Simrock",
+        "relation": "开始 出版",
+        "tail_id": "1572",
+        "tail": "Ludwig van Beethoven"
+    },
+    {
+        "head_id": "1974",
+        "head": "林丹",
+        "relation": "夺得",
+        "tail_id": "4924",
+        "tail": "韩国 公开"
+    },
+    {
+        "head_id": "4538",
+        "head": "密西西比 河 以西 的 明尼苏达 州",
+        "relation": "有",
+        "tail_id": "1688",
+        "tail": "一 个 活跃 的 有 组织 的 业余 和 职业 运动 项目"
+    },
+    {
+        "head_id": "1653",
+        "head": "面包",
+        "relation": "是",
+        "tail_id": "2728",
+        "tail": "古老 的 人类 食品 之 一"
+    },
+    {
+        "head_id": "816",
+        "head": "第一 夫人 南希 · 里根",
+        "relation": "帮助",
+        "tail_id": "2107",
+        "tail": "创造 了 一 个 更 安全 、 更 自由 的 世界"
+    },
+    {
+        "head_id": "3879",
+        "head": "乔 · 拜登",
+        "relation": "带领",
+        "tail_id": "3836",
+        "tail": "特拉华 州 交通 部"
+    },
+    {
+        "head_id": "3823",
+        "head": "法国",
+        "relation": "日获胜",
+        "tail_id": "684",
+        "tail": "在 6 月 29"
+    },
+    {
+        "head_id": "136",
+        "head": "十字 军 东征",
+        "relation": "命令",
+        "tail_id": "2488",
+        "tail": "上帝 的"
+    },
+    {
+        "head_id": "146",
+        "head": "二十 年 的 经济 增长",
+        "relation": "帮助",
+        "tail_id": "4032",
+        "tail": "柬埔寨"
+    },
+    {
+        "head_id": "3701",
+        "head": "乔治 · 赫伯特 · 沃克 · 布什",
+        "relation": "输掉",
+        "tail_id": "4887",
+        "tail": "下来 的 几 次 初选"
+    },
+    {
+        "head_id": "3832",
+        "head": "考古",
+        "relation": "起源",
+        "tail_id": "317",
+        "tail": "于 欧洲 的 古物 研究"
+    },
+    {
+        "head_id": "69",
+        "head": "量子 力学",
+        "relation": "允许",
+        "tail_id": "4631",
+        "tail": "计算 物理 系统 的 属性 和 行为"
+    },
+    {
+        "head_id": "4825",
+        "head": "以色列 的 俄 语",
+        "relation": "是",
+        "tail_id": "1676",
+        "tail": "使用 最多 的 斯拉夫 语言"
+    },
+    {
+        "head_id": "1564",
+        "head": "家 托马斯 · 爱迪生 幸运",
+        "relation": "地 遇到",
+        "tail_id": "5024",
+        "tail": "托马斯 · 潘恩"
+    },
+    {
+        "head_id": "1703",
+        "head": "Evangelista Torricelli",
+        "relation": "发明",
+        "tail_id": "811",
+        "tail": "了 气压 计"
+    },
+    {
+        "head_id": "4341",
+        "head": "乳腺 癌",
+        "relation": "是",
+        "tail_id": "2280",
+        "tail": "女性 癌症 死亡 的 最 常见 原"
+    },
+    {
+        "head_id": "2334",
+        "head": "拉丁",
+        "relation": "来",
+        "tail_id": "1963",
+        "tail": "自 Proto -Indo - 欧洲 词 根"
+    },
+    {
+        "head_id": "4150",
+        "head": "硼",
+        "relation": "可以 高度 浓缩",
+        "tail_id": "742",
+        "tail": "在 水 的 作用"
+    },
+    {
+        "head_id": "2243",
+        "head": "毗湿 奴勋 爵",
+        "relation": "拯救",
+        "tail_id": "4602",
+        "tail": "加贾拉吉 的 生命"
+    },
+    {
+        "head_id": "3706",
+        "head": "亚伯拉罕林肯",
+        "relation": "是",
+        "tail_id": "4336",
+        "tail": "一 个 宗教 怀疑 论 者"
+    },
+    {
+        "head_id": "3431",
+        "head": "罗马",
+        "relation": "建立",
+        "tail_id": "1755",
+        "tail": "许多 城市"
+    },
+    {
+        "head_id": "4026",
+        "head": "马赛",
+        "relation": "站",
+        "tail_id": "2118",
+        "tail": "与 尤利乌斯凯撒 交战 的 流亡 派系"
+    },
+    {
+        "head_id": "1096",
+        "head": "塔利班",
+        "relation": "前来",
+        "tail_id": "4735",
+        "tail": "建立 飞地"
+    },
+    {
+        "head_id": "166",
+        "head": "Debendranath Tagore",
+        "relation": "曾见",
+        "tail_id": "4235",
+        "tail": "上帝"
+    },
+    {
+        "head_id": "2299",
+        "head": "Aaron Hillel Swartz",
+        "relation": "加入",
+        "tail_id": "4951",
+        "tail": "一 家名 为 Infogami 的 初创 公司"
+    },
+    {
+        "head_id": "699",
+        "head": "许多 自然 历史 学家",
+        "relation": "认为",
+        "tail_id": "256",
+        "tail": "卡尔林奈"
+    },
+    {
+        "head_id": "4064",
+        "head": "Arthur Mailey",
+        "relation": "到",
+        "tail_id": "4085",
+        "tail": "澳大利亚"
+    },
+    {
+        "head_id": "3000",
+        "head": "第一 夫人 南 希里根",
+        "relation": "成",
+        "tail_id": "846",
+        "tail": "共和 党 内 的 标志 性 影响"
+    },
+    {
+        "head_id": "2590",
+        "head": "Wikibooks",
+        "relation": "已 包含",
+        "tail_id": "1264",
+        "tail": "在 BASE"
+    },
+    {
+        "head_id": "3032",
+        "head": "John Adams)",
+        "relation": "是",
+        "tail_id": "4458",
+        "tail": "一 位 公理 会 教徒"
+    },
+    {
+        "head_id": "3883",
+        "head": "Subhas Chandra Bose",
+        "relation": "返 回以",
+        "tail_id": "2811",
+        "tail": "确保 独立 的 印度 独立"
+    },
+    {
+        "head_id": "3345",
+        "head": "约翰亚当斯 总统",
+        "relation": "拒绝 入住",
+        "tail_id": "3338",
+        "tail": "更 宏伟 的 总统 官邸"
+    },
+    {
+        "head_id": "3706",
+        "head": "亚伯拉罕林肯",
+        "relation": "领导",
+        "tail_id": "3004",
+        "tail": "一 个 主权 国家"
+    },
+    {
+        "head_id": "3695",
+        "head": "麻风 病",
+        "relation": "特征",
+        "tail_id": "1284",
+        "tail": "以 规则 的 圆形 斑块"
+    },
+    {
+        "head_id": "741",
+        "head": "二 乙 醚",
+        "relation": "抑制",
+        "tail_id": "4044",
+        "tail": "其他 药物 的 代谢"
+    },
+    {
+        "head_id": "3647",
+        "head": "贫民 窟 的 百万 富翁",
+        "relation": "联合 制",
+        "tail_id": "4472",
+        "tail": "由 Celador"
+    },
+    {
+        "head_id": "1183",
+        "head": "Subhas",
+        "relation": "Chandra Bose 同意",
+        "tail_id": "3867",
+        "tail": "孟加拉 邦 议会 主席"
+    },
+    {
+        "head_id": "3706",
+        "head": "亚伯拉罕林肯",
+        "relation": "不能",
+        "tail_id": "599",
+        "tail": "为了 投票 而 绞死 人"
+    },
+    {
+        "head_id": "419",
+        "head": "费德里科 ·",
+        "relation": "费里尼",
+        "tail_id": "4153",
+        "tail": "在 很大 程度 上 对 政 治漠 不 关心"
+    },
+    {
+        "head_id": "3184",
+        "head": "草酸",
+        "relation": "相对",
+        "tail_id": "3712",
+        "tail": "与 其他 羧酸 相比"
+    },
+    {
+        "head_id": "2208",
+        "head": "George Bernard",
+        "relation": "Shaw",
+        "tail_id": "255",
+        "tail": "对 交通 非常 感 兴趣"
+    },
+    {
+        "head_id": "4821",
+        "head": "(Le Corbusier) 和 Ozenfant",
+        "relation": "创立",
+        "tail_id": "1417",
+        "tail": "了 纯粹 主义 运动"
+    },
+    {
+        "head_id": "3321",
+        "head": "路易斯安那 法",
+        "relation": "已 逐渐 被",
+        "tail_id": "4618",
+        "tail": "为 主要 的 外语 选择"
+    },
+    {
+        "head_id": "460",
+        "head": "斯里兰卡",
+        "relation": "被 列为",
+        "tail_id": "3036",
+        "tail": "下 一 个 十一 个 国家"
+    },
+    {
+        "head_id": "587",
+        "head": "Clitoria ternatea",
+        "relation": "也 被 引入",
+        "tail_id": "4783",
+        "tail": "到 非洲 、 澳大利亚 和 美洲"
+    },
+    {
+        "head_id": "4558",
+        "head": "Max Born",
+        "relation": "继续",
+        "tail_id": "2661",
+        "tail": "科学 工作"
+    },
+    {
+        "head_id": "4374",
+        "head": "John Philip Sousa)",
+        "relation": "撰写",
+        "tail_id": "603",
+        "tail": "《 华盛顿 邮报"
+    },
+    {
+        "head_id": "1392",
+        "head": "巴马 科",
+        "relation": "具有",
+        "tail_id": "2196",
+        "tail": "热带 稀树 草原 气候"
+    },
+    {
+        "head_id": "1804",
+        "head": "史蒂夫 鲍尔默",
+        "relation": "是 的 首席 执行",
+        "tail_id": "3702",
+        "tail": "微软"
+    },
+    {
+        "head_id": "2281",
+        "head": "中国",
+        "relation": "阻碍",
+        "tail_id": "2446",
+        "tail": "台湾 采购 疫苗 的 努力"
+    },
+    {
+        "head_id": "1464",
+        "head": "尼安德特",
+        "relation": "衍生",
+        "tail_id": "1554",
+        "tail": "ASB1 和 EXOC6 附近"
+    },
+    {
+        "head_id": "920",
+        "head": "叛军 主力",
+        "relation": "夺回",
+        "tail_id": "3789",
+        "tail": "新德里"
+    },
+    {
+        "head_id": "4428",
+        "head": "Skyfall",
+        "relation": "收入",
+        "tail_id": "990",
+        "tail": "超过 10 亿美"
+    },
+    {
+        "head_id": "3558",
+        "head": "中暑",
+        "relation": "是",
+        "tail_id": "133",
+        "tail": "一 种 严重 的 热病"
+    },
+    {
+        "head_id": "2342",
+        "head": "希伯 来",
+        "relation": "衰落",
+        "tail_id": "3827",
+        "tail": "在 Bar Kokhba 起义 失败 后"
+    },
+    {
+        "head_id": "5006",
+        "head": "越南",
+        "relation": "是",
+        "tail_id": "2705",
+        "tail": "世界 上 体积 最大 的 已知 洞穴 通道"
+    },
+    {
+        "head_id": "965",
+        "head": "Swami Vivekananda",
+        "relation": "训练",
+        "tail_id": "1522",
+        "tail": "门 徒"
+    },
+    {
+        "head_id": "3477",
+        "head": "Windows 10",
+        "relation": "放弃",
+        "tail_id": "3794",
+        "tail": "32 位 硬件 支持"
+    },
+    {
+        "head_id": "3807",
+        "head": "(Richard Wagner)",
+        "relation": "首席 大法",
+        "tail_id": "3812",
+        "tail": "加拿大"
+    },
+    {
+        "head_id": "4658",
+        "head": "Charles - Édouard Jeanneret",
+        "relation": "贡献",
+        "tail_id": "2960",
+        "tail": "一 份 极具 原创 性 的 计划"
+    },
+    {
+        "head_id": "308",
+        "head": "印度尼西亚",
+        "relation": "供",
+        "tail_id": "2952",
+        "tail": "奉毗 卢遮那陀罗那"
+    },
+    {
+        "head_id": "3963",
+        "head": "Phoolan Devi",
+        "relation": "同意",
+        "tail_id": "4181",
+        "tail": "向 当局 自"
+    },
+    {
+        "head_id": "1168",
+        "head": "奴",
+        "relation": "死",
+        "tail_id": "4845",
+        "tail": "Hiranyakasipu"
+    },
+    {
+        "head_id": "4215",
+        "head": "英",
+        "relation": "用",
+        "tail_id": "2947",
+        "tail": "于 大学 教育 和 许多 技术 领域"
+    },
+    {
+        "head_id": "1606",
+        "head": "费城",
+        "relation": "也是",
+        "tail_id": "3546",
+        "tail": "生物 技术 中心"
+    },
+    {
+        "head_id": "493",
+        "head": "奥姆斯 王国",
+        "relation": "将",
+        "tail_id": "412",
+        "tail": "从 波斯 湾"
+    },
+    {
+        "head_id": "3920",
+        "head": "火星",
+        "relation": "有",
+        "tail_id": "3539",
+        "tail": "足够 浓密 的 大气 层"
+    },
+    {
+        "head_id": "4215",
+        "head": "英",
+        "relation": "已 取代",
+        "tail_id": "3096",
+        "tail": "法语 成 为 主要 外语"
+    },
+    {
+        "head_id": "2239",
+        "head": "协会",
+        "relation": "足球",
+        "tail_id": "2574",
+        "tail": "在 更 广泛 的 斐济 社区 中 越来越 受欢"
+    },
+    {
+        "head_id": "4495",
+        "head": "十八 岁 的 鲁米",
+        "relation": "遇到",
+        "tail_id": "897",
+        "tail": "最 著名 的 神秘 波斯 诗人 之 一"
+    },
+    {
+        "head_id": "2566",
+        "head": "的 '金 刚宝 座' 佛像",
+        "relation": "俯瞰",
+        "tail_id": "715",
+        "tail": "首 都 廷布"
+    },
+    {
+        "head_id": "4493",
+        "head": "中年 的 亚伯拉罕林肯",
+        "relation": "提出",
+        "tail_id": "3358",
+        "tail": "解放 黑奴 宣言"
+    },
+    {
+        "head_id": "2036",
+        "head": "安卡拉",
+        "relation": "开始 向 扩张",
+        "tail_id": "4530",
+        "tail": "西"
+    },
+    {
+        "head_id": "3390",
+        "head": "美国 的",
+        "relation": "控制",
+        "tail_id": "2529",
+        "tail": "玛纳斯 空军 基地"
+    },
+    {
+        "head_id": "1277",
+        "head": "墨西哥",
+        "relation": "闻名",
+        "tail_id": "1824",
+        "tail": "专业 的 、 通常 是 低 成本 的 零售 商"
+    },
+    {
+        "head_id": "3647",
+        "head": "贫民 窟 的 百万 富翁",
+        "relation": "出现",
+        "tail_id": "4485",
+        "tail": "在 123 个 不同 的 前十 名 名单"
+    },
+    {
+        "head_id": "33",
+        "head": "哈里辛格",
+        "relation": "的 大 君",
+        "tail_id": "3757",
+        "tail": "查谟 和 克什米尔"
+    },
+    {
+        "head_id": "4686",
+        "head": "班加罗尔",
+        "relation": "还 鼓励",
+        "tail_id": "2237",
+        "tail": "泰卢 固语 、 乌尔都 语 和 英 语 文学 的 发展"
+    },
+    {
+        "head_id": "3609",
+        "head": "1",
+        "relation": "指",
+        "tail_id": "1082",
+        "tail": "是 一 元 数"
+    },
+    {
+        "head_id": "3038",
+        "head": "尼禄",
+        "relation": "下令",
+        "tail_id": "4043",
+        "tail": "建造 圆形 剧场"
+    },
+    {
+        "head_id": "362",
+        "head": "东 帝汶",
+        "relation": "被 允许",
+        "tail_id": "2189",
+        "tail": "在 国家 代码 IOA 的 奥林匹克 旗帜 下 参加"
+    },
+    {
+        "head_id": "348",
+        "head": "罗摩",
+        "relation": "是",
+        "tail_id": "4977",
+        "tail": "毗湿奴 的 化身"
+    },
+    {
+        "head_id": "3883",
+        "head": "Subhas Chandra Bose",
+        "relation": "觉得加尔",
+        "tail_id": "3131",
+        "tail": "大 学近 在 咫尺"
+    },
+    {
+        "head_id": "2953",
+        "head": "梵蒂 冈 城",
+        "relation": "置",
+        "tail_id": "2187",
+        "tail": "于 东正 教 法律 之下"
+    },
+    {
+        "head_id": "2776",
+        "head": "伊拉克",
+        "relation": "有",
+        "tail_id": "4796",
+        "tail": "一 个 由 2,500 名 车臣 人 和 大约 20,000 名亚美尼亚 人 组成 的 社区"
+    },
+    {
+        "head_id": "1295",
+        "head": "Adi Shankara",
+        "relation": "也是",
+        "tail_id": "1506",
+        "tail": "湿婆 神 的 化身"
+    },
+    {
+        "head_id": "5031",
+        "head": "Net Beans 7.4 及 更高",
+        "relation": "使用",
+        "tail_id": "1137",
+        "tail": "新 的 Nashorn Java Script 引 擎"
+    },
+    {
+        "head_id": "4881",
+        "head": "萧 伯纳",
+        "relation": "出席",
+        "tail_id": "1800",
+        "tail": "布拉德福德 会议"
+    },
+    {
+        "head_id": "2538",
+        "head": "玛丽 · 伯恩斯",
+        "relation": "离开 曼彻斯特",
+        "tail_id": "1438",
+        "tail": "德国 思想 家 弗里德里希 · 恩格斯"
+    },
+    {
+        "head_id": "373",
+        "head": "Carl Friedrich",
+        "relation": "Gauss)",
+        "tail_id": "1670",
+        "tail": "对让 · 勒朗 · 达朗贝尔 ( Jean le Rond d' Alembert) 的 作品 进行 了 批评"
+    },
+    {
+        "head_id": "4255",
+        "head": "阿尔伯特 爱因斯坦",
+        "relation": "发展",
+        "tail_id": "1163",
+        "tail": "狭义 相对 论"
+    },
+    {
+        "head_id": "1779",
+        "head": "西德 人 和 其他 西方 国家 的 公民",
+        "relation": "通常 可以 访问",
+        "tail_id": "3383",
+        "tail": "东 德"
+    },
+    {
+        "head_id": "1052",
+        "head": "50% 的 厄立 特里亚 人",
+        "relation": "信奉",
+        "tail_id": "3040",
+        "tail": "教"
+    },
+    {
+        "head_id": "4185",
+        "head": "Shaivism",
+        "relation": "有关",
+        "tail_id": "3344",
+        "tail": "与 Shaktism"
+    },
+    {
+        "head_id": "3520",
+        "head": "印度",
+        "relation": "一直 是",
+        "tail_id": "1290",
+        "tail": "联邦 共和"
+    },
+    {
+        "head_id": "719",
+        "head": "Carl Linnaeus",
+        "relation": "创建",
+        "tail_id": "2352",
+        "tail": "一 个 废纸 篓 分类 单元"
+    },
+    {
+        "head_id": "1250",
+        "head": "阿拉斯加",
+        "relation": "拥有",
+        "tail_id": "3626",
+        "tail": "约 16,000 名员"
+    },
+    {
+        "head_id": "4082",
+        "head": "Nirmala Sitharaman",
+        "relation": "的 成员",
+        "tail_id": "1433",
+        "tail": "Rajya Sabha"
+    },
+    {
+        "head_id": "3520",
+        "head": "印度",
+        "relation": "采用",
+        "tail_id": "3782",
+        "tail": "IR8"
+    },
+    {
+        "head_id": "1252",
+        "head": "阿富汗 总统 阿什拉夫加尼",
+        "relation": "逃离",
+        "tail_id": "82",
+        "tail": "阿富汗"
+    },
+    {
+        "head_id": "1825",
+        "head": "富士 山 的 山顶",
+        "relation": "是",
+        "tail_id": "3599",
+        "tail": "日本 地理 的 一 个 非常 鲜明 的 特征"
+    },
+    {
+        "head_id": "346",
+        "head": "乙酸",
+        "relation": "是",
+        "tail_id": "2835",
+        "tail": "生产 化合 物 的 化学 试剂"
+    },
+    {
+        "head_id": "2393",
+        "head": "锡克 教徒 和 印度 教徒",
+        "relation": "离开",
+        "tail_id": "1889",
+        "tail": "西 巴基斯坦"
+    },
+    {
+        "head_id": "2857",
+        "head": "1.5亿 穆斯林",
+        "relation": "普遍 支持",
+        "tail_id": "738",
+        "tail": "印度 国 大党"
+    },
+    {
+        "head_id": "3049",
+        "head": "Bingu wa Mutharika",
+        "relation": "实施 了 改革 以 解决",
+        "tail_id": "95",
+        "tail": "问题"
+    },
+    {
+        "head_id": "2549",
+        "head": "Serena Jameka Williams",
+        "relation": "饰演",
+        "tail_id": "1125",
+        "tail": "Elena Vesnina"
+    },
+    {
+        "head_id": "3009",
+        "head": "美国 宇航 局",
+        "relation": "拒绝 重新 命名",
+        "tail_id": "2943",
+        "tail": "詹姆斯韦伯 太空 望 远 镜"
+    },
+    {
+        "head_id": "4853",
+        "head": "英国",
+        "relation": "加入",
+        "tail_id": "2957",
+        "tail": "了 南 印度 封建 主义 的 巩固"
+    },
+    {
+        "head_id": "4321",
+        "head": "Guru Tegh Bahadur",
+        "relation": "开始",
+        "tail_id": "35",
+        "tail": "社区 水井 和 水井"
+    },
+    {
+        "head_id": "2245",
+        "head": "Jaisalmer",
+        "relation": "矗立",
+        "tail_id": "3562",
+        "tail": "在 淡 黄色砂 岩 的 山 脊上"
+    },
+    {
+        "head_id": "1726",
+        "head": "墨索里尼 的 法西斯 主义 者",
+        "relation": "仍然",
+        "tail_id": "777",
+        "tail": "对 犹太 复国 主 义持 怀疑"
+    },
+    {
+        "head_id": "551",
+        "head": "Samuel Finley Breese Morse",
+        "relation": "选择 绘制",
+        "tail_id": "1003",
+        "tail": "众 议院"
+    },
+    {
+        "head_id": "123",
+        "head": "唐纳德 · 特朗普 总统",
+        "relation": "谴责",
+        "tail_id": "4301",
+        "tail": "城 发生 的 恐怖 袭击"
+    },
+    {
+        "head_id": "5018",
+        "head": "Rameswaram",
+        "relation": "属",
+        "tail_id": "4106",
+        "tail": "于 Ramanathapuram"
+    },
+    {
+        "head_id": "3378",
+        "head": "华盛顿 邮报",
+        "relation": "被 认为",
+        "tail_id": "4877",
+        "tail": "美国 政府 的 记录 报纸"
+    },
+    {
+        "head_id": "2633",
+        "head": "乔达摩佛陀",
+        "relation": "开始 寻求",
+        "tail_id": "2731",
+        "tail": "从 苦难 中 解脱"
+    },
+    {
+        "head_id": "334",
+        "head": "(Srinivasa Ramanujan)",
+        "relation": "曾 预见",
+        "tail_id": "4914",
+        "tail": "波兰 数学 家 的 工作"
+    },
+    {
+        "head_id": "4420",
+        "head": "菲律宾 航空",
+        "relation": "闻名",
+        "tail_id": "3236",
+        "tail": "菲律宾 第一 家 航空 公司 而"
+    },
+    {
+        "head_id": "3683",
+        "head": "Daman 和 Diu",
+        "relation": "是 冰川",
+        "tail_id": "4831",
+        "tail": "锡亚琴"
+    },
+    {
+        "head_id": "555",
+        "head": "脑膜 炎",
+        "relation": "被 列为",
+        "tail_id": "1914",
+        "tail": "医疗 急症"
+    },
+    {
+        "head_id": "1652",
+        "head": "辉瑞",
+        "relation": "发布",
+        "tail_id": "2659",
+        "tail": "候选 疫苗 试验 结果"
+    },
+    {
+        "head_id": "1760",
+        "head": "俄罗斯 总统 普京",
+        "relation": "迎接",
+        "tail_id": "432",
+        "tail": "维斯瓦纳坦"
+    },
+    {
+        "head_id": "2929",
+        "head": "Gary Goetzman",
+        "relation": "记录",
+        "tail_id": "1351",
+        "tail": "美国"
+    },
+    {
+        "head_id": "289",
+        "head": "以南 非洲 最 干旱 的 国家",
+        "relation": "拥有",
+        "tail_id": "399",
+        "tail": "255万 人 口"
+    },
+    {
+        "head_id": "1550",
+        "head": "Radhika Apte",
+        "relation": "曾 出演",
+        "tail_id": "2827",
+        "tail": "过 诸如 “ Tu"
+    },
+    {
+        "head_id": "3093",
+        "head": "新 墨西哥 领地",
+        "relation": "是",
+        "tail_id": "3144",
+        "tail": "帕洛佛 得角 核电 站 的 所 在"
+    },
+    {
+        "head_id": "4881",
+        "head": "萧 伯纳",
+        "relation": "表达",
+        "tail_id": "809",
+        "tail": "对 墨索里尼 和 斯大林 的 钦"
+    },
+    {
+        "head_id": "884",
+        "head": "Federico",
+        "relation": "Fellini) 参观",
+        "tail_id": "4935",
+        "tail": "Cinecitt"
+    },
+    {
+        "head_id": "506",
+        "head": "约瑟夫 普里斯特利",
+        "relation": "伤害",
+        "tail_id": "4086",
+        "tail": "谢尔本"
+    },
+    {
+        "head_id": "878",
+        "head": "Louis Braille",
+        "relation": "创",
+        "tail_id": "2519",
+        "tail": "通过 简化 Barbier 系统形式 和 最大化 Barbier 系 统 效率"
+    },
+    {
+        "head_id": "915",
+        "head": "臭氧",
+        "relation": "凝结",
+        "tail_id": "1322",
+        "tail": "成 深蓝 色 液体"
+    },
+    {
+        "head_id": "3686",
+        "head": "里根 总统",
+        "relation": "亲临 印度 使 馆签",
+        "tail_id": "1031",
+        "tail": "署吊 唁簿"
+    },
+    {
+        "head_id": "2036",
+        "head": "安卡拉",
+        "relation": "西 扩张",
+        "tail_id": "26",
+        "tail": "在 1970 年代"
+    },
+    {
+        "head_id": "3264",
+        "head": "《 古兰 经 》 的 语言",
+        "relation": "使用",
+        "tail_id": "3171",
+        "tail": "在 工作 场所 、 政府 和 媒体 中 得到 不同 程度"
+    },
+    {
+        "head_id": "2256",
+        "head": "超过 1400 万 台 设备",
+        "relation": "运行",
+        "tail_id": "3477",
+        "tail": "Windows 10"
+    },
+    {
+        "head_id": "4810",
+        "head": "Chenab",
+        "relation": "加入",
+        "tail_id": "4790",
+        "tail": "印度 河"
+    },
+    {
+        "head_id": "3451",
+        "head": "伊斯兰",
+        "relation": "教使",
+        "tail_id": "3446",
+        "tail": "吉尔吉斯 社会 更 道德 、 更 清洁"
+    },
+    {
+        "head_id": "4477",
+        "head": "香港",
+        "relation": "的 特别 行政 区",
+        "tail_id": "4226",
+        "tail": "中华 人民 共和"
+    },
+    {
+        "head_id": "2242",
+        "head": "Muzio Clementi",
+        "relation": "的 出版 权",
+        "tail_id": "1572",
+        "tail": "Ludwig van Beethoven"
+    },
+    {
+        "head_id": "2636",
+        "head": "Mohammad Hamid Ansari",
+        "relation": "击败",
+        "tail_id": "157",
+        "tail": "NDA 的 提名 人 Jaswant Singh"
+    },
+    {
+        "head_id": "4966",
+        "head": "Padma 或 Podda",
+        "relation": "进入",
+        "tail_id": "382",
+        "tail": "孟加拉"
+    },
+    {
+        "head_id": "1993",
+        "head": "马里 帝国",
+        "relation": "开始",
+        "tail_id": "1223",
+        "tail": "主宰 跨 撒哈拉 贸易 路线"
+    },
+    {
+        "head_id": "130",
+        "head": "佛教",
+        "relation": "传入",
+        "tail_id": "3401",
+        "tail": "于 阗"
+    },
+    {
+        "head_id": "1857",
+        "head": "亚达瓦 王朝",
+        "relation": "更名",
+        "tail_id": "4995",
+        "tail": "浦那"
+    },
+    {
+        "head_id": "2546",
+        "head": "毗奢耶那伽罗 帝国",
+        "relation": "击败",
+        "tail_id": "3755",
+        "tail": "穆斯林苏丹 国 联盟"
+    },
+    {
+        "head_id": "2730",
+        "head": "英迪拉 ·",
+        "relation": "甘地",
+        "tail_id": "4316",
+        "tail": "入狱"
+    },
+    {
+        "head_id": "132",
+        "head": "阿什拉夫加尼",
+        "relation": "总统",
+        "tail_id": "82",
+        "tail": "阿富汗"
+    },
+    {
+        "head_id": "437",
+        "head": "萨满 教",
+        "relation": "是",
+        "tail_id": "3733",
+        "tail": "一 种 宗教 实践 体系"
+    },
+    {
+        "head_id": "422",
+        "head": "Carl Linnaeus)",
+        "relation": "困扰",
+        "tail_id": "4385",
+        "tail": "被 疾病"
+    },
+    {
+        "head_id": "2653",
+        "head": "欧麦尔",
+        "relation": "接受",
+        "tail_id": "3040",
+        "tail": "教"
+    },
+    {
+        "head_id": "3276",
+        "head": "古普塔 帝国",
+        "relation": "仍然",
+        "tail_id": "1965",
+        "tail": "印度 雕塑 的 “ 古典 ” 时期"
+    },
+    {
+        "head_id": "147",
+        "head": "疾病",
+        "relation": "袭击",
+        "tail_id": "1543",
+        "tail": "路德维希 · 范 · 贝多芬"
+    },
+    {
+        "head_id": "2420",
+        "head": "卡尔弗里德里希高斯",
+        "relation": "强烈 支持",
+        "tail_id": "181",
+        "tail": "宗教 宽容"
+    },
+    {
+        "head_id": "3748",
+        "head": "Mount Canopus 或 Canopus Hill",
+        "relation": "不在",
+        "tail_id": "3120",
+        "tail": "Centaurus Association 的 子群 附近"
+    },
+    {
+        "head_id": "740",
+        "head": "Nadine Gordimer)",
+        "relation": "的 妻子",
+        "tail_id": "4748",
+        "tail": "议员 伯纳德 · 弗里德曼 (Bernard Friedman)"
+    },
+    {
+        "head_id": "4629",
+        "head": "上海",
+        "relation": "开放",
+        "tail_id": "1669",
+        "tail": "向 西方 人口 和 商人"
+    },
+    {
+        "head_id": "3274",
+        "head": "银屑 病",
+        "relation": "有关",
+        "tail_id": "581",
+        "tail": "与 自卑 和 抑郁"
+    },
+    {
+        "head_id": "1217",
+        "head": "乔治赫伯特 沃克布什",
+        "relation": "支持",
+        "tail_id": "917",
+        "tail": "尼克松 政府 的 总统理 查德尼克松 政府 的 越南 政策"
+    },
+    {
+        "head_id": "1563",
+        "head": "蔡",
+        "relation": "英文",
+        "tail_id": "1764",
+        "tail": "未 婚"
+    },
+    {
+        "head_id": "946",
+        "head": "同样 在 公众 心目 中 记忆 犹新",
+        "relation": "有",
+        "tail_id": "1860",
+        "tail": "(Thomas Paine)"
+    },
+    {
+        "head_id": "4853",
+        "head": "英国",
+        "relation": "分裂",
+        "tail_id": "2972",
+        "tail": "查戈斯 群岛"
+    },
+    {
+        "head_id": "2653",
+        "head": "欧麦尔",
+        "relation": "成",
+        "tail_id": "2047",
+        "tail": "第一 位 在 天房 公开 祈祷 的 穆斯林"
+    },
+    {
+        "head_id": "2756",
+        "head": "迈索尔 机场",
+        "relation": "服务",
+        "tail_id": "295",
+        "tail": "迈索尔"
+    },
+    {
+        "head_id": "743",
+        "head": "Valentin Haüy 学 校",
+        "relation": "是 的 创始",
+        "tail_id": "3501",
+        "tail": "巴黎"
+    },
+    {
+        "head_id": "4020",
+        "head": "阿加尔塔拉 市",
+        "relation": "坐落",
+        "tail_id": "4574",
+        "tail": "着帐 篷"
+    },
+    {
+        "head_id": "149",
+        "head": "Leucaena leucocephala",
+        "relation": "也 很",
+        "tail_id": "371",
+        "tail": "在 固氮"
+    },
+    {
+        "head_id": "3660",
+        "head": "小 阿格里皮娜",
+        "relation": "反对",
+        "tail_id": "3038",
+        "tail": "尼禄"
+    },
+    {
+        "head_id": "256",
+        "head": "卡尔林奈",
+        "relation": "回到",
+        "tail_id": "701",
+        "tail": "斯科讷 的 隆德 大学"
+    },
+    {
+        "head_id": "4487",
+        "head": "南非",
+        "relation": "重返",
+        "tail_id": "3058",
+        "tail": "1992 年 夏季 奥运"
+    },
+    {
+        "head_id": "1026",
+        "head": "Joseph Letombe",
+        "relation": "的 法国 领事",
+        "tail_id": "1606",
+        "tail": "费城"
+    },
+    {
+        "head_id": "1197",
+        "head": "催眠",
+        "relation": "始",
+        "tail_id": "3682",
+        "tail": "于 催眠 诱导"
+    },
+    {
+        "head_id": "2891",
+        "head": "阿道夫 · 希特勒",
+        "relation": "出兵 西班牙 支持",
+        "tail_id": "1855",
+        "tail": "佛朗哥 将军"
+    },
+    {
+        "head_id": "506",
+        "head": "约瑟夫 普里斯特利",
+        "relation": "渴望",
+        "tail_id": "322",
+        "tail": "城市 生活 和 神学 辩论"
+    },
+    {
+        "head_id": "2281",
+        "head": "中国",
+        "relation": "建立",
+        "tail_id": "380",
+        "tail": "罗布泊 核 试验 基地"
+    },
+    {
+        "head_id": "4958",
+        "head": "Robert Koch)",
+        "relation": "撰写",
+        "tail_id": "3974",
+        "tail": "关于 炭疽 接种"
+    },
+    {
+        "head_id": "3772",
+        "head": "白俄罗斯",
+        "relation": "依赖",
+        "tail_id": "3759",
+        "tail": "基辅 罗斯"
+    },
+    {
+        "head_id": "3784",
+        "head": "Paramahansa Yogananda",
+        "relation": "返",
+        "tail_id": "1446",
+        "tail": "回 印度 进行 为期 一 年 的 访问"
+    },
+    {
+        "head_id": "3761",
+        "head": "托马斯潘恩",
+        "relation": "将",
+        "tail_id": "5028",
+        "tail": "贯注 于 法国 大 革命"
+    },
+    {
+        "head_id": "1434",
+        "head": "羞草",
+        "relation": "不",
+        "tail_id": "1515",
+        "tail": "耐阴 且 对霜 冻敏 感"
+    },
+    {
+        "head_id": "2891",
+        "head": "阿道夫 · 希特勒",
+        "relation": "住",
+        "tail_id": "2558",
+        "tail": "在 慕尼黑"
+    },
+    {
+        "head_id": "2809",
+        "head": "唾液",
+        "relation": "限制",
+        "tail_id": "4933",
+        "tail": "细菌 病原 体 的 生长"
+    },
+    {
+        "head_id": "1651",
+        "head": "国际 翻译 日",
+        "relation": "是",
+        "tail_id": "676",
+        "tail": "表彰 翻译 专业 人士 的 国际 日"
+    },
+    {
+        "head_id": "2669",
+        "head": "克霉 唑",
+        "relation": "发现",
+        "tail_id": "1190",
+        "tail": "1969 年"
+    },
+    {
+        "head_id": "2482",
+        "head": "Aalok Pashupatinath 神 庙",
+        "relation": "有",
+        "tail_id": "3035",
+        "tail": "一 个 金顶"
+    },
+    {
+        "head_id": "11",
+        "head": "柏林 墙",
+        "relation": "恶化",
+        "tail_id": "4749",
+        "tail": "美苏 关系"
+    },
+    {
+        "head_id": "4433",
+        "head": "兰契 市政 公司",
+        "relation": "成",
+        "tail_id": "1193",
+        "tail": "印度 贾坎德 邦 的 首府"
+    },
+    {
+        "head_id": "4421",
+        "head": "莫卧儿 印度",
+        "relation": "将 成",
+        "tail_id": "2937",
+        "tail": "伊斯兰 世界 最大 的 经济"
+    },
+    {
+        "head_id": "1049",
+        "head": "包皮 环 切术",
+        "relation": "是",
+        "tail_id": "4986",
+        "tail": "难治 性 或 复发 性 龟头 包皮 炎 的 一 种 治疗 选择"
+    },
+    {
+        "head_id": "3732",
+        "head": "Agastya",
+        "relation": "建造 了 Agastyeshwara 神 庙",
+        "tail_id": "1498",
+        "tail": "在 swayambhu linga 周围 的 最后 一 个 Treta Yuga"
+    },
+    {
+        "head_id": "50",
+        "head": "Évariste Galois",
+        "relation": "领袖",
+        "tail_id": "3226",
+        "tail": "Bourg -la - Reine 的 自由 党"
+    },
+    {
+        "head_id": "598",
+        "head": "脸书",
+        "relation": "推出 气候 科学 信息 中心 ， 推广",
+        "tail_id": "2828",
+        "tail": "气候 变化 权 威声"
+    },
+    {
+        "head_id": "2965",
+        "head": "紧张 的 英国",
+        "relation": "制定",
+        "tail_id": "2626",
+        "tail": "了 “ 内阁 任务 计划"
+    },
+    {
+        "head_id": "1631",
+        "head": "查尔斯 - 爱德华 让 纳雷特",
+        "relation": "有",
+        "tail_id": "4390",
+        "tail": "与 萨伏伊 别墅"
+    },
+    {
+        "head_id": "3477",
+        "head": "Windows 10",
+        "relation": "提供",
+        "tail_id": "1505",
+        "tail": "两 种 独立 的 用户 界 面模式"
+    },
+    {
+        "head_id": "1981",
+        "head": "失业",
+        "relation": "有关",
+        "tail_id": "2405",
+        "tail": "与 对 男性 心理 健康 的 极端 不利 影响"
+    },
+    {
+        "head_id": "2473",
+        "head": "于 卢森堡 的 Skype Technologies SA",
+        "relation": "运行",
+        "tail_id": "4982",
+        "tail": "在 Nokia X 、 Symbian 、 Black Berry OS 和 Black Berry 10 设 备"
+    },
+    {
+        "head_id": "2657",
+        "head": "新加坡",
+        "relation": "应对",
+        "tail_id": "4946",
+        "tail": "自然 空间 的 衰退"
+    },
+    {
+        "head_id": "506",
+        "head": "约瑟夫 普里斯特利",
+        "relation": "越来越 尴尬",
+        "tail_id": "4918",
+        "tail": "对 普里斯特利 的 儿子"
+    },
+    {
+        "head_id": "3701",
+        "head": "乔治 · 赫伯特 · 沃克 · 布什",
+        "relation": "轻松 赢得",
+        "tail_id": "2295",
+        "tail": "共和 党 初选"
+    },
+    {
+        "head_id": "2422",
+        "head": "虚构 的 英国 军情 六 处 特工 詹姆斯邦德",
+        "relation": "追捕",
+        "tail_id": "1582",
+        "tail": "塞维琳 的 雇主"
+    },
+    {
+        "head_id": "3994",
+        "head": "Libre Office Online",
+        "relation": "是",
+        "tail_id": "352",
+        "tail": "一 款 免费 的 开源 办公 生 产力 软件 套件"
+    },
+    {
+        "head_id": "3505",
+        "head": "亚油酸",
+        "relation": "包含",
+        "tail_id": "4919",
+        "tail": "超过 一半 重量 的 红花 油 、 向 日 葵油 和 玉 米油 组合"
+    },
+    {
+        "head_id": "3473",
+        "head": "Carl Friedrich Gauss",
+        "relation": "was elected",
+        "tail_id": "1580",
+        "tail": "as a member of the American Philosophical Society"
+    },
+    {
+        "head_id": "2891",
+        "head": "阿道夫 · 希特勒",
+        "relation": "继续 面临",
+        "tail_id": "2757",
+        "tail": "纳粹 党内"
+    },
+    {
+        "head_id": "2456",
+        "head": "乔治 · 赫伯特 · 沃克",
+        "relation": "布什反对",
+        "tail_id": "4681",
+        "tail": "大 幅削 减国 防开 支"
+    },
+    {
+        "head_id": "241",
+        "head": "Bindusara",
+        "relation": "统治",
+        "tail_id": "272",
+        "tail": "了 25 年"
+    },
+    {
+        "head_id": "740",
+        "head": "Nadine Gordimer)",
+        "relation": "参与",
+        "tail_id": "1897",
+        "tail": "索菲亚 镇 的 文艺 复兴"
+    },
+    {
+        "head_id": "346",
+        "head": "乙酸",
+        "relation": "用作",
+        "tail_id": "2977",
+        "tail": "生产 对 苯二甲酸 的 溶剂"
+    },
+    {
+        "head_id": "1550",
+        "head": "Radhika Apte",
+        "relation": "同意",
+        "tail_id": "2014",
+        "tail": "搬到 孟买"
+    },
+    {
+        "head_id": "1242",
+        "head": "基恩 勋爵",
+        "relation": "的 执法 官",
+        "tail_id": "103",
+        "tail": "苏格兰 和 北 爱尔兰"
+    },
+    {
+        "head_id": "2834",
+        "head": "碳化",
+        "relation": "在 市场 上 出售",
+        "tail_id": "4754",
+        "tail": "作 为 驱鼠"
+    },
+    {
+        "head_id": "3524",
+        "head": "兰契 市",
+        "relation": "位 于",
+        "tail_id": "2459",
+        "tail": "贾坎德 邦"
+    },
+    {
+        "head_id": "4901",
+        "head": "毛 泽东",
+        "relation": "采取",
+        "tail_id": "4089",
+        "tail": "行动 夺回 了 中国 共产 党 的 控制"
+    },
+    {
+        "head_id": "4822",
+        "head": "拜伦勋爵生 来",
+        "relation": "就",
+        "tail_id": "4027",
+        "tail": "有 右 脚畸"
+    },
+    {
+        "head_id": "4026",
+        "head": "马赛",
+        "relation": "被 划分",
+        "tail_id": "4132",
+        "tail": "为 北部 地区"
+    },
+    {
+        "head_id": "4159",
+        "head": "托勒密",
+        "relation": "写",
+        "tail_id": "4419",
+        "tail": "了 《 四 书"
+    },
+    {
+        "head_id": "552",
+        "head": "未来 的 纽约 大 都 会队 总 经理 Brodie Van Wagenen Armstrong",
+        "relation": "出生",
+        "tail_id": "2376",
+        "tail": "在 Wapakoneta"
+    },
+    {
+        "head_id": "2167",
+        "head": "种族 隔离 后 的 南非",
+        "relation": "使用",
+        "tail_id": "3788",
+        "tail": "军队 和 警察 来 打击 反 种族 隔离 抵抗"
+    },
+    {
+        "head_id": "1018",
+        "head": "米哈伊尔 · 戈尔巴乔夫",
+        "relation": "是",
+        "tail_id": "4505",
+        "tail": "和平 的 关键"
+    },
+    {
+        "head_id": "3281",
+        "head": "虫胶",
+        "relation": "添加",
+        "tail_id": "1047",
+        "tail": "到 以前 的 蜂蜡 配方"
+    },
+    {
+        "head_id": "3368",
+        "head": "Srinivasa Ramanujan",
+        "relation": "获得",
+        "tail_id": "4142",
+        "tail": "在 政府 艺术 学院 学习 的 奖学"
+    },
+    {
+        "head_id": "3420",
+        "head": "煤炭",
+        "relation": "驱动",
+        "tail_id": "177",
+        "tail": "船舶 和 机车"
+    },
+    {
+        "head_id": "3055",
+        "head": "George Bernard Shaw)",
+        "relation": "发表",
+        "tail_id": "2540",
+        "tail": "有关 旅行 的 文章"
+    },
+    {
+        "head_id": "2707",
+        "head": "米海尔 三世",
+        "relation": "下令",
+        "tail_id": "2036",
+        "tail": "安卡拉"
+    },
+    {
+        "head_id": "1703",
+        "head": "Evangelista Torricelli",
+        "relation": "研究",
+        "tail_id": "4220",
+        "tail": "射弹 以及 射弹 如何 在 空中 飞行"
+    },
+    {
+        "head_id": "3672",
+        "head": "达美 航空 公司",
+        "relation": "运营",
+        "tail_id": "3517",
+        "tail": "一 支 由 750 架 飞机 组成 的 机队"
+    },
+    {
+        "head_id": "2781",
+        "head": "俄罗斯",
+        "relation": "要求",
+        "tail_id": "2016",
+        "tail": "为 INS 提供 29 亿美"
+    },
+    {
+        "head_id": "3590",
+        "head": "Krishna",
+        "relation": "没有 嫁给",
+        "tail_id": "2581",
+        "tail": "Radha （ 或 Rādhikā"
+    },
+    {
+        "head_id": "2746",
+        "head": "意大利",
+        "relation": "退出",
+        "tail_id": "2587",
+        "tail": "欧盟 和解 计划"
+    },
+    {
+        "head_id": "4159",
+        "head": "托勒密",
+        "relation": "继续",
+        "tail_id": "2416",
+        "tail": "讨论 毕达 哥拉斯 调谐"
+    },
+    {
+        "head_id": "1806",
+        "head": "安达曼 和 尼科巴 群岛",
+        "relation": "已 并入",
+        "tail_id": "2635",
+        "tail": "临时 政府 港口"
+    },
+    {
+        "head_id": "4038",
+        "head": "石蕊",
+        "relation": "是",
+        "tail_id": "2225",
+        "tail": "不同 染料 的 水溶 性 混合"
+    },
+    {
+        "head_id": "365",
+        "head": "无能 的 考官",
+        "relation": "激怒",
+        "tail_id": "50",
+        "tail": "Évariste Galois"
+    },
+    {
+        "head_id": "3265",
+        "head": "O Umar",
+        "relation": "被 害怕",
+        "tail_id": "960",
+        "tail": "多 于 被 爱"
+    },
+    {
+        "head_id": "2360",
+        "head": "达曼 和",
+        "relation": "第乌也 被",
+        "tail_id": "3326",
+        "tail": "科利斯"
+    },
+    {
+        "head_id": "711",
+        "head": "哥本哈根 市",
+        "relation": "有",
+        "tail_id": "1228",
+        "tail": "许多 区"
+    },
+    {
+        "head_id": "3920",
+        "head": "火星",
+        "relation": "看 起来 可能",
+        "tail_id": "2134",
+        "tail": "比 木星"
+    },
+    {
+        "head_id": "974",
+        "head": "坦丁堡",
+        "relation": "成",
+        "tail_id": "115",
+        "tail": "罗马 帝国 的 首都"
+    },
+    {
+        "head_id": "96",
+        "head": "Australopithecus afarensis",
+        "relation": "是",
+        "tail_id": "182",
+        "tail": "一 种 已 灭绝 的 南方 古 猿 物 种"
+    },
+    {
+        "head_id": "2277",
+        "head": "李 小龙",
+        "relation": "学习",
+        "tail_id": "332",
+        "tail": "吴 式 太极 拳 的 基本 原理"
+    },
+    {
+        "head_id": "2908",
+        "head": "割礼",
+        "relation": "有关",
+        "tail_id": "3269",
+        "tail": "与 精神 和 智力 发展"
+    },
+    {
+        "head_id": "4397",
+        "head": "李 敏镐",
+        "relation": "出生 于",
+        "tail_id": "284",
+        "tail": "1987 年 6 月 22"
+    },
+    {
+        "head_id": "3693",
+        "head": "1983 年 的 佳能 法典",
+        "relation": "管辖",
+        "tail_id": "2073",
+        "tail": "天主 教会"
+    },
+    {
+        "head_id": "3281",
+        "head": "虫胶",
+        "relation": "已 被",
+        "tail_id": "4354",
+        "tail": "塑料"
+    },
+    {
+        "head_id": "3659",
+        "head": "纳粹 德国 和 联合 国",
+        "relation": "通过",
+        "tail_id": "4761",
+        "tail": "《 世界 人权 宣言"
+    },
+    {
+        "head_id": "1606",
+        "head": "费城",
+        "relation": "也",
+        "tail_id": "3796",
+        "tail": "有 76 号 州际 公路"
+    },
+    {
+        "head_id": "3887",
+        "head": "Adobe Flash",
+        "relation": "被 广泛 安装",
+        "tail_id": "3674",
+        "tail": "在 台式 电脑"
+    },
+    {
+        "head_id": "2491",
+        "head": "零",
+        "relation": "已 被 提议",
+        "tail_id": "4878",
+        "tail": "作 为 理论 元素 四 中子 的 原子 序数"
+    },
+    {
+        "head_id": "444",
+        "head": "孟买",
+        "relation": "报道",
+        "tail_id": "4891",
+        "tail": "110 万 人口 中 约有 15,000 人 死亡"
+    },
+    {
+        "head_id": "2331",
+        "head": "巴基斯坦",
+        "relation": "签署",
+        "tail_id": "4761",
+        "tail": "《 世界 人权 宣言"
+    },
+    {
+        "head_id": "3434",
+        "head": "克里希纳 河",
+        "relation": "发源",
+        "tail_id": "2158",
+        "tail": "于 西 高止 山脉"
+    },
+    {
+        "head_id": "4711",
+        "head": "维多利亚 瀑布",
+        "relation": "相对",
+        "tail_id": "3089",
+        "tail": "较小"
+    },
+    {
+        "head_id": "2995",
+        "head": "卢森堡 的 Skype Technologies SA",
+        "relation": "将在",
+        "tail_id": "4056",
+        "tail": "2016 年 10 月 之前 继续 开发 Windows RT"
+    },
+    {
+        "head_id": "3911",
+        "head": "吉尔吉斯斯坦",
+        "relation": "分",
+        "tail_id": "4763",
+        "tail": "为 七 个 地区"
+    },
+    {
+        "head_id": "1853",
+        "head": "墨西哥 城",
+        "relation": "称",
+        "tail_id": "3793",
+        "tail": "为 墨西哥 盆地"
+    },
+    {
+        "head_id": "2657",
+        "head": "新加坡",
+        "relation": "获得",
+        "tail_id": "2780",
+        "tail": "自治"
+    },
+    {
+        "head_id": "3186",
+        "head": "Aaron Hillel Swartz)",
+        "relation": "共同 创立",
+        "tail_id": "632",
+        "tail": "Demand Progress"
+    },
+    {
+        "head_id": "3569",
+        "head": "巴拉圭",
+        "relation": "排名",
+        "tail_id": "210",
+        "tail": "在 全球 创新 指数"
+    },
+    {
+        "head_id": "2778",
+        "head": "印度 政府",
+        "relation": "不会 接受",
+        "tail_id": "985",
+        "tail": "大君 的 加入"
+    },
+    {
+        "head_id": "3840",
+        "head": "Christian Gottlob Neefe",
+        "relation": "教授",
+        "tail_id": "1572",
+        "tail": "Ludwig van Beethoven"
+    },
+    {
+        "head_id": "2906",
+        "head": "Oracle Systems Corporation",
+        "relation": "支持",
+        "tail_id": "730",
+        "tail": "两 种 操作 系统"
+    },
+    {
+        "head_id": "4528",
+        "head": "激进 分子",
+        "relation": "谴责",
+        "tail_id": "336",
+        "tail": "亚伯拉罕林 肯"
+    },
+    {
+        "head_id": "4321",
+        "head": "Guru Tegh Bahadur",
+        "relation": "建造",
+        "tail_id": "900",
+        "tail": "了 Anandpur Sahib 城"
+    },
+    {
+        "head_id": "3336",
+        "head": "曾经 强大 的 经济 联系",
+        "relation": "整合",
+        "tail_id": "4616",
+        "tail": "东 孟加拉"
+    },
+    {
+        "head_id": "2455",
+        "head": "哮喘",
+        "relation": "开始",
+        "tail_id": "2133",
+        "tail": "12 岁 之前"
+    },
+    {
+        "head_id": "3127",
+        "head": "三百万 人",
+        "relation": "在 丧生",
+        "tail_id": "382",
+        "tail": "孟加拉"
+    },
+    {
+        "head_id": "4503",
+        "head": "Subhas Chandra",
+        "relation": "Bose",
+        "tail_id": "1377",
+        "tail": "非常 有 干劲 和 魅力"
+    },
+    {
+        "head_id": "3321",
+        "head": "路易斯安那 法",
+        "relation": "是 后裔",
+        "tail_id": "712",
+        "tail": "西 罗马 帝国 通俗 拉丁 语 的"
+    },
+    {
+        "head_id": "1609",
+        "head": "湿婆",
+        "relation": "表现",
+        "tail_id": "1786",
+        "tail": "为 人狮鸟 Sharabha"
+    },
+    {
+        "head_id": "4437",
+        "head": "巴黎 市",
+        "relation": "也是",
+        "tail_id": "3024",
+        "tail": "世界 上 最大 的 化妆 品 公司 的 所 在"
+    },
+    {
+        "head_id": "3265",
+        "head": "O Umar",
+        "relation": "分析",
+        "tail_id": "1782",
+        "tail": "罗马 和 波斯 社会"
+    },
+    {
+        "head_id": "653",
+        "head": "圣经",
+        "relation": "出版",
+        "tail_id": "1660",
+        "tail": "在 布拉格 和 维尔纽斯"
+    },
+    {
+        "head_id": "2917",
+        "head": "太阳",
+        "relation": "存在",
+        "tail_id": "4533",
+        "tail": "以 连续 流体 的 形式"
+    },
+    {
+        "head_id": "194",
+        "head": "约翰亚当斯",
+        "relation": "是",
+        "tail_id": "2543",
+        "tail": "介 于 新教 和 自然 神论 之间 的 一 种 中间 立场"
+    },
+    {
+        "head_id": "4711",
+        "head": "维多利亚 瀑布",
+        "relation": "成",
+        "tail_id": "1778",
+        "tail": "主要 的 旅游 中心"
+    },
+    {
+        "head_id": "1996",
+        "head": "费德里科 · 费里尼",
+        "relation": "购买",
+        "tail_id": "323",
+        "tail": "卡洛斯 · 卡斯塔 内达 所有 作品 的 电影 版 权"
+    },
+    {
+        "head_id": "3758",
+        "head": "联合 国",
+        "relation": "承认",
+        "tail_id": "2028",
+        "tail": "西南 非洲 人民 组织"
+    },
+    {
+        "head_id": "965",
+        "head": "Swami Vivekananda",
+        "relation": "没有",
+        "tail_id": "1685",
+        "tail": "为 任何 世俗 必 需品"
+    },
+    {
+        "head_id": "1701",
+        "head": "Ricardo Ffrench - Davis Gabriel Boric",
+        "relation": "有",
+        "tail_id": "155",
+        "tail": "两 个 兄弟 ， Simón 和 Tomás"
+    },
+    {
+        "head_id": "139",
+        "head": "硫化氢",
+        "relation": "是",
+        "tail_id": "1814",
+        "tail": "一 种 无色 的 硫族 氢化 物气 体"
+    },
+    {
+        "head_id": "1645",
+        "head": "Louis Pasteur",
+        "relation": "被 任命",
+        "tail_id": "4633",
+        "tail": "Collège d' Arbois Besançon 学 院 的 导师"
+    },
+    {
+        "head_id": "2072",
+        "head": "Inter Globe Aviation Ltd.",
+        "relation": "开始",
+        "tail_id": "3375",
+        "tail": "营运"
+    },
+    {
+        "head_id": "44",
+        "head": "耶兰杜 市",
+        "relation": "被 列为",
+        "tail_id": "2589",
+        "tail": "“ 三 级 市"
+    },
+    {
+        "head_id": "97",
+        "head": "独裁 者 Alfredo Stroessner",
+        "relation": "统治",
+        "tail_id": "3569",
+        "tail": "巴拉圭"
+    },
+    {
+        "head_id": "2905",
+        "head": "解放 宣言",
+        "relation": "包括",
+        "tail_id": "3706",
+        "tail": "亚伯拉罕林肯"
+    },
+    {
+        "head_id": "1214",
+        "head": "只有 3.4% 的 莱索托 人",
+        "relation": "使用",
+        "tail_id": "4824",
+        "tail": "网"
+    },
+    {
+        "head_id": "170",
+        "head": "Aurobindo Ghose",
+        "relation": "退休",
+        "tail_id": "1743",
+        "tail": "隐居"
+    },
+    {
+        "head_id": "2475",
+        "head": "阿凡达",
+        "relation": "是",
+        "tail_id": "4523",
+        "tail": "印度 教中 的 一 个 概念"
+    },
+    {
+        "head_id": "4082",
+        "head": "Nirmala Sitharaman",
+        "relation": "是",
+        "tail_id": "4369",
+        "tail": "印度 第一 位 全职 女 财政 部长"
+    },
+    {
+        "head_id": "3477",
+        "head": "Windows 10",
+        "relation": "提供",
+        "tail_id": "1285",
+        "tail": "Microsoft 有史 以来 最 精致 的 桌面 体验"
+    },
+    {
+        "head_id": "2331",
+        "head": "巴基斯坦",
+        "relation": "旁遮普邦",
+        "tail_id": "623",
+        "tail": "受到 马拉松 人 的 统治"
+    },
+    {
+        "head_id": "4995",
+        "head": "浦那",
+        "relation": "已 成",
+        "tail_id": "4788",
+        "tail": "为 全球 主要 的 教育 中心"
+    },
+    {
+        "head_id": "4040",
+        "head": "己烷",
+        "relation": "转化",
+        "tail_id": "1519",
+        "tail": "为 2-己醇"
+    },
+    {
+        "head_id": "740",
+        "head": "Nadine Gordimer)",
+        "relation": "激起",
+        "tail_id": "4906",
+        "tail": "在 戈迪默 的 南非"
+    },
+    {
+        "head_id": "2390",
+        "head": "威廉 杰斐逊克林顿",
+        "relation": "热情 地 支持",
+        "tail_id": "1893",
+        "tail": "克林顿 的 竞争 对手 巴拉克 奥巴马"
+    },
+    {
+        "head_id": "4477",
+        "head": "香港",
+        "relation": "转型",
+        "tail_id": "2399",
+        "tail": "为 服务 型 经济"
+    },
+    {
+        "head_id": "3830",
+        "head": "芬兰",
+        "relation": "迅速 工业 化",
+        "tail_id": "1690",
+        "tail": "二 战 后"
+    },
+    {
+        "head_id": "4264",
+        "head": "Ram Singh 我",
+        "relation": "成",
+        "tail_id": "4321",
+        "tail": "Guru Tegh Bahadur"
+    },
+    {
+        "head_id": "3520",
+        "head": "印度",
+        "relation": "位",
+        "tail_id": "3713",
+        "tail": "于 斯里兰卡 和 马尔代夫 附近"
+    },
+    {
+        "head_id": "3823",
+        "head": "法国",
+        "relation": "入侵",
+        "tail_id": "1277",
+        "tail": "墨西哥"
+    },
+    {
+        "head_id": "2559",
+        "head": "乳酸",
+        "relation": "产生",
+        "tail_id": "441",
+        "tail": "由 肌肉 活动"
+    },
+    {
+        "head_id": "1535",
+        "head": "古代 《 奥义 书 》 中 与 戴瓦克伊 一起 提到 的 奎师那",
+        "relation": "被 崇拜",
+        "tail_id": "593",
+        "tail": "在 奥迪亚 以 Purushottama 的 形式"
+    },
+    {
+        "head_id": "3430",
+        "head": "电影 摄影 师 罗杰狄金斯",
+        "relation": "制作",
+        "tail_id": "2624",
+        "tail": "大破 天幕 杀机"
+    },
+    {
+        "head_id": "2891",
+        "head": "阿道夫 · 希特勒",
+        "relation": "成",
+        "tail_id": "4557",
+        "tail": "纳粹 德国 总理"
+    },
+    {
+        "head_id": "2345",
+        "head": "阿司匹林",
+        "relation": "合成",
+        "tail_id": "2275",
+        "tail": "以 替代 水 杨 酸 钠"
+    },
+    {
+        "head_id": "661",
+        "head": "Judy",
+        "relation": "Garland) 减掉",
+        "tail_id": "3200",
+        "tail": "15 磅"
+    },
+    {
+        "head_id": "4686",
+        "head": "班加罗尔",
+        "relation": "拥有",
+        "tail_id": "1527",
+        "tail": "印度 最多 的 宽带 互联 网 连接"
+    },
+    {
+        "head_id": "1754",
+        "head": "Alexander Graham Bell",
+        "relation": "获得",
+        "tail_id": "1507",
+        "tail": "美国 第一 个 电话 专利"
+    },
+    {
+        "head_id": "4057",
+        "head": "阿尔巴尼亚",
+        "relation": "有",
+        "tail_id": "963",
+        "tail": "着 悠久 而 古老 的 葡萄 酒 生产 历史"
+    },
+    {
+        "head_id": "1645",
+        "head": "Louis Pasteur",
+        "relation": "提出 阻止",
+        "tail_id": "4978",
+        "tail": "微 生物 进入 人体"
+    },
+    {
+        "head_id": "1606",
+        "head": "费城",
+        "relation": "俗称",
+        "tail_id": "1606",
+        "tail": "费城"
+    },
+    {
+        "head_id": "4188",
+        "head": "教育",
+        "relation": "试图",
+        "tail_id": "620",
+        "tail": "净化 观念"
+    },
+    {
+        "head_id": "3963",
+        "head": "Phoolan Devi",
+        "relation": "忍 受",
+        "tail_id": "863",
+        "tail": "贫困 和 童婚"
+    },
+    {
+        "head_id": "2330",
+        "head": "Hindal Mirza Hindal",
+        "relation": "最小 的 兄弟",
+        "tail_id": "4006",
+        "tail": "Humayun"
+    },
+    {
+        "head_id": "4091",
+        "head": "阿尼尔 · 卡普尔",
+        "relation": "出演",
+        "tail_id": "2190",
+        "tail": "过 100 多 部 电影"
+    },
+    {
+        "head_id": "1633",
+        "head": "亚历山大 大帝",
+        "relation": "征服",
+        "tail_id": "5013",
+        "tail": "中东"
+    },
+    {
+        "head_id": "1749",
+        "head": "莱索托",
+        "relation": "没有 得到",
+        "tail_id": "1721",
+        "tail": "充分 的 国际 承认"
+    },
+    {
+        "head_id": "3365",
+        "head": "Muzaffarpur 镇",
+        "relation": "命名",
+        "tail_id": "4660",
+        "tail": "以 “ aumil"
+    },
+    {
+        "head_id": "4773",
+        "head": "穆斯林",
+        "relation": "停止",
+        "tail_id": "4621",
+        "tail": "因 害怕 杀死 非 战斗 人员"
+    },
+    {
+        "head_id": "3702",
+        "head": "微软",
+        "relation": "出品",
+        "tail_id": "839",
+        "tail": "MS-Net"
+    },
+    {
+        "head_id": "816",
+        "head": "第一 夫人 南希 · 里根",
+        "relation": "就 职",
+        "tail_id": "2132",
+        "tail": "1981 年"
+    },
+    {
+        "head_id": "1384",
+        "head": "法国 和 意大利",
+        "relation": "直接 破坏",
+        "tail_id": "935",
+        "tail": "联盟"
+    },
+    {
+        "head_id": "2267",
+        "head": "Virat Kohli",
+        "relation": "成",
+        "tail_id": "3175",
+        "tail": "第一 位 印度 船长 ， 也是 第一 位 亚洲 船长"
+    },
+    {
+        "head_id": "2657",
+        "head": "新加坡",
+        "relation": "限制",
+        "tail_id": "2684",
+        "tail": "言论 自由 和 新闻 自由"
+    },
+    {
+        "head_id": "4465",
+        "head": "Nexus 5",
+        "relation": "发布",
+        "tail_id": "2900",
+        "tail": "2013 年 10 月 31"
+    },
+    {
+        "head_id": "3911",
+        "head": "吉尔吉斯斯坦",
+        "relation": "排名",
+        "tail_id": "2797",
+        "tail": "在 中亚"
+    },
+    {
+        "head_id": "1645",
+        "head": "Louis Pasteur",
+        "relation": "完成",
+        "tail_id": "4244",
+        "tail": "对 血液 和 尿液 的 测试"
+    },
+    {
+        "head_id": "4303",
+        "head": "Bhagavad Gita",
+        "relation": "将",
+        "tail_id": "2074",
+        "tail": "varṇa 与 个 人 的 职责"
+    },
+    {
+        "head_id": "49",
+        "head": "福布斯 杂志",
+        "relation": "排名",
+        "tail_id": "4082",
+        "tail": "Nirmala Sitharaman"
+    },
+    {
+        "head_id": "4853",
+        "head": "英国",
+        "relation": "违背",
+        "tail_id": "4553",
+        "tail": "了 自治 的 承诺"
+    },
+    {
+        "head_id": "2232",
+        "head": "以南 最 干旱 的 国家",
+        "relation": "非洲",
+        "tail_id": "2228",
+        "tail": "人口 密度 在 所有 主权 国家 中 倒数 第二"
+    },
+    {
+        "head_id": "2694",
+        "head": "访圣 市",
+        "relation": "安东尼奥",
+        "tail_id": "173",
+        "tail": "约有 3200 万 游客"
+    },
+    {
+        "head_id": "4026",
+        "head": "马赛",
+        "relation": "拥有",
+        "tail_id": "1405",
+        "tail": "繁多 的 体育 设施 和 球队"
+    },
+    {
+        "head_id": "3526",
+        "head": "数学",
+        "relation": "分",
+        "tail_id": "2795",
+        "tail": "为 两 个 主要 领域"
+    },
+    {
+        "head_id": "3003",
+        "head": "四 架 意大利 SM.82 轰炸 机",
+        "relation": "轰炸",
+        "tail_id": "958",
+        "tail": "巴林"
+    },
+    {
+        "head_id": "787",
+        "head": "Jamui",
+        "relation": "位",
+        "tail_id": "4864",
+        "tail": "于 比哈尔邦 - 贾坎德 邦 边界"
+    },
+    {
+        "head_id": "2781",
+        "head": "俄罗斯",
+        "relation": "决定",
+        "tail_id": "3527",
+        "tail": "支持 奥塞梯 分离 主义 者"
+    },
+    {
+        "head_id": "4379",
+        "head": "世界 卫生 组织",
+        "relation": "调查 了",
+        "tail_id": "4104",
+        "tail": "软化 水对 健康 的 影响"
+    },
+    {
+        "head_id": "4028",
+        "head": "椰子 水",
+        "relation": "在 消耗",
+        "tail_id": "2584",
+        "tail": "整个 潮湿 的 热带"
+    },
+    {
+        "head_id": "2314",
+        "head": "Bidya Devi Bhandari)",
+        "relation": "被 指控",
+        "tail_id": "3191",
+        "tail": "支持 党 派"
+    },
+    {
+        "head_id": "506",
+        "head": "约瑟夫 普里斯特利",
+        "relation": "帮助",
+        "tail_id": "2560",
+        "tail": "在 英格兰 建立 一 神 论"
+    },
+    {
+        "head_id": "2297",
+        "head": "阿道夫 ·",
+        "relation": "希特勒",
+        "tail_id": "3442",
+        "tail": "第二 次 失明"
+    },
+    {
+        "head_id": "4087",
+        "head": "城墙",
+        "relation": "保护",
+        "tail_id": "4629",
+        "tail": "上海"
+    },
+    {
+        "head_id": "1791",
+        "head": "卡拉库塔 毒药",
+        "relation": "生成",
+        "tail_id": "183",
+        "tail": "库玛"
+    },
+    {
+        "head_id": "3638",
+        "head": "RNA",
+        "relation": "替代",
+        "tail_id": "4239",
+        "tail": "尿 嘧 啶"
+    },
+    {
+        "head_id": "4980",
+        "head": "庞贝 遗址",
+        "relation": "提供",
+        "tail_id": "2814",
+        "tail": "罗马 生活 的 独特 快照"
+    },
+    {
+        "head_id": "727",
+        "head": "Soho Foundry Watt",
+        "relation": "开始",
+        "tail_id": "2839",
+        "tail": "进入 苏格兰 共济 会"
+    },
+    {
+        "head_id": "3873",
+        "head": "Microsoft Windows",
+        "relation": "包括",
+        "tail_id": "1567",
+        "tail": "对 TRIM 命 令 的 支持"
+    },
+    {
+        "head_id": "289",
+        "head": "以南 非洲 最 干旱 的 国家",
+        "relation": "也 排名",
+        "tail_id": "5001",
+        "tail": "第 28 位"
+    },
+    {
+        "head_id": "3307",
+        "head": "Sun Microsystems",
+        "relation": "估值",
+        "tail_id": "1713",
+        "tail": "超过 70 亿美"
+    },
+    {
+        "head_id": "1545",
+        "head": "保险",
+        "relation": "是",
+        "tail_id": "3252",
+        "tail": "防止 经济 损失 的 一 种 手段"
+    },
+    {
+        "head_id": "3279",
+        "head": "赤道 几内亚",
+        "relation": "排名",
+        "tail_id": "643",
+        "tail": "在 2019 年 人类 发展 指数"
+    },
+    {
+        "head_id": "3630",
+        "head": "姜",
+        "relation": "主要 种植",
+        "tail_id": "2753",
+        "tail": "在 印度 南部 和 大 巽 他 群岛"
+    },
+    {
+        "head_id": "3327",
+        "head": "楚科奇 地理 学家 Nikolai Daurkin",
+        "relation": "曾 到",
+        "tail_id": "1250",
+        "tail": "阿拉斯加"
+    },
+    {
+        "head_id": "2985",
+        "head": "科塔亚姆 镇",
+        "relation": "是",
+        "tail_id": "2749",
+        "tail": "科塔亚姆 区 的 地区 总部"
+    },
+    {
+        "head_id": "926",
+        "head": "Hillary Clinton)",
+        "relation": "落败",
+        "tail_id": "2207",
+        "tail": "在 2016 年 美国 大选"
+    },
+    {
+        "head_id": "2281",
+        "head": "中国",
+        "relation": "没有 批准",
+        "tail_id": "4088",
+        "tail": "全面 禁止 核 试验 条约"
+    },
+    {
+        "head_id": "816",
+        "head": "第一 夫人 南希 · 里根",
+        "relation": "成",
+        "tail_id": "2042",
+        "tail": "通用 电气 代言"
+    },
+    {
+        "head_id": "910",
+        "head": "外交 大臣 鲍里斯 约翰逊",
+        "relation": "签署",
+        "tail_id": "2999",
+        "tail": "2019 年 10 月 在 布鲁塞尔 谈判 达成 的 退出 协议"
+    },
+    {
+        "head_id": "1546",
+        "head": "露西亚",
+        "relation": "去",
+        "tail_id": "628",
+        "tail": "1906"
+    },
+    {
+        "head_id": "2067",
+        "head": "Irrfan Khan",
+        "relation": "接待",
+        "tail_id": "933",
+        "tail": "Kyaa Kahein"
+    },
+    {
+        "head_id": "1605",
+        "head": "高通",
+        "relation": "已 发展",
+        "tail_id": "423",
+        "tail": "到 6,300 名员 工"
+    },
+    {
+        "head_id": "3789",
+        "head": "新德里",
+        "relation": "称",
+        "tail_id": "2357",
+        "tail": "金斯威 为 最 重要 的 旅游 景点"
+    },
+    {
+        "head_id": "3701",
+        "head": "乔治 · 赫伯特 · 沃克 · 布什",
+        "relation": "签署",
+        "tail_id": "4034",
+        "tail": "了 美国 残疾 人 法案"
+    },
+    {
+        "head_id": "898",
+        "head": "文学 阿拉伯",
+        "relation": "是 现代 化",
+        "tail_id": "513",
+        "tail": "古典 阿拉伯 语"
+    },
+    {
+        "head_id": "3563",
+        "head": "北美",
+        "relation": "选出",
+        "tail_id": "546",
+        "tail": "立法 议会"
+    },
+    {
+        "head_id": "3857",
+        "head": "奥萨马 · 本 · 拉登",
+        "relation": "指示",
+        "tail_id": "1382",
+        "tail": "一 名 葡萄牙 人 皈依 伊斯兰 教"
+    },
+    {
+        "head_id": "2150",
+        "head": "希伯 来 语",
+        "relation": "曾",
+        "tail_id": "2179",
+        "tail": "作 为 一 种 文学 语言"
+    },
+    {
+        "head_id": "1481",
+        "head": "萧",
+        "relation": "伯纳尝试",
+        "tail_id": "3352",
+        "tail": "非 正统 的 戏剧 形式"
+    },
+    {
+        "head_id": "4433",
+        "head": "兰契 市政 公司",
+        "relation": "分",
+        "tail_id": "330",
+        "tail": "为 55 个 行政 区"
+    },
+    {
+        "head_id": "1379",
+        "head": "朝鲜",
+        "relation": "正 在 研制",
+        "tail_id": "3795",
+        "tail": "洲际 导弹"
+    },
+    {
+        "head_id": "1496",
+        "head": "Gurū Nānak",
+        "relation": "的 创始",
+        "tail_id": "3306",
+        "tail": "锡克 教"
+    },
+    {
+        "head_id": "2927",
+        "head": "欧盟",
+        "relation": "设定",
+        "tail_id": "3697",
+        "tail": "捕捞 配额"
+    },
+    {
+        "head_id": "4103",
+        "head": "蒂普苏丹",
+        "relation": "将 发行",
+        "tail_id": "1023",
+        "tail": "宝塔 、 穆尔 和 卢比"
+    },
+    {
+        "head_id": "2509",
+        "head": "Warangal 区",
+        "relation": "组成",
+        "tail_id": "454",
+        "tail": "由 6 个 talukas 和 2 个税 收部 门"
+    },
+    {
+        "head_id": "3000",
+        "head": "第一 夫人 南 希里根",
+        "relation": "就读",
+        "tail_id": "1502",
+        "tail": "狄克逊 高中"
+    },
+    {
+        "head_id": "140",
+        "head": "亚伯拉罕",
+        "relation": "正 在 建造",
+        "tail_id": "1427",
+        "tail": "天房"
+    },
+    {
+        "head_id": "2509",
+        "head": "Warangal 区",
+        "relation": "被 细分",
+        "tail_id": "2279",
+        "tail": "为 13 和 14 mandals"
+    },
+    {
+        "head_id": "2377",
+        "head": "科菲 · 安南 将 军",
+        "relation": "秘书",
+        "tail_id": "3758",
+        "tail": "联合 国"
+    },
+    {
+        "head_id": "958",
+        "head": "巴林",
+        "relation": "参加",
+        "tail_id": "1862",
+        "tail": "对 塔利班 的 军事 行动"
+    },
+    {
+        "head_id": "59",
+        "head": "古兰经 的 语言",
+        "relation": "已 在 全 教授",
+        "tail_id": "4278",
+        "tail": "世界"
+    },
+    {
+        "head_id": "2009",
+        "head": "Limonia acidissima",
+        "relation": "也 被 引入",
+        "tail_id": "2524",
+        "tail": "印度支那 和 马来西亚"
+    },
+    {
+        "head_id": "2624",
+        "head": "大破 天幕 杀机",
+        "relation": "收入",
+        "tail_id": "4707",
+        "tail": "2010 万英 镑"
+    },
+    {
+        "head_id": "818",
+        "head": "William Worrall Mayo",
+        "relation": "是 来 自 的 移民",
+        "tail_id": "4853",
+        "tail": "英国"
+    },
+    {
+        "head_id": "3803",
+        "head": "木星",
+        "relation": "是",
+        "tail_id": "1635",
+        "tail": "两 个 气态 巨行"
+    },
+    {
+        "head_id": "4055",
+        "head": "剩余 的 戈达瓦里 河",
+        "relation": "接收",
+        "tail_id": "4229",
+        "tail": "一 条 次 要 但 重要 的 支流 卡达姆 河"
+    },
+    {
+        "head_id": "4297",
+        "head": "泰米尔纳德邦",
+        "relation": "使用",
+        "tail_id": "2993",
+        "tail": "自然 农业"
+    },
+    {
+        "head_id": "2267",
+        "head": "Virat Kohli",
+        "relation": "投",
+        "tail_id": "2204",
+        "tail": "印度 超级 联赛 俱乐部 FC Goa"
+    },
+    {
+        "head_id": "1337",
+        "head": "管道",
+        "relation": "起源",
+        "tail_id": "3117",
+        "tail": "于 古代 文明"
+    },
+    {
+        "head_id": "3177",
+        "head": "Avestan",
+        "relation": "的 语言",
+        "tail_id": "4782",
+        "tail": "琐罗亚斯德"
+    },
+    {
+        "head_id": "145",
+        "head": "芦",
+        "relation": "竹富",
+        "tail_id": "687",
+        "tail": "含活 性 色胺 化合 物"
+    },
+    {
+        "head_id": "3890",
+        "head": "Microsoft Corporation",
+        "relation": "添加",
+        "tail_id": "3419",
+        "tail": "Skype Interviews"
+    },
+    {
+        "head_id": "1374",
+        "head": "威廉 · 莎士比亚",
+        "relation": "最常 上演",
+        "tail_id": "248",
+        "tail": "戏剧"
+    },
+    {
+        "head_id": "3087",
+        "head": "未来 纽约 大 都 会队 总 经理 Brodie Van Wagenen Armstrong",
+        "relation": "毕业",
+        "tail_id": "3685",
+        "tail": "于 航空 工程 专业 ， 获得 理学 学士 学"
+    },
+    {
+        "head_id": "1180",
+        "head": "Joseph Priestley)",
+        "relation": "是",
+        "tail_id": "1",
+        "tail": "教义 的 受害"
+    },
+    {
+        "head_id": "1483",
+        "head": "希伯来",
+        "relation": "是",
+        "tail_id": "2532",
+        "tail": "祈祷 和 学习 的 语言"
+    },
+    {
+        "head_id": "1974",
+        "head": "林丹",
+        "relation": "是",
+        "tail_id": "269",
+        "tail": "中国 前职 业 羽毛 球 运动 员"
+    },
+    {
+        "head_id": "1141",
+        "head": "总统 阿里 · 阿卜杜拉 · 萨利赫",
+        "relation": "将 权力 移交",
+        "tail_id": "4474",
+        "tail": "给 副 总统 哈迪"
+    },
+    {
+        "head_id": "130",
+        "head": "佛教",
+        "relation": "兴盛",
+        "tail_id": "4246",
+        "tail": "在 婆罗 帝国 的 支持"
+    },
+    {
+        "head_id": "4629",
+        "head": "上海",
+        "relation": "重创",
+        "tail_id": "4936",
+        "tail": "31万 错案"
+    },
+    {
+        "head_id": "4203",
+        "head": "克什米尔 武装 分子",
+        "relation": "作战",
+        "tail_id": "2148",
+        "tail": "北约"
+    },
+    {
+        "head_id": "2268",
+        "head": "新 宪法",
+        "relation": "正式 制定",
+        "tail_id": "4309",
+        "tail": "马拉维"
+    },
+    {
+        "head_id": "4013",
+        "head": "日本",
+        "relation": "欲",
+        "tail_id": "1819",
+        "tail": "在 中 太平 洋 称霸 亚太"
+    },
+    {
+        "head_id": "2790",
+        "head": "蔡 英 文",
+        "relation": "击败",
+        "tail_id": "984",
+        "tail": "高雄 县 副 县长 郭 台麟"
+    },
+    {
+        "head_id": "3832",
+        "head": "考古",
+        "relation": "揭示",
+        "tail_id": "3593",
+        "tail": "人类 的 许多 技术 进步"
+    },
+    {
+        "head_id": "4057",
+        "head": "阿尔巴尼亚",
+        "relation": "参加",
+        "tail_id": "2523",
+        "tail": "六 次 国际 任务"
+    },
+    {
+        "head_id": "457",
+        "head": "输精 管切 除术",
+        "relation": "有关",
+        "tail_id": "1400",
+        "tail": "与 前列腺癌"
+    },
+    {
+        "head_id": "289",
+        "head": "以南 非洲 最 干旱 的 国家",
+        "relation": "成",
+        "tail_id": "2547",
+        "tail": "联邦 第50 个 成员 国"
+    },
+    {
+        "head_id": "3854",
+        "head": "纳粹 德国",
+        "relation": "夺取",
+        "tail_id": "3797",
+        "tail": "意大利 地区 的 军事 控制"
+    },
+    {
+        "head_id": "3365",
+        "head": "Muzaffarpur 镇",
+        "relation": "被 称",
+        "tail_id": "4765",
+        "tail": "为 荔枝 王国"
+    },
+    {
+        "head_id": "1125",
+        "head": "Elena Vesnina",
+        "relation": "出现",
+        "tail_id": "4714",
+        "tail": "在 ABC 喜剧 即兴 电视 剧"
+    },
+    {
+        "head_id": "3706",
+        "head": "亚伯拉罕林肯",
+        "relation": "是",
+        "tail_id": "4412",
+        "tail": "一 名 活跃 的 摔 跤手"
+    },
+    {
+        "head_id": "965",
+        "head": "Swami Vivekananda",
+        "relation": "开始",
+        "tail_id": "2474",
+        "tail": "经常 拜访 Dakshineswar 的 主啊 Ramakrishna"
+    },
+    {
+        "head_id": "1953",
+        "head": "Nawazuddin Siddiqui",
+        "relation": "获 得",
+        "tail_id": "3225",
+        "tail": "评审 团 特别 奖"
+    },
+    {
+        "head_id": "551",
+        "head": "Samuel Finley Breese Morse",
+        "relation": "访问",
+        "tail_id": "3431",
+        "tail": "罗马"
+    },
+    {
+        "head_id": "20",
+        "head": "美国 政府",
+        "relation": "同意",
+        "tail_id": "3182",
+        "tail": "与 Gen Re 达成 9200 万 美 元 的 和解 协议"
+    },
+    {
+        "head_id": "3494",
+        "head": "卡巴迪",
+        "relation": "也 曾 被",
+        "tail_id": "1508",
+        "tail": "英 军 拿来"
+    },
+    {
+        "head_id": "4881",
+        "head": "萧 伯纳",
+        "relation": "阅读",
+        "tail_id": "2103",
+        "tail": "政治 经济 学家 亨利 · 乔治 的 书"
+    },
+    {
+        "head_id": "2654",
+        "head": "气候 变化",
+        "relation": "影响",
+        "tail_id": "2901",
+        "tail": "坦桑尼亚"
+    },
+    {
+        "head_id": "3701",
+        "head": "乔治 · 赫伯特 · 沃克 · 布什",
+        "relation": "需要",
+        "tail_id": "1093",
+        "tail": "米哈伊尔 · 戈尔巴乔夫 在 德国 可能 的 统一 中 进行 合作"
+    },
+    {
+        "head_id": "1321",
+        "head": "阿道夫希特勒",
+        "relation": "面临",
+        "tail_id": "869",
+        "tail": "驱逐 出境 的 风险"
+    },
+    {
+        "head_id": "4085",
+        "head": "澳大利亚",
+        "relation": "塑造 了",
+        "tail_id": "4775",
+        "tail": "世纪 的 移民"
+    },
+    {
+        "head_id": "3520",
+        "head": "印度",
+        "relation": "成",
+        "tail_id": "3362",
+        "tail": "本田 赛车 公司 最大 的 摩托 车市"
+    },
+    {
+        "head_id": "3630",
+        "head": "姜",
+        "relation": "也",
+        "tail_id": "89",
+        "tail": "以 蜜饯 和 腌制 形式"
+    },
+    {
+        "head_id": "3701",
+        "head": "乔治 · 赫伯特 · 沃克 · 布什",
+        "relation": "离任",
+        "tail_id": "1708",
+        "tail": "以 56% 的 工作 支持 率"
+    },
+    {
+        "head_id": "3830",
+        "head": "芬兰",
+        "relation": "加入",
+        "tail_id": "3758",
+        "tail": "联合 国"
+    },
+    {
+        "head_id": "1967",
+        "head": "Kenneth Stone)",
+        "relation": "是 学 教授",
+        "tail_id": "2370",
+        "tail": "经济"
+    },
+    {
+        "head_id": "1438",
+        "head": "德国 思想 家 弗里德里希 · 恩格斯",
+        "relation": "也",
+        "tail_id": "2975",
+        "tail": "与 许多 宪章 领袖 建立 了 密切 的 关系"
+    },
+    {
+        "head_id": "2636",
+        "head": "Mohammad Hamid Ansari",
+        "relation": "被 任命",
+        "tail_id": "3872",
+        "tail": "为 Aligarh 穆斯林 大学 副 校长"
+    },
+    {
+        "head_id": "4111",
+        "head": "乐销量",
+        "relation": "超过",
+        "tail_id": "3228",
+        "tail": "可口 可乐 公司 。"
+    },
+    {
+        "head_id": "3377",
+        "head": "硝酸",
+        "relation": "抽出",
+        "tail_id": "3454",
+        "tail": "从 陶制 管道"
+    },
+    {
+        "head_id": "4386",
+        "head": "维京 科技",
+        "relation": "1TB 闪存 SSD",
+        "tail_id": "2210",
+        "tail": "PCI Express × 8 接口 的"
+    },
+    {
+        "head_id": "736",
+        "head": "Nusrat Fateh Ali Khan",
+        "relation": "以",
+        "tail_id": "1477",
+        "tail": "音乐 为 职业"
+    },
+    {
+        "head_id": "1966",
+        "head": "Mirabilis jalapa",
+        "relation": "归化",
+        "tail_id": "4135",
+        "tail": "在 西 海岸"
+    },
+    {
+        "head_id": "1363",
+        "head": "欧洲 的 石器 时代",
+        "relation": "结束",
+        "tail_id": "4407",
+        "tail": "大约 50,000 年前"
+    },
+    {
+        "head_id": "4338",
+        "head": "240万 非 欧盟 国家 移民",
+        "relation": "进入",
+        "tail_id": "2927",
+        "tail": "欧盟"
+    },
+    {
+        "head_id": "1604",
+        "head": "烹饪",
+        "relation": "提高",
+        "tail_id": "4813",
+        "tail": "蛋白 质 消化 率 、 必需 氨基酸 指数 和 蛋白 质 效率 比"
+    },
+    {
+        "head_id": "2891",
+        "head": "阿道夫 · 希特勒",
+        "relation": "发动",
+        "tail_id": "2265",
+        "tail": "对 南斯拉夫 的 入侵"
+    },
+    {
+        "head_id": "1307",
+        "head": "摄影 师 Felix Beato",
+        "relation": "登上",
+        "tail_id": "4911",
+        "tail": "富士 山 的 顶峰"
+    },
+    {
+        "head_id": "1671",
+        "head": "Psidium",
+        "relation": "是",
+        "tail_id": "1149",
+        "tail": "桃金 娘 科 的 乔木 和 灌木 属"
+    },
+    {
+        "head_id": "816",
+        "head": "第一 夫人 南希 · 里根",
+        "relation": "是",
+        "tail_id": "1920",
+        "tail": "第一 位 离婚 的 总统"
+    },
+    {
+        "head_id": "82",
+        "head": "阿富汗",
+        "relation": "成",
+        "tail_id": "1257",
+        "tail": "为 基督 教 国家"
+    },
+    {
+        "head_id": "4546",
+        "head": "英属 印度",
+        "relation": "位",
+        "tail_id": "590",
+        "tail": "于 国家 首都 新德里 以 南约 1100 英里"
+    },
+    {
+        "head_id": "2973",
+        "head": "Lawrence Lessig",
+        "relation": "的 创始",
+        "tail_id": "1602",
+        "tail": "Creative Commons"
+    },
+    {
+        "head_id": "2102",
+        "head": "的 湿气 质量",
+        "relation": "环绕",
+        "tail_id": "65",
+        "tail": "地球"
+    },
+    {
+        "head_id": "2837",
+        "head": "矿石",
+        "relation": "提炼",
+        "tail_id": "780",
+        "tail": "经常 通过 冶炼"
+    },
+    {
+        "head_id": "2299",
+        "head": "Aaron Hillel Swartz",
+        "relation": "出现",
+        "tail_id": "4869",
+        "tail": "在 各种 艺术 作品"
+    },
+    {
+        "head_id": "4658",
+        "head": "Charles - Édouard Jeanneret",
+        "relation": "设计",
+        "tail_id": "92",
+        "tail": "家具 与 Esprit Nouveau 展 馆 相 得"
+    },
+    {
+        "head_id": "3503",
+        "head": "安道尔",
+        "relation": "不是",
+        "tail_id": "2639",
+        "tail": "欧盟 成员"
+    },
+    {
+        "head_id": "4157",
+        "head": "达芬奇",
+        "relation": "警告",
+        "tail_id": "4843",
+        "tail": "艺术 家 不要 使用 铜绿"
+    },
+    {
+        "head_id": "2919",
+        "head": "可能",
+        "relation": "自然 发现",
+        "tail_id": "237",
+        "tail": "于 1925"
+    },
+    {
+        "head_id": "4376",
+        "head": "ZnO",
+        "relation": "得到 证实",
+        "tail_id": "4610",
+        "tail": "在 小型 化 高频 薄 膜 谐振 器 、 传感 器 和 滤波"
+    },
+    {
+        "head_id": "2806",
+        "head": "时装 设计",
+        "relation": "始",
+        "tail_id": "2371",
+        "tail": "于 19 世纪 的 查尔斯 · 弗雷德里克 · 沃思 (Charles Frederick Worth)"
+    },
+    {
+        "head_id": "4290",
+        "head": "Jean- Joseph Sanfourche",
+        "relation": "学",
+        "tail_id": "4139",
+        "tail": "计"
+    },
+    {
+        "head_id": "1467",
+        "head": "微 积分",
+        "relation": "是",
+        "tail_id": "3752",
+        "tail": "对 连续 函数 的 研究"
+    },
+    {
+        "head_id": "965",
+        "head": "Swami Vivekananda",
+        "relation": "社会 问题",
+        "tail_id": "4955",
+        "tail": "种姓 制度 的"
+    },
+    {
+        "head_id": "3823",
+        "head": "法国",
+        "relation": "管理",
+        "tail_id": "1752",
+        "tail": "费赞 省"
+    },
+    {
+        "head_id": "3883",
+        "head": "Subhas Chandra Bose",
+        "relation": "去世 ， 享年",
+        "tail_id": "4202",
+        "tail": "48"
+    },
+    {
+        "head_id": "538",
+        "head": "东",
+        "relation": "孟加拉",
+        "tail_id": "2842",
+        "tail": "进入 莫卧儿 帝国"
+    },
+    {
+        "head_id": "816",
+        "head": "第一 夫人 南希 · 里根",
+        "relation": "没有",
+        "tail_id": "4212",
+        "tail": "桑德拉 · 戴 · 奥康纳"
+    },
+    {
+        "head_id": "3639",
+        "head": "甲骨文 系统 公司",
+        "relation": "聘请",
+        "tail_id": "3370",
+        "tail": "惠普前 首席 执行 官 马克赫德"
+    },
+    {
+        "head_id": "4881",
+        "head": "萧 伯纳",
+        "relation": "放弃 写",
+        "tail_id": "2578",
+        "tail": "日记"
+    },
+    {
+        "head_id": "90",
+        "head": "Judy Garland",
+        "relation": "未 正式",
+        "tail_id": "1162",
+        "tail": "与 Sidney Luft"
+    },
+    {
+        "head_id": "2718",
+        "head": "Lakshadweep",
+        "relation": "没有",
+        "tail_id": "2312",
+        "tail": "丰富 的 植物 群"
+    },
+    {
+        "head_id": "1869",
+        "head": "科伦坡",
+        "relation": "是",
+        "tail_id": "1040",
+        "tail": "一 个 军事要 塞"
+    },
+    {
+        "head_id": "3279",
+        "head": "赤道 几内亚",
+        "relation": "已 成",
+        "tail_id": "2764",
+        "tail": "撒哈拉 以南 非洲 最大 的 产油"
+    },
+    {
+        "head_id": "1969",
+        "head": "马斯喀特",
+        "relation": "的 所在",
+        "tail_id": "2818",
+        "tail": "省"
+    },
+    {
+        "head_id": "1397",
+        "head": "大 角星",
+        "relation": "是",
+        "tail_id": "3800",
+        "tail": "马克萨斯 群岛 的 天顶 星"
+    },
+    {
+        "head_id": "2776",
+        "head": "伊拉克",
+        "relation": "征收",
+        "tail_id": "480",
+        "tail": "高额 关 税 以 阻止 外国 商品"
+    },
+    {
+        "head_id": "3477",
+        "head": "Windows 10",
+        "relation": "使用",
+        "tail_id": "1410",
+        "tail": "PIN 创建强 非 对称 密钥 对"
+    },
+    {
+        "head_id": "2717",
+        "head": "沙默尔",
+        "relation": "绰号",
+        "tail_id": "4950",
+        "tail": "黄金 之城"
+    },
+    {
+        "head_id": "517",
+        "head": "罗纳德里根",
+        "relation": "建立",
+        "tail_id": "2197",
+        "tail": "一 个 指挥 代表 领导"
+    },
+    {
+        "head_id": "2370",
+        "head": "经济",
+        "relation": "研究",
+        "tail_id": "4096",
+        "tail": "货币 政策 和 财政 政策 的 影响"
+    },
+    {
+        "head_id": "2159",
+        "head": "国 政府",
+        "relation": "孟加拉",
+        "tail_id": "1146",
+        "tail": "恢复 粮食 援助"
+    },
+    {
+        "head_id": "4379",
+        "head": "世界 卫生 组织",
+        "relation": "推荐 了",
+        "tail_id": "815",
+        "tail": "两 种 伤寒 疫苗"
+    },
+    {
+        "head_id": "4732",
+        "head": "艾萨克 · 牛顿",
+        "relation": "定义",
+        "tail_id": "4525",
+        "tail": "为 一 种 力"
+    },
+    {
+        "head_id": "4175",
+        "head": "艾滋 病",
+        "relation": "起源",
+        "tail_id": "2658",
+        "tail": "于 非洲"
+    },
+    {
+        "head_id": "83",
+        "head": "千手 观 世音 菩萨",
+        "relation": "已 解脱",
+        "tail_id": "3304",
+        "tail": "一切 众 生轮 回"
+    },
+    {
+        "head_id": "422",
+        "head": "Carl Linnaeus)",
+        "relation": "去",
+        "tail_id": "1131",
+        "tail": "法轮"
+    },
+    {
+        "head_id": "2293",
+        "head": "圣克拉拉谷",
+        "relation": "获得",
+        "tail_id": "3594",
+        "tail": "美国 所有 风险 投资 的 41%"
+    },
+    {
+        "head_id": "4881",
+        "head": "萧 伯纳",
+        "relation": "支持",
+        "tail_id": "2051",
+        "tail": "种 族 平等 和 不同 种族 之间 的 通婚"
+    },
+    {
+        "head_id": "85",
+        "head": "芦竹",
+        "relation": "是",
+        "tail_id": "3949",
+        "tail": "几 种 所 谓 的 芦苇 物种 之 一"
+    },
+    {
+        "head_id": "1781",
+        "head": "甲醛",
+        "relation": "依次 生成",
+        "tail_id": "3968",
+        "tail": "炔 丙醇 和丁 炔二醇"
+    },
+    {
+        "head_id": "209",
+        "head": "利比亚",
+        "relation": "被",
+        "tail_id": "1798",
+        "tail": "奥斯曼 帝国"
+    },
+    {
+        "head_id": "4829",
+        "head": "TS Eliot",
+        "relation": "扮演",
+        "tail_id": "2637",
+        "tail": "机密 职员"
+    },
+    {
+        "head_id": "3547",
+        "head": "马拉维 湖",
+        "relation": "也",
+        "tail_id": "4439",
+        "tail": "叫尼亚萨 湖"
+    },
+    {
+        "head_id": "2078",
+        "head": "新加坡 人",
+        "relation": "大多 会",
+        "tail_id": "2723",
+        "tail": "双 语"
+    },
+    {
+        "head_id": "1283",
+        "head": "爱尔兰",
+        "relation": "获得",
+        "tail_id": "850",
+        "tail": "独立"
+    },
+    {
+        "head_id": "4651",
+        "head": "卡塔尔",
+        "relation": "加入",
+        "tail_id": "3510",
+        "tail": "北约 在 利比亚 的 行动"
+    },
+    {
+        "head_id": "4085",
+        "head": "澳大利亚",
+        "relation": "奉行",
+        "tail_id": "4741",
+        "tail": "多 元 文化 主义 的 官方 政策"
+    },
+    {
+        "head_id": "1352",
+        "head": "吴 作栋",
+        "relation": "成",
+        "tail_id": "2657",
+        "tail": "新加坡"
+    },
+    {
+        "head_id": "2891",
+        "head": "阿道夫 · 希特勒",
+        "relation": "表示",
+        "tail_id": "3956",
+        "tail": "只 对 纳粹 德国"
+    },
+    {
+        "head_id": "1826",
+        "head": "托马斯 杰斐逊",
+        "relation": "被 描绘",
+        "tail_id": "3076",
+        "tail": "成 自由 的 使者 和 人民 的 使者"
+    },
+    {
+        "head_id": "4418",
+        "head": "Sayyid Ruhollah Musavi Khomeini",
+        "relation": "开始 研究",
+        "tail_id": "4289",
+        "tail": "古兰经"
+    },
+    {
+        "head_id": "1746",
+        "head": "Claudius Caesar Augustus Germanicus",
+        "relation": "是 尼禄 的 全名",
+        "tail_id": "1698",
+        "tail": "Nero"
+    },
+    {
+        "head_id": "4658",
+        "head": "Charles - Édouard Jeanneret",
+        "relation": "联系",
+        "tail_id": "106",
+        "tail": "1950 年 与 印度 总理 贾瓦哈拉尔 · 尼赫鲁"
+    },
+    {
+        "head_id": "1806",
+        "head": "安达曼 和 尼科巴 群岛",
+        "relation": "上 被 置",
+        "tail_id": "4866",
+        "tail": "于 Arzi Hukumat -e- Azad Hind 的 管辖"
+    },
+    {
+        "head_id": "1885",
+        "head": "Seleucia 的 Seleucus",
+        "relation": "确认",
+        "tail_id": "65",
+        "tail": "地球"
+    },
+    {
+        "head_id": "1386",
+        "head": "耆那 教 社区",
+        "relation": "装饰 了",
+        "tail_id": "2853",
+        "tail": "斋 沙默尔"
+    },
+    {
+        "head_id": "3857",
+        "head": "奥萨马 · 本 · 拉登",
+        "relation": "计划 劫持",
+        "tail_id": "4311",
+        "tail": "飞机"
+    },
+    {
+        "head_id": "3165",
+        "head": "印度 教神 毗湿",
+        "relation": "奴化 身 为 莫希尼 ， 只 是 为了",
+        "tail_id": "388",
+        "tail": "将 花蜜 分发 给 众神"
+    },
+    {
+        "head_id": "1939",
+        "head": "溴化",
+        "relation": "是",
+        "tail_id": "516",
+        "tail": "一 种 抗癫 痫药 ， 适用 于 人类 ， 尤其 是 儿童 和 青少 年"
+    },
+    {
+        "head_id": "2685",
+        "head": "火灾",
+        "relation": "释放",
+        "tail_id": "1722",
+        "tail": "CO"
+    },
+    {
+        "head_id": "3767",
+        "head": "国",
+        "relation": "维持",
+        "tail_id": "4353",
+        "tail": "公共 秩序"
+    },
+    {
+        "head_id": "4205",
+        "head": "英迪拉甘 地",
+        "relation": "是 当时 的 总理",
+        "tail_id": "3520",
+        "tail": "印度"
+    },
+    {
+        "head_id": "289",
+        "head": "以南 非洲 最 干旱 的 国家",
+        "relation": "主要 依赖",
+        "tail_id": "172",
+        "tail": "地下 水"
+    },
+    {
+        "head_id": "421",
+        "head": "Vishnuvardhana",
+        "relation": "是 的 国王",
+        "tail_id": "3935",
+        "tail": "Hoysala"
+    },
+    {
+        "head_id": "3938",
+        "head": "酒精",
+        "relation": "制成",
+        "tail_id": "2394",
+        "tail": "ACE 混合"
+    },
+    {
+        "head_id": "2864",
+        "head": "拿破仑",
+        "relation": "称",
+        "tail_id": "3847",
+        "tail": "命运 之 人"
+    },
+    {
+        "head_id": "271",
+        "head": "印度 军队",
+        "relation": "保卫",
+        "tail_id": "56",
+        "tail": "海得拉巴 州"
+    },
+    {
+        "head_id": "1250",
+        "head": "阿拉斯加",
+        "relation": "经常 支持",
+        "tail_id": "2924",
+        "tail": "党"
+    },
+    {
+        "head_id": "3601",
+        "head": "叶酸 缺乏",
+        "relation": "限制",
+        "tail_id": "3993",
+        "tail": "细胞 分裂"
+    },
+    {
+        "head_id": "4616",
+        "head": "东 孟加拉",
+        "relation": "有",
+        "tail_id": "3786",
+        "tail": "一 个 庞大 的 造船 业"
+    },
+    {
+        "head_id": "3471",
+        "head": "Hakeem Arshad Qureshi)",
+        "relation": "少将",
+        "tail_id": "2887",
+        "tail": "巴基斯坦 陆军"
+    },
+    {
+        "head_id": "1853",
+        "head": "墨西哥 城",
+        "relation": "不 可能 成",
+        "tail_id": "3130",
+        "tail": "一 个 州"
+    },
+    {
+        "head_id": "1101",
+        "head": "约翰拉塞特",
+        "relation": "试图 推销",
+        "tail_id": "4377",
+        "tail": "勇敢 的 小 烤面 包机"
+    },
+    {
+        "head_id": "2457",
+        "head": "B. Narsing Rao",
+        "relation": "执导",
+        "tail_id": "942",
+        "tail": "达斯"
+    },
+    {
+        "head_id": "3647",
+        "head": "贫民 窟 的 百万 富翁",
+        "relation": "缺乏",
+        "tail_id": "2889",
+        "tail": "识别 的 明星"
+    },
+    {
+        "head_id": "3736",
+        "head": "血浆",
+        "relation": "是",
+        "tail_id": "3815",
+        "tail": "血液 中 淡 琥 珀色 的 液体 成分"
+    },
+    {
+        "head_id": "4515",
+        "head": "Stephen A. Douglas",
+        "relation": "是 州 的 参议",
+        "tail_id": "3862",
+        "tail": "伊利诺伊"
+    },
+    {
+        "head_id": "4658",
+        "head": "Charles - Édouard Jeanneret",
+        "relation": "寻求",
+        "tail_id": "4766",
+        "tail": "向 亲 轴心 国 的 维希 政权"
+    },
+    {
+        "head_id": "2267",
+        "head": "Virat Kohli",
+        "relation": "取得 成功",
+        "tail_id": "3730",
+        "tail": "在 澳大利亚 的 测试 系列"
+    },
+    {
+        "head_id": "1750",
+        "head": "洗礼",
+        "relation": "被 理解",
+        "tail_id": "2963",
+        "tail": "为 信仰 和 悔改 的 忏悔 表达"
+    },
+    {
+        "head_id": "4853",
+        "head": "英国",
+        "relation": "入侵",
+        "tail_id": "3",
+        "tail": "维希 控制 的 马达加斯 加"
+    },
+    {
+        "head_id": "2940",
+        "head": "康涅狄格 州 政府",
+        "relation": "也是",
+        "tail_id": "302",
+        "tail": "美国 海军 的 重要 供应 商"
+    },
+    {
+        "head_id": "1981",
+        "head": "失业",
+        "relation": "可能 导致",
+        "tail_id": "3553",
+        "tail": "就业 不足"
+    },
+    {
+        "head_id": "3823",
+        "head": "法国",
+        "relation": "加入",
+        "tail_id": "4440",
+        "tail": "法语 国家"
+    },
+    {
+        "head_id": "3258",
+        "head": "印度 人民 党 政府",
+        "relation": "颁布",
+        "tail_id": "4375",
+        "tail": "三 项 法令 （ 或 临时 法律"
+    },
+    {
+        "head_id": "3812",
+        "head": "加拿大",
+        "relation": "授予",
+        "tail_id": "1325",
+        "tail": "学位"
+    },
+    {
+        "head_id": "3658",
+        "head": "电视 台",
+        "relation": "播放",
+        "tail_id": "2099",
+        "tail": "宣礼"
+    },
+    {
+        "head_id": "506",
+        "head": "约瑟夫 普里斯特利",
+        "relation": "适",
+        "tail_id": "4039",
+        "tail": "在 沃灵顿"
+    },
+    {
+        "head_id": "3142",
+        "head": "欧洲",
+        "relation": "的",
+        "tail_id": "4508",
+        "tail": "货币 基金 组织"
+    },
+    {
+        "head_id": "1558",
+        "head": "议员",
+        "relation": "代表",
+        "tail_id": "3627",
+        "tail": "选区"
+    },
+    {
+        "head_id": "2277",
+        "head": "李 小龙",
+        "relation": "也 开始",
+        "tail_id": "214",
+        "tail": "教 武术"
+    },
+    {
+        "head_id": "4853",
+        "head": "英国",
+        "relation": "接管",
+        "tail_id": "3964",
+        "tail": "意属 厄立 特里亚 的 新 殖民"
+    },
+    {
+        "head_id": "4823",
+        "head": "艾莎",
+        "relation": "的 遗孀",
+        "tail_id": "2324",
+        "tail": "先知 穆罕默德"
+    },
+    {
+        "head_id": "4103",
+        "head": "蒂普苏丹",
+        "relation": "继续 发行",
+        "tail_id": "16",
+        "tail": "宝塔 、 莫尔 和 卢比"
+    },
+    {
+        "head_id": "2235",
+        "head": "米歇尔普拉蒂尼",
+        "relation": "是 欧 主席",
+        "tail_id": "2591",
+        "tail": "足联"
+    },
+    {
+        "head_id": "2443",
+        "head": "威廉 肖克利",
+        "relation": "离开",
+        "tail_id": "4806",
+        "tail": "贝尔 实验 室"
+    },
+    {
+        "head_id": "2778",
+        "head": "印度 政府",
+        "relation": "还 参加",
+        "tail_id": "2327",
+        "tail": "几 次 冬季 奥运"
+    },
+    {
+        "head_id": "3230",
+        "head": "Bonobos",
+        "relation": "服装 公司",
+        "tail_id": "1009",
+        "tail": "男士"
+    },
+    {
+        "head_id": "4497",
+        "head": "2001 年 关于 避孕 和 杀婴 的 法律",
+        "relation": "允许",
+        "tail_id": "457",
+        "tail": "输精 管切 除术"
+    },
+    {
+        "head_id": "4969",
+        "head": "卡尔",
+        "relation": "出发",
+        "tail_id": "701",
+        "tail": "斯科讷 的 隆德 大学"
+    },
+    {
+        "head_id": "3883",
+        "head": "Subhas Chandra Bose",
+        "relation": "选择",
+        "tail_id": "3924",
+        "tail": "学习 哲学"
+    },
+    {
+        "head_id": "592",
+        "head": "Maulana Masood Azhar",
+        "relation": "会见",
+        "tail_id": "3857",
+        "tail": "奥萨马 · 本 · 拉登"
+    },
+    {
+        "head_id": "1486",
+        "head": "圣地亚哥 市和 县",
+        "relation": "提供",
+        "tail_id": "2404",
+        "tail": "由 高速 公路 和 高速 公路 网络"
+    },
+    {
+        "head_id": "1100",
+        "head": "铜",
+        "relation": "制作 的",
+        "tail_id": "2936",
+        "tail": "手镯"
+    },
+    {
+        "head_id": "4833",
+        "head": "烷",
+        "relation": "不 形成",
+        "tail_id": "572",
+        "tail": "氢键"
+    }
+]

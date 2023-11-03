@@ -1,0 +1,3502 @@
+[
+    {
+        "head_id": "2854",
+        "head": "Grã-Bretanha",
+        "relation": "declarou",
+        "tail_id": "926",
+        "tail": "separação dos dois países"
+    },
+    {
+        "head_id": "4128",
+        "head": "A cidade de Copenhaga",
+        "relation": "expandiu-se consideravelmente",
+        "tail_id": "5060",
+        "tail": "após a Segunda Guerra Mundial"
+    },
+    {
+        "head_id": "2621",
+        "head": "James Watt",
+        "relation": "manteve-se",
+        "tail_id": "719",
+        "tail": "muito ocupado com instalações de máquinas"
+    },
+    {
+        "head_id": "2986",
+        "head": "Swami Vivekananda",
+        "relation": "curvou",
+        "tail_id": "5026",
+        "tail": "Saraswati"
+    },
+    {
+        "head_id": "4435",
+        "head": "Judy Garland",
+        "relation": "caracterizou",
+        "tail_id": "376",
+        "tail": "a multidão de Melbourne Melbourne como \" brutal"
+    },
+    {
+        "head_id": "1074",
+        "head": "Walmart",
+        "relation": "é",
+        "tail_id": "2729",
+        "tail": "uma multinacional estadunidense de lojas de departamento"
+    },
+    {
+        "head_id": "1476",
+        "head": "Namíbia",
+        "relation": "é",
+        "tail_id": "3873",
+        "tail": "uma democracia presidencialista"
+    },
+    {
+        "head_id": "5294",
+        "head": "do maior planeta do Sistema Solar",
+        "relation": "não ser",
+        "tail_id": "3491",
+        "tail": "um objeto sólido"
+    },
+    {
+        "head_id": "4312",
+        "head": "25 % de população da Índia Índia",
+        "relation": "oficialmente denominada",
+        "tail_id": "3110",
+        "tail": "República da Índia"
+    },
+    {
+        "head_id": "1761",
+        "head": "Benito Mussolini",
+        "relation": "após receber",
+        "tail_id": "889",
+        "tail": "um voto de desconfiança do Grande Conselho do Fascismo"
+    },
+    {
+        "head_id": "2437",
+        "head": "uma característica comum a futuras pandemias de gripe",
+        "relation": "foi relatada",
+        "tail_id": "4013",
+        "tail": "no Reino Unido"
+    },
+    {
+        "head_id": "3001",
+        "head": "agosto",
+        "relation": "passou pelo Congresso dos Estados Unidos sem receber",
+        "tail_id": "4454",
+        "tail": "um voto sequer de um republicano"
+    },
+    {
+        "head_id": "3057",
+        "head": "da Nova França",
+        "relation": "tinha sido povoada",
+        "tail_id": "2773",
+        "tail": "por cerca de puritanos"
+    },
+    {
+        "head_id": "3008",
+        "head": "Paraguai",
+        "relation": "também vem concretizando",
+        "tail_id": "2516",
+        "tail": "a implantação da primeira rodovia duplicada do Paraguai"
+    },
+    {
+        "head_id": "2949",
+        "head": "Estados Confederados da América",
+        "relation": "começou",
+        "tail_id": "4644",
+        "tail": "ainda durante a Guerra Mexicano-Americana"
+    },
+    {
+        "head_id": "4435",
+        "head": "Judy Garland",
+        "relation": "nunca escapou",
+        "tail_id": "2976",
+        "tail": "da imagem de garota comum e infantil"
+    },
+    {
+        "head_id": "4291",
+        "head": "Joseph Priestley",
+        "relation": "descobriu",
+        "tail_id": "2451",
+        "tail": "do novo gás"
+    },
+    {
+        "head_id": "4659",
+        "head": "Governo",
+        "relation": "é Priyadarshini Gandhi de",
+        "tail_id": "3898",
+        "tail": "Indira"
+    },
+    {
+        "head_id": "1443",
+        "head": "Aquebar",
+        "relation": "escrito",
+        "tail_id": "4658",
+        "tail": "Akbar"
+    },
+    {
+        "head_id": "4442",
+        "head": "ciências relacionadas e",
+        "relation": "incluídas",
+        "tail_id": "636",
+        "tail": "da biologia moderna"
+    },
+    {
+        "head_id": "2159",
+        "head": "Os japoneses",
+        "relation": "invadiram",
+        "tail_id": "4897",
+        "tail": "a União Soviética"
+    },
+    {
+        "head_id": "221",
+        "head": "o sistema francês",
+        "relation": "humilhar destruir",
+        "tail_id": "573",
+        "tail": "Évariste Galois"
+    },
+    {
+        "head_id": "704",
+        "head": "Uma muralha",
+        "relation": "foi construída pela primeira vez para proteger",
+        "tail_id": "5066",
+        "tail": "Xangai"
+    },
+    {
+        "head_id": "2626",
+        "head": "Istambul",
+        "relation": "faz",
+        "tail_id": "2627",
+        "tail": "parte da região de Mármara"
+    },
+    {
+        "head_id": "4171",
+        "head": "O Muro de Berlim",
+        "relation": "separou",
+        "tail_id": "2638",
+        "tail": "da Alemanha Ocidental"
+    },
+    {
+        "head_id": "18",
+        "head": "Viswanathan Anand",
+        "relation": "conseguiu o título mundial da FIDE tirando",
+        "tail_id": "1207",
+        "tail": "o título de campeão do mundo de Vladimir Kramnik"
+    },
+    {
+        "head_id": "4435",
+        "head": "Judy Garland",
+        "relation": "filmou",
+        "tail_id": "3428",
+        "tail": "um \" remake \" do musical"
+    },
+    {
+        "head_id": "4852",
+        "head": "Alasca",
+        "relation": "não causou",
+        "tail_id": "367",
+        "tail": "grandes danos nem vítimas"
+    },
+    {
+        "head_id": "3728",
+        "head": "invasão",
+        "relation": "aliada",
+        "tail_id": "1420",
+        "tail": "da Itália"
+    },
+    {
+        "head_id": "2531",
+        "head": "Deng Xiaoping",
+        "relation": "viajou",
+        "tail_id": "2321",
+        "tail": "Moscou para estudar as doutrinas comunistas"
+    },
+    {
+        "head_id": "2897",
+        "head": "China",
+        "relation": "tivesse",
+        "tail_id": "1636",
+        "tail": "uma longa tradição de esculturas religiosas"
+    },
+    {
+        "head_id": "2429",
+        "head": "Pátria do famoso marinheiro Píteas",
+        "relation": "foi atacada",
+        "tail_id": "3930",
+        "tail": "vezes"
+    },
+    {
+        "head_id": "1578",
+        "head": "Linus Torvalds",
+        "relation": "divulgou",
+        "tail_id": "2950",
+        "tail": "uma mensagem mencionando sobre Linus Torvalds"
+    },
+    {
+        "head_id": "521",
+        "head": "Alois Hitler Sr.",
+        "relation": "tentativa de integrar",
+        "tail_id": "5291",
+        "tail": "da União Soviética"
+    },
+    {
+        "head_id": "2986",
+        "head": "Swami Vivekananda",
+        "relation": "tinha",
+        "tail_id": "824",
+        "tail": "uma carta de introdução"
+    },
+    {
+        "head_id": "891",
+        "head": "Estados Unidos",
+        "relation": "pediram empréstimos pesados aumentando",
+        "tail_id": "875",
+        "tail": "dívida nacional de US$ 997 bilhões para US$ 2,8 trilhões"
+    },
+    {
+        "head_id": "2876",
+        "head": "Paris",
+        "relation": "recebeu",
+        "tail_id": "1581",
+        "tail": "16,8 milhões de turistas"
+    },
+    {
+        "head_id": "2155",
+        "head": "Alguns dos festivais mais populares do Índia",
+        "relation": "oficialmente denominada",
+        "tail_id": "3110",
+        "tail": "República da Índia"
+    },
+    {
+        "head_id": "575",
+        "head": "Iraque",
+        "relation": "nunca fez realmente",
+        "tail_id": "3210",
+        "tail": "esta oferta"
+    },
+    {
+        "head_id": "4209",
+        "head": "europeus deste tempo",
+        "relation": "chamam",
+        "tail_id": "2345",
+        "tail": "Etiópia"
+    },
+    {
+        "head_id": "3417",
+        "head": "Giuseppe Garibaldi",
+        "relation": "tentado",
+        "tail_id": "2572",
+        "tail": "a patentear ao mundo os feitos assombrosos"
+    },
+    {
+        "head_id": "4435",
+        "head": "Judy Garland",
+        "relation": "foi escalada",
+        "tail_id": "759",
+        "tail": "como Annie Oakley"
+    },
+    {
+        "head_id": "1921",
+        "head": "Federico Fellini",
+        "relation": "ganhou",
+        "tail_id": "4131",
+        "tail": "a Palma de Ouro por \" La Dolce Vita"
+    },
+    {
+        "head_id": "4393",
+        "head": "Argentina",
+        "relation": "ganhou de organizar",
+        "tail_id": "2474",
+        "tail": "a Copa do Mundo de 1978"
+    },
+    {
+        "head_id": "4268",
+        "head": "Adolf Hitler",
+        "relation": "foi sucedido",
+        "tail_id": "1259",
+        "tail": "pelo Grande Almirante Karl Dönitz"
+    },
+    {
+        "head_id": "4186",
+        "head": "Euro",
+        "relation": "entraria",
+        "tail_id": "1984",
+        "tail": "em circulação"
+    },
+    {
+        "head_id": "1909",
+        "head": "As Forças Armadas da Bielorrússia",
+        "relation": "havia voltado",
+        "tail_id": "923",
+        "tail": "para a área florestal do início do século"
+    },
+    {
+        "head_id": "2911",
+        "head": "Nero",
+        "relation": "viajou depressa para se encarregar",
+        "tail_id": "300",
+        "tail": "do um incêndio"
+    },
+    {
+        "head_id": "129",
+        "head": "Krishna",
+        "relation": "nasceu",
+        "tail_id": "3716",
+        "tail": "sem uma união sexual"
+    },
+    {
+        "head_id": "2192",
+        "head": "forças japonesas",
+        "relation": "invadiram",
+        "tail_id": "5066",
+        "tail": "Xangai"
+    },
+    {
+        "head_id": "5141",
+        "head": "Canonical, Novell e Red Hat Red Hat",
+        "relation": "planejam incluir",
+        "tail_id": "538",
+        "tail": "do LibreOffice"
+    },
+    {
+        "head_id": "787",
+        "head": "Alemanha Ocidental",
+        "relation": "concentrou-se em melhorar",
+        "tail_id": "1043",
+        "tail": "Alemanha Ocidental capacidade ofensiva"
+    },
+    {
+        "head_id": "3208",
+        "head": "Thomas Paine",
+        "relation": "salvou",
+        "tail_id": "3000",
+        "tail": "de expedientes desesperados"
+    },
+    {
+        "head_id": "1811",
+        "head": "site",
+        "relation": "é o criador do",
+        "tail_id": "4403",
+        "tail": "Mark Zuckerberg"
+    },
+    {
+        "head_id": "4823",
+        "head": "uma lei Parlamentar",
+        "relation": "era necessário",
+        "tail_id": "1971",
+        "tail": "naquela época"
+    },
+    {
+        "head_id": "4927",
+        "head": "Carl Friedrich Gauss",
+        "relation": "colocou",
+        "tail_id": "2808",
+        "tail": "Carl Friedrich Gauss lousa sobre a mesa"
+    },
+    {
+        "head_id": "1187",
+        "head": "Ali",
+        "relation": "foi assassinado",
+        "tail_id": "4207",
+        "tail": "por carijitas"
+    },
+    {
+        "head_id": "2719",
+        "head": "Ancara",
+        "relation": "conhecida",
+        "tail_id": "2523",
+        "tail": "como Ancira e Angora"
+    },
+    {
+        "head_id": "825",
+        "head": "Steve Jobs",
+        "relation": "realizou",
+        "tail_id": "4787",
+        "tail": "Toy Story 3 \" estreia"
+    },
+    {
+        "head_id": "4969",
+        "head": "Carlos Lineu",
+        "relation": "passou",
+        "tail_id": "4017",
+        "tail": "os sete anos seguintes"
+    },
+    {
+        "head_id": "4113",
+        "head": "um especialista britânico",
+        "relation": "tinha assistido",
+        "tail_id": "4435",
+        "tail": "Judy Garland"
+    },
+    {
+        "head_id": "661",
+        "head": "San Diego",
+        "relation": "foi",
+        "tail_id": "3009",
+        "tail": "lar de uma equipe da American Basketball Association"
+    },
+    {
+        "head_id": "4890",
+        "head": "Kabaddi",
+        "relation": "possui",
+        "tail_id": "2092",
+        "tail": "3 disciplinas diferentes"
+    },
+    {
+        "head_id": "2927",
+        "head": "Allah",
+        "relation": "é",
+        "tail_id": "4530",
+        "tail": "único e incomparável"
+    },
+    {
+        "head_id": "1588",
+        "head": "Susan Shentall",
+        "relation": "era",
+        "tail_id": "5195",
+        "tail": "William Shakespeare"
+    },
+    {
+        "head_id": "1610",
+        "head": "Índia",
+        "relation": "resolveu",
+        "tail_id": "914",
+        "tail": "compra-lo"
+    },
+    {
+        "head_id": "3479",
+        "head": "Rameswaram",
+        "relation": "tem",
+        "tail_id": "1015",
+        "tail": "uma população de pessoas"
+    },
+    {
+        "head_id": "3116",
+        "head": "Neil Alden Armstrong",
+        "relation": "pisou",
+        "tail_id": "2062",
+        "tail": "do ML"
+    },
+    {
+        "head_id": "3011",
+        "head": "a Constituição dos Estados Unidos",
+        "relation": "possui",
+        "tail_id": "1311",
+        "tail": "o formato de um arco"
+    },
+    {
+        "head_id": "4435",
+        "head": "Judy Garland",
+        "relation": "interpretou",
+        "tail_id": "4633",
+        "tail": "Judy Garland primeiro papel de adulto"
+    },
+    {
+        "head_id": "5066",
+        "head": "Xangai",
+        "relation": "iniciasse",
+        "tail_id": "2405",
+        "tail": "reformas econômicas"
+    },
+    {
+        "head_id": "4957",
+        "head": "Guru Nanak",
+        "relation": "foi junto para Sultanpur para viver",
+        "tail_id": "4359",
+        "tail": "com uma irmã"
+    },
+    {
+        "head_id": "2986",
+        "head": "Swami Vivekananda",
+        "relation": "partiu da para Índia saindo",
+        "tail_id": "3897",
+        "tail": "da Inglaterra com Swami Vivekananda"
+    },
+    {
+        "head_id": "1738",
+        "head": "imperador",
+        "relation": "capturou",
+        "tail_id": "2911",
+        "tail": "Nero"
+    },
+    {
+        "head_id": "5294",
+        "head": "do maior planeta do Sistema Solar",
+        "relation": "possui",
+        "tail_id": "1786",
+        "tail": "79 satélites naturais confirmados"
+    },
+    {
+        "head_id": "3084",
+        "head": "Brasil",
+        "relation": "passou",
+        "tail_id": "1831",
+        "tail": "à condição de exportador de alimentos"
+    },
+    {
+        "head_id": "4969",
+        "head": "Carlos Lineu",
+        "relation": "dedicou a sua expedição para explorar",
+        "tail_id": "4670",
+        "tail": "Lapônia"
+    },
+    {
+        "head_id": "3784",
+        "head": "Delaware",
+        "relation": "possuía",
+        "tail_id": "3441",
+        "tail": "9 485 quilômetros de vias públicas"
+    },
+    {
+        "head_id": "2719",
+        "head": "Ancara",
+        "relation": "está a desenvolver",
+        "tail_id": "466",
+        "tail": "muito"
+    },
+    {
+        "head_id": "855",
+        "head": "Bamaco central",
+        "relation": "é",
+        "tail_id": "222",
+        "tail": "relativamente plana"
+    },
+    {
+        "head_id": "3699",
+        "head": "O nome desta confederação a Confederação Iroquesa",
+        "relation": "será",
+        "tail_id": "2471",
+        "tail": "Estados Unidos da América"
+    },
+    {
+        "head_id": "129",
+        "head": "Krishna",
+        "relation": "revelado",
+        "tail_id": "2350",
+        "tail": "pelo avatar Sri Caitania Mahaprabu"
+    },
+    {
+        "head_id": "3393",
+        "head": "Creative Commons",
+        "relation": "é governado",
+        "tail_id": "3862",
+        "tail": "por um conselho de diretores e um conselho técnico"
+    },
+    {
+        "head_id": "2578",
+        "head": "1,83 % do Índia",
+        "relation": "oficialmente denominada",
+        "tail_id": "3110",
+        "tail": "República da Índia"
+    },
+    {
+        "head_id": "4852",
+        "head": "Alasca",
+        "relation": "é",
+        "tail_id": "1529",
+        "tail": "The Last Frontier"
+    },
+    {
+        "head_id": "1921",
+        "head": "Federico Fellini",
+        "relation": "juntou-se",
+        "tail_id": "4998",
+        "tail": "a nomes como Akira Kurosawa"
+    },
+    {
+        "head_id": "4704",
+        "head": "Ludwig van Beethoven",
+        "relation": "leva a ter",
+        "tail_id": "3247",
+        "tail": "aulas com Antonio Salieri"
+    },
+    {
+        "head_id": "4172",
+        "head": "Juno",
+        "relation": "estudará",
+        "tail_id": "5294",
+        "tail": "do maior planeta do Sistema Solar"
+    },
+    {
+        "head_id": "2911",
+        "head": "Nero",
+        "relation": "recuperara",
+        "tail_id": "3768",
+        "tail": "controle militar do império império"
+    },
+    {
+        "head_id": "825",
+        "head": "Steve Jobs",
+        "relation": "não interferia muito no processo criativo respeitando",
+        "tail_id": "3893",
+        "tail": "artistas da Alvy Ray Smith"
+    },
+    {
+        "head_id": "4291",
+        "head": "Joseph Priestley",
+        "relation": "encorajou-se",
+        "tail_id": "4657",
+        "tail": "a centralizar-se em factos sobre hipóteses e teorias"
+    },
+    {
+        "head_id": "1187",
+        "head": "Ali",
+        "relation": "são fagocitadas",
+        "tail_id": "4287",
+        "tail": "por macrófagos"
+    },
+    {
+        "head_id": "3784",
+        "head": "Delaware",
+        "relation": "pode ser dividido",
+        "tail_id": "3375",
+        "tail": "em duas distintas regiões geográficas"
+    },
+    {
+        "head_id": "4060",
+        "head": "Principado de Andorra",
+        "relation": "é",
+        "tail_id": "4768",
+        "tail": "o segundo país mais alto da União Europeia"
+    },
+    {
+        "head_id": "2626",
+        "head": "Istambul",
+        "relation": "foi considerada",
+        "tail_id": "2235",
+        "tail": "a 34a mais rica do mundo pela consultora PricewaterhouseCoopers"
+    },
+    {
+        "head_id": "3804",
+        "head": "Guerra Indo-Paquistanesa de 1947",
+        "relation": "conhecida",
+        "tail_id": "592",
+        "tail": "como a Primeira Guerra da Caxemira"
+    },
+    {
+        "head_id": "3566",
+        "head": "George H. W. Bush",
+        "relation": "concedeu-lhe",
+        "tail_id": "5140",
+        "tail": "a Medalha Presidencial da Liberdade"
+    },
+    {
+        "head_id": "4734",
+        "head": "Andorra",
+        "relation": "é",
+        "tail_id": "3934",
+        "tail": "do historiador grego Políbio"
+    },
+    {
+        "head_id": "4528",
+        "head": "Evangelista Torricelli",
+        "relation": "estudou",
+        "tail_id": "2774",
+        "tail": "tais sólidos de rotação propriedades"
+    },
+    {
+        "head_id": "2369",
+        "head": "zona do Cáucaso",
+        "relation": "comunica",
+        "tail_id": "5291",
+        "tail": "da União Soviética"
+    },
+    {
+        "head_id": "3784",
+        "head": "Delaware",
+        "relation": "entrou",
+        "tail_id": "2467",
+        "tail": "em uma fase de prosperidade econômica"
+    },
+    {
+        "head_id": "299",
+        "head": "site de Mark Zuckerberg",
+        "relation": "introduz",
+        "tail_id": "4381",
+        "tail": "Facebook Notes"
+    },
+    {
+        "head_id": "573",
+        "head": "Évariste Galois",
+        "relation": "sentenciado",
+        "tail_id": "1353",
+        "tail": "a seis meses de prisão"
+    },
+    {
+        "head_id": "1868",
+        "head": "Política Agrícola Comum da União Europeia",
+        "relation": "é",
+        "tail_id": "866",
+        "tail": "uma das políticas mais antigas A"
+    },
+    {
+        "head_id": "5180",
+        "head": "As primeiras obras literárias da Índia",
+        "relation": "oficialmente denominada",
+        "tail_id": "3110",
+        "tail": "República da Índia"
+    },
+    {
+        "head_id": "1286",
+        "head": "livre arbítrio",
+        "relation": "dedicando-se apenas a obedecer",
+        "tail_id": "2927",
+        "tail": "Allah"
+    },
+    {
+        "head_id": "3008",
+        "head": "Paraguai",
+        "relation": "declarou",
+        "tail_id": "120",
+        "tail": "independência da Espanha"
+    },
+    {
+        "head_id": "2579",
+        "head": "Meningite",
+        "relation": "é",
+        "tail_id": "2080",
+        "tail": "uma inflamação aguda das membranas protetoras"
+    },
+    {
+        "head_id": "891",
+        "head": "Estados Unidos",
+        "relation": "para responder",
+        "tail_id": "2305",
+        "tail": "por o ditador anticomunista panamenho Manuel Noriega crimes"
+    },
+    {
+        "head_id": "2911",
+        "head": "Nero",
+        "relation": "enviou",
+        "tail_id": "1300",
+        "tail": "Lúcio Vergínio Rufo"
+    },
+    {
+        "head_id": "4886",
+        "head": "Índia Britânica",
+        "relation": "recuperou",
+        "tail_id": "3467",
+        "tail": "controle dos picos"
+    },
+    {
+        "head_id": "1303",
+        "head": "a Química",
+        "relation": "separou",
+        "tail_id": "126",
+        "tail": "da a Química pelas mesmas razões"
+    },
+    {
+        "head_id": "4920",
+        "head": "da Grande Cidade do México",
+        "relation": "repousa",
+        "tail_id": "3411",
+        "tail": "sobre lago Texcoco Esta base macia"
+    },
+    {
+        "head_id": "3108",
+        "head": "Hiraniacaxipu",
+        "relation": "tornou-se",
+        "tail_id": "5088",
+        "tail": "um flagelo para toda a criação"
+    },
+    {
+        "head_id": "1494",
+        "head": "Constantino",
+        "relation": "mandou",
+        "tail_id": "4607",
+        "tail": "reparar as infraestruturas danificadas"
+    },
+    {
+        "head_id": "596",
+        "head": "Clitoria ternatea",
+        "relation": "tem sido relacionado",
+        "tail_id": "1256",
+        "tail": "com propriedades"
+    },
+    {
+        "head_id": "1494",
+        "head": "Constantino",
+        "relation": "foi",
+        "tail_id": "1544",
+        "tail": "ao ponto de enviar o Constantino"
+    },
+    {
+        "head_id": "2626",
+        "head": "Istambul",
+        "relation": "reconheceu",
+        "tail_id": "2333",
+        "tail": "como \" cidade livre e federada"
+    },
+    {
+        "head_id": "1141",
+        "head": "França",
+        "relation": "morreu",
+        "tail_id": "631",
+        "tail": "em 1791"
+    },
+    {
+        "head_id": "4852",
+        "head": "Alasca",
+        "relation": "tornou",
+        "tail_id": "1314",
+        "tail": "um território dos Estados Unidos habitantes"
+    },
+    {
+        "head_id": "4291",
+        "head": "Joseph Priestley",
+        "relation": "media",
+        "tail_id": "2441",
+        "tail": "diminuição do volume"
+    },
+    {
+        "head_id": "1187",
+        "head": "Ali",
+        "relation": "tendo participado ativamente",
+        "tail_id": "4016",
+        "tail": "do movimento dos hegelianos de esquerda ou Jovens Hegelianos"
+    },
+    {
+        "head_id": "4435",
+        "head": "Judy Garland",
+        "relation": "era",
+        "tail_id": "3977",
+        "tail": "a filha mais nova de Frank Avent Gumm"
+    },
+    {
+        "head_id": "4863",
+        "head": "da República Francesa",
+        "relation": "seria",
+        "tail_id": "549",
+        "tail": "incapaz de vencer um grande conflito"
+    },
+    {
+        "head_id": "2838",
+        "head": "habitantes do norte",
+        "relation": "eram originários",
+        "tail_id": "2475",
+        "tail": "da União Europeia"
+    },
+    {
+        "head_id": "1395",
+        "head": "Congresso Nacional Indiano",
+        "relation": "é Premier da",
+        "tail_id": "2460",
+        "tail": "Presidência de Madras estado de Madras"
+    },
+    {
+        "head_id": "3417",
+        "head": "Giuseppe Garibaldi",
+        "relation": "vendo",
+        "tail_id": "4370",
+        "tail": "a derrota iminente"
+    },
+    {
+        "head_id": "2986",
+        "head": "Swami Vivekananda",
+        "relation": "visitou",
+        "tail_id": "3961",
+        "tail": "o Punjab ocidental"
+    },
+    {
+        "head_id": "4030",
+        "head": "Deus",
+        "relation": "mais cultuado",
+        "tail_id": "745",
+        "tail": "toda a Índia"
+    },
+    {
+        "head_id": "4060",
+        "head": "Principado de Andorra",
+        "relation": "tornou-se",
+        "tail_id": "3452",
+        "tail": "membro das Organização das Nações Unidas e do a Convenção"
+    },
+    {
+        "head_id": "3179",
+        "head": "Wikilivros",
+        "relation": "foi lançado",
+        "tail_id": "1724",
+        "tail": "em 10 de 10 de julho de 2003 2003"
+    },
+    {
+        "head_id": "927",
+        "head": "Magrebe muçulmanos naturais",
+        "relation": "encontravam",
+        "tail_id": "4055",
+        "tail": "na Península Ibérica"
+    },
+    {
+        "head_id": "1355",
+        "head": "Finlândia",
+        "relation": "foi",
+        "tail_id": "876",
+        "tail": "oficialmente República da Finlândia"
+    },
+    {
+        "head_id": "350",
+        "head": "Nottinghamshire",
+        "relation": "tornando-se",
+        "tail_id": "2270",
+        "tail": "Lord Byron"
+    },
+    {
+        "head_id": "1379",
+        "head": "Omar",
+        "relation": "gostava",
+        "tail_id": "2820",
+        "tail": "de beber em Omar época pré-islâmica"
+    },
+    {
+        "head_id": "4168",
+        "head": "Medina",
+        "relation": "conhecida",
+        "tail_id": "264",
+        "tail": "como Iatrebe"
+    },
+    {
+        "head_id": "1477",
+        "head": "Osama bin Laden",
+        "relation": "interessou",
+        "tail_id": "4568",
+        "tail": "pelo Iraque"
+    },
+    {
+        "head_id": "4775",
+        "head": "Constituição dos Estados Unidos",
+        "relation": "aprovada",
+        "tail_id": "1648",
+        "tail": "pelo Congresso"
+    },
+    {
+        "head_id": "1426",
+        "head": "Veneza",
+        "relation": "era",
+        "tail_id": "3321",
+        "tail": "senhora"
+    },
+    {
+        "head_id": "3417",
+        "head": "Giuseppe Garibaldi",
+        "relation": "tomou",
+        "tail_id": "3314",
+        "tail": "o porto de Imbituba"
+    },
+    {
+        "head_id": "4060",
+        "head": "Principado de Andorra",
+        "relation": "é",
+        "tail_id": "1528",
+        "tail": "o único país do mundo a ter o catalão"
+    },
+    {
+        "head_id": "4435",
+        "head": "Judy Garland",
+        "relation": "sentiu",
+        "tail_id": "2584",
+        "tail": "muito aliviada \" com o diagnóstico"
+    },
+    {
+        "head_id": "4291",
+        "head": "Joseph Priestley",
+        "relation": "tentativa de minar",
+        "tail_id": "4387",
+        "tail": "Joseph Priestley ( Birstall, – Northumberland, ) credibilidade científica"
+    },
+    {
+        "head_id": "891",
+        "head": "Estados Unidos",
+        "relation": "derrotaram respectivamente",
+        "tail_id": "2648",
+        "tail": "com uma camiseta escrita"
+    },
+    {
+        "head_id": "3417",
+        "head": "Giuseppe Garibaldi",
+        "relation": "tinha encontrado",
+        "tail_id": "5112",
+        "tail": "refúgio"
+    },
+    {
+        "head_id": "470",
+        "head": "Malawi",
+        "relation": "é",
+        "tail_id": "608",
+        "tail": "um país encravado do sudeste da África"
+    },
+    {
+        "head_id": "4291",
+        "head": "Joseph Priestley",
+        "relation": "forneceu",
+        "tail_id": "1615",
+        "tail": "tripulação um método para fazer a água carbonatada"
+    },
+    {
+        "head_id": "2897",
+        "head": "China",
+        "relation": "é",
+        "tail_id": "2539",
+        "tail": "o maior detentor da dívida externa pública dos EUA"
+    },
+    {
+        "head_id": "1857",
+        "head": "Texas",
+        "relation": "foi renomeado",
+        "tail_id": "3823",
+        "tail": "Aeroporto Intercontinental George Bush"
+    },
+    {
+        "head_id": "2621",
+        "head": "James Watt",
+        "relation": "casou-se",
+        "tail_id": "380",
+        "tail": "Ann McGregor"
+    },
+    {
+        "head_id": "4291",
+        "head": "Joseph Priestley",
+        "relation": "descobriu",
+        "tail_id": "1309",
+        "tail": "ar vitrólico ácido"
+    },
+    {
+        "head_id": "3132",
+        "head": "Canadá",
+        "relation": "queimando",
+        "tail_id": "369",
+        "tail": "várias cidades, inclusive o Canadá Inferior"
+    },
+    {
+        "head_id": "2343",
+        "head": "estabelecimento dos judeus na Palestina",
+        "relation": "fortaleceria",
+        "tail_id": "2854",
+        "tail": "Grã-Bretanha"
+    },
+    {
+        "head_id": "5169",
+        "head": "Sri Aurobindo",
+        "relation": "manobrou",
+        "tail_id": "735",
+        "tail": "polícia"
+    },
+    {
+        "head_id": "4523",
+        "head": "regiões menos",
+        "relation": "desenvolvidas",
+        "tail_id": "3394",
+        "tail": "da UE"
+    },
+    {
+        "head_id": "3132",
+        "head": "Canadá",
+        "relation": "participou",
+        "tail_id": "1039",
+        "tail": "da Guerra do Golfo"
+    },
+    {
+        "head_id": "3008",
+        "head": "Paraguai",
+        "relation": "foi modernizado",
+        "tail_id": "3584",
+        "tail": "até certo ponto sob do regime do ditador Alfredo Stroessner"
+    },
+    {
+        "head_id": "2107",
+        "head": "2006",
+        "relation": "ganhou",
+        "tail_id": "2714",
+        "tail": "Copa do Mundo FIFA de 2014"
+    },
+    {
+        "head_id": "4732",
+        "head": "Alemanha Ocidental metas",
+        "relation": "dominar",
+        "tail_id": "1123",
+        "tail": "A Iugoslávia comunista"
+    },
+    {
+        "head_id": "1494",
+        "head": "Constantino",
+        "relation": "fez",
+        "tail_id": "769",
+        "tail": "da Istambul"
+    },
+    {
+        "head_id": "4210",
+        "head": "Guru Tegh Bahadur",
+        "relation": "reverenciado",
+        "tail_id": "4925",
+        "tail": "como o \" nono Nanak \" trabalhos"
+    },
+    {
+        "head_id": "855",
+        "head": "Bamaco central",
+        "relation": "é",
+        "tail_id": "2647",
+        "tail": "muito quente durante todo o ano"
+    },
+    {
+        "head_id": "2394",
+        "head": "Arjuna",
+        "relation": "atirou",
+        "tail_id": "181",
+        "tail": "uma flecha ferindo-o mortalmente"
+    },
+    {
+        "head_id": "1961",
+        "head": "A Primeira Guerra Mundial",
+        "relation": "alterou radicalmente",
+        "tail_id": "2287",
+        "tail": "o mapa geopolítico da Europa Ocidental"
+    },
+    {
+        "head_id": "3036",
+        "head": "do Sena",
+        "relation": "corta",
+        "tail_id": "2876",
+        "tail": "Paris"
+    },
+    {
+        "head_id": "5294",
+        "head": "do maior planeta do Sistema Solar",
+        "relation": "é",
+        "tail_id": "1178",
+        "tail": "o quinto mais próximo do Sol"
+    },
+    {
+        "head_id": "3651",
+        "head": "Subhas Chandra Bose",
+        "relation": "liderou",
+        "tail_id": "4577",
+        "tail": "o Exército Nacional Indiano contra os britânicos"
+    },
+    {
+        "head_id": "2537",
+        "head": "Os dois principais candidatos",
+        "relation": "tornar",
+        "tail_id": "4920",
+        "tail": "da Grande Cidade do México"
+    },
+    {
+        "head_id": "4735",
+        "head": "nesse ano",
+        "relation": "conheceu",
+        "tail_id": "5126",
+        "tail": "o jovem \" Conde Waldstein"
+    },
+    {
+        "head_id": "4890",
+        "head": "Kabaddi",
+        "relation": "é",
+        "tail_id": "3762",
+        "tail": "essencialmente físico"
+    },
+    {
+        "head_id": "4294",
+        "head": "um sismo de 7,8",
+        "relation": "atingiu",
+        "tail_id": "4852",
+        "tail": "Alasca"
+    },
+    {
+        "head_id": "2549",
+        "head": "informações",
+        "relation": "contidas",
+        "tail_id": "3914",
+        "tail": "do Wikilivros"
+    },
+    {
+        "head_id": "2876",
+        "head": "Paris",
+        "relation": "foi",
+        "tail_id": "2370",
+        "tail": "o centro de uma explosão de atividades filosófica e científica"
+    },
+    {
+        "head_id": "3063",
+        "head": "sérvio Bora Milutinović",
+        "relation": "treinou",
+        "tail_id": "3915",
+        "tail": "México"
+    },
+    {
+        "head_id": "3463",
+        "head": "Fogo Central",
+        "relation": "não é",
+        "tail_id": "5170",
+        "tail": "do Sol"
+    },
+    {
+        "head_id": "3731",
+        "head": "Essa nova visão de mundo",
+        "relation": "gradualmente ganhou",
+        "tail_id": "497",
+        "tail": "Europa Continental"
+    },
+    {
+        "head_id": "4852",
+        "head": "Alasca",
+        "relation": "é",
+        "tail_id": "2470",
+        "tail": "famosa mundialmente pelo Alasca"
+    },
+    {
+        "head_id": "304",
+        "head": "Thomas Jefferson",
+        "relation": "revoltado",
+        "tail_id": "4955",
+        "tail": "com os Atos Alien e Sedição"
+    },
+    {
+        "head_id": "3407",
+        "head": "Luxemburgo",
+        "relation": "aprovou",
+        "tail_id": "305",
+        "tail": "A"
+    },
+    {
+        "head_id": "698",
+        "head": "1956",
+        "relation": "1956",
+        "tail_id": "779",
+        "tail": "Em 22 de março de 1956"
+    },
+    {
+        "head_id": "18",
+        "head": "Viswanathan Anand",
+        "relation": "conseguiu",
+        "tail_id": "4908",
+        "tail": "finalmente vencer o Campeonato Mundial da FIDE em 2000"
+    },
+    {
+        "head_id": "2854",
+        "head": "Grã-Bretanha",
+        "relation": "desejasse",
+        "tail_id": "4174",
+        "tail": "melhores relações com o Reino de Itália"
+    },
+    {
+        "head_id": "2482",
+        "head": "Abacar",
+        "relation": "foi nomeado",
+        "tail_id": "3364",
+        "tail": "o primeiro califa"
+    },
+    {
+        "head_id": "3393",
+        "head": "Creative Commons",
+        "relation": "criou",
+        "tail_id": "2512",
+        "tail": "diversas licenças, conhecidas como licenças Creative Commons"
+    },
+    {
+        "head_id": "1379",
+        "head": "Omar",
+        "relation": "tendo se tornado",
+        "tail_id": "3124",
+        "tail": "um dos Abacar conselheiros"
+    },
+    {
+        "head_id": "3484",
+        "head": "chanceler Heinrich Brüning",
+        "relation": "governava",
+        "tail_id": "2422",
+        "tail": "a República de Weimar"
+    },
+    {
+        "head_id": "2621",
+        "head": "James Watt",
+        "relation": "interessou",
+        "tail_id": "469",
+        "tail": "muito por química"
+    },
+    {
+        "head_id": "4852",
+        "head": "Alasca",
+        "relation": "tornou",
+        "tail_id": "4554",
+        "tail": "um território dos Estados Unidos com o oceano Pacífico"
+    },
+    {
+        "head_id": "3008",
+        "head": "Paraguai",
+        "relation": "fundou a Associação Desportiva Paraguaia tendo",
+        "tail_id": "3980",
+        "tail": "como a Associação Desportiva Paraguaia primeiro presidente Tomás Bartrina"
+    },
+    {
+        "head_id": "4849",
+        "head": "Bidhya Devi Bhandari",
+        "relation": "exerceu",
+        "tail_id": "1908",
+        "tail": "cargo de Ministra da Defesa do governo nepalês"
+    },
+    {
+        "head_id": "4882",
+        "head": "Colombo",
+        "relation": "experimentou",
+        "tail_id": "536",
+        "tail": "um amplo crescimento em Colombo"
+    },
+    {
+        "head_id": "4368",
+        "head": "da doença",
+        "relation": "seja classificada",
+        "tail_id": "9",
+        "tail": "como emergência médica"
+    },
+    {
+        "head_id": "5231",
+        "head": "Angkor Wat",
+        "relation": "abruptamente saqueada",
+        "tail_id": "691",
+        "tail": "pelos a vizinha Tailândia por volta de 1430"
+    },
+    {
+        "head_id": "3784",
+        "head": "Delaware",
+        "relation": "tentou",
+        "tail_id": "3956",
+        "tail": "continuar com o uso do trabalho escravo após Guerra Civil"
+    },
+    {
+        "head_id": "2289",
+        "head": "o Reino de Itália",
+        "relation": "entrou na a capital da Líbia tornando",
+        "tail_id": "2707",
+        "tail": "Áustria - Hungria parte da África Oriental italiana"
+    },
+    {
+        "head_id": "4291",
+        "head": "Joseph Priestley",
+        "relation": "narrou",
+        "tail_id": "848",
+        "tail": "um conto da história providencialista e naturalista"
+    },
+    {
+        "head_id": "3606",
+        "head": "1911",
+        "relation": "houve",
+        "tail_id": "4225",
+        "tail": "motins em Todas as ilhas"
+    },
+    {
+        "head_id": "2344",
+        "head": "turcos",
+        "relation": "chamavam-na",
+        "tail_id": "2626",
+        "tail": "Istambul"
+    },
+    {
+        "head_id": "4300",
+        "head": "Karl Marx",
+        "relation": "elabora",
+        "tail_id": "136",
+        "tail": "críticas ao pensamento Proudhon"
+    },
+    {
+        "head_id": "4128",
+        "head": "A cidade de Copenhaga",
+        "relation": "sofreu",
+        "tail_id": "2818",
+        "tail": "repetidos ataques da Liga Hanseática"
+    },
+    {
+        "head_id": "3890",
+        "head": "Linnaeus",
+        "relation": "organizou",
+        "tail_id": "436",
+        "tail": "em latim"
+    },
+    {
+        "head_id": "4600",
+        "head": "Constituição da Índia",
+        "relation": "entrou em vigor estabelecendo",
+        "tail_id": "3542",
+        "tail": "a República da Índia"
+    },
+    {
+        "head_id": "4435",
+        "head": "Judy Garland",
+        "relation": "fez",
+        "tail_id": "4720",
+        "tail": "Judy Garland próximo filme"
+    },
+    {
+        "head_id": "2509",
+        "head": "Renato I de Nápoles",
+        "relation": "chegou",
+        "tail_id": "2429",
+        "tail": "Pátria do famoso marinheiro Píteas"
+    },
+    {
+        "head_id": "1379",
+        "head": "Omar",
+        "relation": "resolveu defender",
+        "tail_id": "2896",
+        "tail": "a religião tradicional politeísta da Arábia pré-islâmica"
+    },
+    {
+        "head_id": "2345",
+        "head": "Etiópia",
+        "relation": "são",
+        "tail_id": "4189",
+        "tail": "do Plioceno tardio"
+    },
+    {
+        "head_id": "4932",
+        "head": "Benito Amilcare Andrea Mussolini",
+        "relation": "tentaria seguir",
+        "tail_id": "2205",
+        "tail": "Alemanha de Adolf Hitler"
+    },
+    {
+        "head_id": "4060",
+        "head": "Principado de Andorra",
+        "relation": "possui",
+        "tail_id": "30",
+        "tail": "mais de 60 lagos"
+    },
+    {
+        "head_id": "3922",
+        "head": "Mikhail Gorbachev",
+        "relation": "derrube",
+        "tail_id": "4812",
+        "tail": "o Muro de Berlim"
+    },
+    {
+        "head_id": "3853",
+        "head": "160 acres ( 65 hectares",
+        "relation": "cultivasse",
+        "tail_id": "5280",
+        "tail": "terra"
+    },
+    {
+        "head_id": "891",
+        "head": "Estados Unidos",
+        "relation": "usou a imagem de Elvis para promover",
+        "tail_id": "1046",
+        "tail": "a bebida alcoólica chamada"
+    },
+    {
+        "head_id": "1182",
+        "head": "Aristóteles",
+        "relation": "contribuiu mais amplamente",
+        "tail_id": "4038",
+        "tail": "para o desenvolvimento da biologia moderna"
+    },
+    {
+        "head_id": "4635",
+        "head": "a teoria",
+        "relation": "coloca",
+        "tail_id": "5170",
+        "tail": "do Sol"
+    },
+    {
+        "head_id": "3084",
+        "head": "Brasil",
+        "relation": "registrou",
+        "tail_id": "3756",
+        "tail": "o Brasil primeira morte devido A pandemia de COVID-19"
+    },
+    {
+        "head_id": "542",
+        "head": "Aviões aliados",
+        "relation": "bombardeavam",
+        "tail_id": "2422",
+        "tail": "a República de Weimar"
+    },
+    {
+        "head_id": "4291",
+        "head": "Joseph Priestley",
+        "relation": "liderou",
+        "tail_id": "4322",
+        "tail": "e inspirou radicais britânicos durante os anos 1790"
+    },
+    {
+        "head_id": "4834",
+        "head": "Guglielmo Marconi",
+        "relation": "foi",
+        "tail_id": "2111",
+        "tail": "um físico e inventor italiano"
+    },
+    {
+        "head_id": "4181",
+        "head": "ADB",
+        "relation": "É membro também do",
+        "tail_id": "5243",
+        "tail": "Banco Asiático de Desenvolvimento"
+    },
+    {
+        "head_id": "335",
+        "head": "Rawalpindi",
+        "relation": "é considerado",
+        "tail_id": "3103",
+        "tail": "como o \" local de nascimento \" de Swami Vivekananda"
+    },
+    {
+        "head_id": "4887",
+        "head": "hinduísmo",
+        "relation": "é",
+        "tail_id": "5011",
+        "tail": "a religião mais praticada pela população"
+    },
+    {
+        "head_id": "3008",
+        "head": "Paraguai",
+        "relation": "exporta",
+        "tail_id": "723",
+        "tail": "eletricidade"
+    },
+    {
+        "head_id": "2986",
+        "head": "Swami Vivekananda",
+        "relation": "visitou",
+        "tail_id": "4904",
+        "tail": "outros locais, incluindo Delhi e Khetri"
+    },
+    {
+        "head_id": "4060",
+        "head": "Principado de Andorra",
+        "relation": "é caracterizado",
+        "tail_id": "2772",
+        "tail": "por cimeiras de materiais paleozoicos"
+    },
+    {
+        "head_id": "573",
+        "head": "Évariste Galois",
+        "relation": "fazia",
+        "tail_id": "4606",
+        "tail": "muitos cálculos de cabeça"
+    },
+    {
+        "head_id": "1605",
+        "head": "Psoríase",
+        "relation": "afeta",
+        "tail_id": "220",
+        "tail": "entre 2 e 4 % da população"
+    },
+    {
+        "head_id": "88",
+        "head": "Le Corbusier",
+        "relation": "produzira",
+        "tail_id": "2635",
+        "tail": "um híbrido estéril"
+    },
+    {
+        "head_id": "2973",
+        "head": "Ariabata",
+        "relation": "é um matemático-astrônomo da",
+        "tail_id": "4853",
+        "tail": "era clássica da matemática e astronomia indianas"
+    },
+    {
+        "head_id": "1295",
+        "head": "Adidas ( da Alemanha",
+        "relation": "disse",
+        "tail_id": "1898",
+        "tail": "em então Presidente da FIFA"
+    },
+    {
+        "head_id": "1840",
+        "head": "Islã",
+        "relation": "é",
+        "tail_id": "4510",
+        "tail": "diferente de qualquer outra religião"
+    },
+    {
+        "head_id": "2621",
+        "head": "James Watt",
+        "relation": "acabou",
+        "tail_id": "4103",
+        "tail": "por tornar-se famoso"
+    },
+    {
+        "head_id": "4435",
+        "head": "Judy Garland",
+        "relation": "foi substituída",
+        "tail_id": "4608",
+        "tail": "por Ginger Rogers"
+    },
+    {
+        "head_id": "5066",
+        "head": "Xangai",
+        "relation": "conseguiu",
+        "tail_id": "2476",
+        "tail": "manter a produção econômica com taxa de crescimento anual positiva"
+    },
+    {
+        "head_id": "5294",
+        "head": "do maior planeta do Sistema Solar",
+        "relation": "é",
+        "tail_id": "3125",
+        "tail": "visível a olho nu"
+    },
+    {
+        "head_id": "4060",
+        "head": "Principado de Andorra",
+        "relation": "fazendo",
+        "tail_id": "1085",
+        "tail": "parte do distrito de Puigcerdà"
+    },
+    {
+        "head_id": "2429",
+        "head": "Pátria do famoso marinheiro Píteas",
+        "relation": "saqueada",
+        "tail_id": "3930",
+        "tail": "vezes"
+    },
+    {
+        "head_id": "2892",
+        "head": "O Brasil de Pelé",
+        "relation": "foi nomeado para organizar",
+        "tail_id": "1763",
+        "tail": "a primeira edição"
+    },
+    {
+        "head_id": "2626",
+        "head": "Istambul",
+        "relation": "tende",
+        "tail_id": "1",
+        "tail": "a ser ventosa"
+    },
+    {
+        "head_id": "3208",
+        "head": "Thomas Paine",
+        "relation": "tentou se alistar",
+        "tail_id": "2913",
+        "tail": "em um navio corsário chamado \" The Terrible"
+    },
+    {
+        "head_id": "3087",
+        "head": "Dele",
+        "relation": "sendo",
+        "tail_id": "5267",
+        "tail": "que o homem deveria obedecer ao mandado Dele"
+    },
+    {
+        "head_id": "1379",
+        "head": "Omar",
+        "relation": "foi assassinado",
+        "tail_id": "3076",
+        "tail": "por um persa"
+    },
+    {
+        "head_id": "304",
+        "head": "Thomas Jefferson",
+        "relation": "reuniu-se",
+        "tail_id": "4649",
+        "tail": "quatro vezes com Joseph Letombe"
+    },
+    {
+        "head_id": "4456",
+        "head": "Hipnose",
+        "relation": "pode ser utilizado",
+        "tail_id": "1990",
+        "tail": "em benefício do ser humano"
+    },
+    {
+        "head_id": "3286",
+        "head": "Euclides",
+        "relation": "foi",
+        "tail_id": "1745",
+        "tail": "responsável por muitas das notações em uso atualmente"
+    },
+    {
+        "head_id": "3918",
+        "head": "Menor",
+        "relation": "era sobrinho de",
+        "tail_id": "1447",
+        "tail": "César Augusto"
+    },
+    {
+        "head_id": "5294",
+        "head": "do maior planeta do Sistema Solar",
+        "relation": "ter superado",
+        "tail_id": "5170",
+        "tail": "do Sol"
+    },
+    {
+        "head_id": "3417",
+        "head": "Giuseppe Garibaldi",
+        "relation": "era",
+        "tail_id": "798",
+        "tail": "o segundo de seis filhos"
+    },
+    {
+        "head_id": "3745",
+        "head": "Outros grupos indígenas",
+        "relation": "habitam",
+        "tail_id": "4920",
+        "tail": "da Grande Cidade do México"
+    },
+    {
+        "head_id": "4952",
+        "head": "Noruega",
+        "relation": "foi conquistada",
+        "tail_id": "1160",
+        "tail": "dentro de dois meses"
+    },
+    {
+        "head_id": "4060",
+        "head": "Principado de Andorra",
+        "relation": "utilizava",
+        "tail_id": "1471",
+        "tail": "franco francês e a peseta espanhola a peseta espanhola"
+    },
+    {
+        "head_id": "3342",
+        "head": "o neutro Estados Unidos",
+        "relation": "preocupados",
+        "tail_id": "2975",
+        "tail": "com os acontecimentos na Europa Ocidental e na Ásia continental"
+    },
+    {
+        "head_id": "1463",
+        "head": "Talibã",
+        "relation": "beneficiou",
+        "tail_id": "2797",
+        "tail": "da lealdade de muitos lutadores árabes afegãos"
+    },
+    {
+        "head_id": "5014",
+        "head": "Síria",
+        "relation": "é",
+        "tail_id": "5033",
+        "tail": "uma língua muito falada"
+    },
+    {
+        "head_id": "2911",
+        "head": "Nero",
+        "relation": "começou visando",
+        "tail_id": "1923",
+        "tail": "aumentar Nero popularidade"
+    },
+    {
+        "head_id": "2455",
+        "head": "o matemático e astrônomo polonês Nicolau Copérnico",
+        "relation": "aprimorado",
+        "tail_id": "3242",
+        "tail": "por Johannes Kepler"
+    },
+    {
+        "head_id": "2986",
+        "head": "Swami Vivekananda",
+        "relation": "retornou",
+        "tail_id": "4481",
+        "tail": "Calcutá"
+    },
+    {
+        "head_id": "2626",
+        "head": "Istambul",
+        "relation": "há",
+        "tail_id": "1944",
+        "tail": "espetáculos de ópera, jazz, ballet e teatro"
+    },
+    {
+        "head_id": "62",
+        "head": "os dois aeroportos",
+        "relation": "servem",
+        "tail_id": "4882",
+        "tail": "Colombo"
+    },
+    {
+        "head_id": "3022",
+        "head": "Skype",
+        "relation": "será",
+        "tail_id": "4412",
+        "tail": "uma subdivisão pela Microsoft"
+    },
+    {
+        "head_id": "5190",
+        "head": "Vietnã do Sul",
+        "relation": "invadiu",
+        "tail_id": "1899",
+        "tail": "A República Popular do Kampuchea"
+    },
+    {
+        "head_id": "2980",
+        "head": "John Adams",
+        "relation": "residir",
+        "tail_id": "2747",
+        "tail": "numa Casa Branca"
+    },
+    {
+        "head_id": "4435",
+        "head": "Judy Garland",
+        "relation": "morreu",
+        "tail_id": "845",
+        "tail": "de uma overdose acidental"
+    },
+    {
+        "head_id": "1074",
+        "head": "Walmart",
+        "relation": "adquiriu",
+        "tail_id": "2351",
+        "tail": "The McLane Company"
+    },
+    {
+        "head_id": "4949",
+        "head": "Austrália Ocidental",
+        "relation": "para evitar",
+        "tail_id": "328",
+        "tail": "atritos com os países vizinhos falantes Austrália Ocidental"
+    },
+    {
+        "head_id": "5169",
+        "head": "Sri Aurobindo",
+        "relation": "desenvolveu",
+        "tail_id": "2681",
+        "tail": "um método de prática espiritual chamado \" Integral Yoga"
+    },
+    {
+        "head_id": "2626",
+        "head": "Istambul",
+        "relation": "atingindo",
+        "tail_id": "797",
+        "tail": "os"
+    },
+    {
+        "head_id": "1077",
+        "head": "A sociedade tradicional da Índia",
+        "relation": "oficialmente denominada",
+        "tail_id": "3110",
+        "tail": "República da Índia"
+    },
+    {
+        "head_id": "4024",
+        "head": "Mahatma Gandhi",
+        "relation": "visitaria",
+        "tail_id": "2289",
+        "tail": "o Reino de Itália"
+    },
+    {
+        "head_id": "3221",
+        "head": "A colônia da Coroa Britânica de Nova Gales do Sul",
+        "relation": "está passando",
+        "tail_id": "1916",
+        "tail": "por uma mudança demográfica para uma população mais velha"
+    },
+    {
+        "head_id": "2621",
+        "head": "James Watt",
+        "relation": "educou-se",
+        "tail_id": "2961",
+        "tail": "em casa com Sua mãe Agnes Muirhead"
+    },
+    {
+        "head_id": "5205",
+        "head": "presidente Jacob Zuma",
+        "relation": "encontrava",
+        "tail_id": "3236",
+        "tail": "na Suíça"
+    },
+    {
+        "head_id": "4827",
+        "head": "a porção oriental do Território de Minnesota",
+        "relation": "possui",
+        "tail_id": "5044",
+        "tail": "201 estações de rádio"
+    },
+    {
+        "head_id": "3221",
+        "head": "A colônia da Coroa Britânica de Nova Gales do Sul",
+        "relation": "possui",
+        "tail_id": "5236",
+        "tail": "um total de 325 aeroportos"
+    },
+    {
+        "head_id": "4068",
+        "head": "indianos-americanos",
+        "relation": "deslocam",
+        "tail_id": "1795",
+        "tail": "da Índia"
+    },
+    {
+        "head_id": "4397",
+        "head": "Dia Internacional da Tradução",
+        "relation": "é",
+        "tail_id": "210",
+        "tail": "uma efeméride profissional de tradutores e intérpretes"
+    },
+    {
+        "head_id": "4025",
+        "head": "pela Microsoft",
+        "relation": "adquiriu",
+        "tail_id": "3022",
+        "tail": "Skype"
+    },
+    {
+        "head_id": "3084",
+        "head": "Brasil",
+        "relation": "fazer",
+        "tail_id": "5178",
+        "tail": "parte o Conselho de Segurança das Nações Unidas Nações Unidas"
+    },
+    {
+        "head_id": "4831",
+        "head": "Estado de Israel",
+        "relation": "prometia",
+        "tail_id": "2873",
+        "tail": "lucros anuais de até 300"
+    },
+    {
+        "head_id": "3340",
+        "head": "Hong Kong",
+        "relation": "tenha",
+        "tail_id": "5167",
+        "tail": "a segunda maior expectativa de vida do mundo"
+    },
+    {
+        "head_id": "299",
+        "head": "site de Mark Zuckerberg",
+        "relation": "recebeu",
+        "tail_id": "1926",
+        "tail": "aproximadamente US$ 500 000 do co-fundador do PayPal Peter Thiel"
+    },
+    {
+        "head_id": "3086",
+        "head": "Índia Antiga",
+        "relation": "dividida",
+        "tail_id": "4406",
+        "tail": "em três reinos rivais"
+    },
+    {
+        "head_id": "429",
+        "head": "Al-Qaeda",
+        "relation": "era",
+        "tail_id": "4436",
+        "tail": "uma criação de políticos neoconservadores"
+    },
+    {
+        "head_id": "4773",
+        "head": "Skyfall",
+        "relation": "foi oficialmente lançada",
+        "tail_id": "269",
+        "tail": "como um single"
+    },
+    {
+        "head_id": "1426",
+        "head": "Veneza",
+        "relation": "anexou",
+        "tail_id": "3665",
+        "tail": "maior parte do principado de Croia"
+    },
+    {
+        "head_id": "4435",
+        "head": "Judy Garland",
+        "relation": "nunca estava",
+        "tail_id": "3482",
+        "tail": "confiante em Judy Garland aparência"
+    },
+    {
+        "head_id": "4524",
+        "head": "Microsoft",
+        "relation": "retornou",
+        "tail_id": "2491",
+        "tail": "A função de verificação de vírus do Windows Defender"
+    },
+    {
+        "head_id": "3466",
+        "head": "Ajmer",
+        "relation": "visitou",
+        "tail_id": "744",
+        "tail": "o palácio de Akbar e o famoso Dargah"
+    },
+    {
+        "head_id": "3417",
+        "head": "Giuseppe Garibaldi",
+        "relation": "iniciou",
+        "tail_id": "2500",
+        "tail": "os preparativos para a passagem ao Austrália"
+    },
+    {
+        "head_id": "4291",
+        "head": "Joseph Priestley",
+        "relation": "aceitar",
+        "tail_id": "956",
+        "tail": "a \" nova química \" de Antoine Lavoisier"
+    },
+    {
+        "head_id": "4746",
+        "head": "Telescópio Espacial James Webb",
+        "relation": "opera",
+        "tail_id": "526",
+        "tail": "em uma órbita de halo"
+    },
+    {
+        "head_id": "59",
+        "head": "África subsariana",
+        "relation": "fosse denominada",
+        "tail_id": "2397",
+        "tail": "cinturão de meningite"
+    },
+    {
+        "head_id": "3221",
+        "head": "A colônia da Coroa Britânica de Nova Gales do Sul",
+        "relation": "reivindicou",
+        "tail_id": "4319",
+        "tail": "para Reino Unido"
+    },
+    {
+        "head_id": "3670",
+        "head": "a mesma espada",
+        "relation": "aceitou",
+        "tail_id": "1840",
+        "tail": "Islã"
+    },
+    {
+        "head_id": "88",
+        "head": "Le Corbusier",
+        "relation": "desse",
+        "tail_id": "3387",
+        "tail": "uma palestra sobre arquitectura em Itália"
+    },
+    {
+        "head_id": "4528",
+        "head": "Evangelista Torricelli",
+        "relation": "estava",
+        "tail_id": "1710",
+        "tail": "interessado em Óptica"
+    },
+    {
+        "head_id": "2789",
+        "head": "Mesopotâmia",
+        "relation": "submetendo",
+        "tail_id": "1816",
+        "tail": "Média, Mesopotâmia setentrional e da Grande Síria"
+    },
+    {
+        "head_id": "3295",
+        "head": "mesmo ano",
+        "relation": "frequenta informalmente",
+        "tail_id": "4570",
+        "tail": "as reuniões do CNA Congresso Nacional Africano"
+    },
+    {
+        "head_id": "4291",
+        "head": "Joseph Priestley",
+        "relation": "normalmente é creditada",
+        "tail_id": "2234",
+        "tail": "a descoberta do novo gás do novo gás"
+    },
+    {
+        "head_id": "2876",
+        "head": "Paris",
+        "relation": "organiza",
+        "tail_id": "1503",
+        "tail": "o torneio Grand Slam de tênis"
+    },
+    {
+        "head_id": "4969",
+        "head": "Carlos Lineu",
+        "relation": "atribuído",
+        "tail_id": "2669",
+        "tail": "após nobilitação em 1757"
+    },
+    {
+        "head_id": "2424",
+        "head": "todo o mundo",
+        "relation": "deseja ter",
+        "tail_id": "330",
+        "tail": "PODER"
+    },
+    {
+        "head_id": "4435",
+        "head": "Judy Garland",
+        "relation": "devendo",
+        "tail_id": "539",
+        "tail": "centenas de milhares de dólares em impostos atrasados"
+    },
+    {
+        "head_id": "3340",
+        "head": "Hong Kong",
+        "relation": "é",
+        "tail_id": "2420",
+        "tail": "um dos países / dependências mais densamente populadas do mundo"
+    },
+    {
+        "head_id": "5294",
+        "head": "do maior planeta do Sistema Solar",
+        "relation": "completa",
+        "tail_id": "2486",
+        "tail": "uma órbita em torno do Sol"
+    },
+    {
+        "head_id": "1349",
+        "head": "A França",
+        "relation": "controlava",
+        "tail_id": "1414",
+        "tail": "vizinha Yian Bourbon"
+    },
+    {
+        "head_id": "4060",
+        "head": "Principado de Andorra",
+        "relation": "não é",
+        "tail_id": "2853",
+        "tail": "um membro pleno da União Europeia União Europeia"
+    },
+    {
+        "head_id": "1483",
+        "head": "Coca-Cola",
+        "relation": "tem",
+        "tail_id": "3172",
+        "tail": "contrato"
+    },
+    {
+        "head_id": "4886",
+        "head": "Índia Britânica",
+        "relation": "conquistou",
+        "tail_id": "3531",
+        "tail": "independência do Paquistão Oriental"
+    },
+    {
+        "head_id": "78",
+        "head": "navegou para Chicago",
+        "relation": "representou",
+        "tail_id": "1610",
+        "tail": "Índia"
+    },
+    {
+        "head_id": "63",
+        "head": "Pompeia ou Pompeios",
+        "relation": "tinha",
+        "tail_id": "2340",
+        "tail": "aproximadamente habitantes"
+    },
+    {
+        "head_id": "4741",
+        "head": "Primeira Guerra Mundial",
+        "relation": "levaria",
+        "tail_id": "4125",
+        "tail": "da União Soviética à revolução social"
+    },
+    {
+        "head_id": "1610",
+        "head": "Índia",
+        "relation": "concedeu-lhe",
+        "tail_id": "4323",
+        "tail": "Índia mais alta condecoração"
+    },
+    {
+        "head_id": "4957",
+        "head": "Guru Nanak",
+        "relation": "disse",
+        "tail_id": "2944",
+        "tail": "assim aos seus pais"
+    },
+    {
+        "head_id": "4435",
+        "head": "Judy Garland",
+        "relation": "era esperada",
+        "tail_id": "1997",
+        "tail": "como a provável vencedora pelo público e críticos"
+    },
+    {
+        "head_id": "5068",
+        "head": "Sulfeto de hidrogênio",
+        "relation": "reage",
+        "tail_id": "3633",
+        "tail": "com álcoois formando tióis"
+    },
+    {
+        "head_id": "3022",
+        "head": "Skype",
+        "relation": "está",
+        "tail_id": "1885",
+        "tail": "disponível"
+    },
+    {
+        "head_id": "2039",
+        "head": "Albânia",
+        "relation": "é",
+        "tail_id": "4046",
+        "tail": "um dos países mais pobres da a Europa oriental"
+    },
+    {
+        "head_id": "3398",
+        "head": "primeira versão",
+        "relation": "lançada",
+        "tail_id": "538",
+        "tail": "do LibreOffice"
+    },
+    {
+        "head_id": "1979",
+        "head": "CNN",
+        "relation": "fez",
+        "tail_id": "2417",
+        "tail": "uma parceria com o \" Los Angeles Times"
+    },
+    {
+        "head_id": "3084",
+        "head": "Brasil",
+        "relation": "com",
+        "tail_id": "1883",
+        "tail": "número do Skype"
+    },
+    {
+        "head_id": "1330",
+        "head": "Mao Zedong",
+        "relation": "rejeitou as propostas dos radicais para eliminar",
+        "tail_id": "2531",
+        "tail": "Deng Xiaoping"
+    },
+    {
+        "head_id": "1680",
+        "head": "2014",
+        "relation": "chamada",
+        "tail_id": "2077",
+        "tail": "Base Aérea Manas ( ou Centro de Trânsito de Manas"
+    },
+    {
+        "head_id": "2633",
+        "head": "Este",
+        "relation": "tornou",
+        "tail_id": "2986",
+        "tail": "Swami Vivekananda"
+    },
+    {
+        "head_id": "3132",
+        "head": "Canadá",
+        "relation": "tem",
+        "tail_id": "5124",
+        "tail": "um relacionamento longo e complexo invadiram o Iraque em 2003"
+    },
+    {
+        "head_id": "4969",
+        "head": "Carlos Lineu",
+        "relation": "mudou",
+        "tail_id": "712",
+        "tail": "para os Países Baixos"
+    },
+    {
+        "head_id": "891",
+        "head": "Estados Unidos",
+        "relation": "secretamente venderam",
+        "tail_id": "1049",
+        "tail": "armas aos iranianos"
+    },
+    {
+        "head_id": "2911",
+        "head": "Nero",
+        "relation": "estava",
+        "tail_id": "5235",
+        "tail": "em Âncio"
+    },
+    {
+        "head_id": "2501",
+        "head": "1790",
+        "relation": "serviu",
+        "tail_id": "816",
+        "tail": "por dez anos como capital provisória dos Estados Unidos"
+    },
+    {
+        "head_id": "88",
+        "head": "Le Corbusier",
+        "relation": "teve",
+        "tail_id": "2167",
+        "tail": "ligações ao \" Le Faisceau"
+    },
+    {
+        "head_id": "3417",
+        "head": "Giuseppe Garibaldi",
+        "relation": "permaneceu",
+        "tail_id": "311",
+        "tail": "vários meses em Salto"
+    },
+    {
+        "head_id": "3340",
+        "head": "Hong Kong",
+        "relation": "representa separadamente",
+        "tail_id": "5302",
+        "tail": "da República Popular da China a República Popular da China"
+    },
+    {
+        "head_id": "2072",
+        "head": "Paquistão",
+        "relation": "precipitou Guerra Indo-Paquistanesa de 1947 lançando",
+        "tail_id": "1391",
+        "tail": "lashkar \" ( milícia ) tribal do Waziristão"
+    },
+    {
+        "head_id": "4060",
+        "head": "Principado de Andorra",
+        "relation": "não é",
+        "tail_id": "2009",
+        "tail": "membro da União Europeia"
+    },
+    {
+        "head_id": "4805",
+        "head": "uma nova constituição",
+        "relation": "declarava oficialmente",
+        "tail_id": "904",
+        "tail": "República da Albânia"
+    },
+    {
+        "head_id": "4836",
+        "head": "Qualcomm",
+        "relation": "é",
+        "tail_id": "3379",
+        "tail": "uma empresa norte-americana fundada em 1985"
+    },
+    {
+        "head_id": "4402",
+        "head": "Caaba",
+        "relation": "também escrita",
+        "tail_id": "3014",
+        "tail": "Kaaba ou Kabah"
+    },
+    {
+        "head_id": "524",
+        "head": "Austrália",
+        "relation": "permaneceu",
+        "tail_id": "2782",
+        "tail": "na A Idade da Pedra da Europa"
+    },
+    {
+        "head_id": "4050",
+        "head": "do planeta Theia",
+        "relation": "é formada",
+        "tail_id": "1693",
+        "tail": "por um núcleo interior de ferro e níquel"
+    },
+    {
+        "head_id": "4435",
+        "head": "Judy Garland",
+        "relation": "não conseguia sair",
+        "tail_id": "2197",
+        "tail": "casa para o \" set \" de gravação"
+    },
+    {
+        "head_id": "4927",
+        "head": "Carl Friedrich Gauss",
+        "relation": "deixou",
+        "tail_id": "3750",
+        "tail": "Göttingen"
+    },
+    {
+        "head_id": "3221",
+        "head": "A colônia da Coroa Britânica de Nova Gales do Sul",
+        "relation": "pode substituir",
+        "tail_id": "1432",
+        "tail": "ambas as Casas do Parlamento Australiano"
+    },
+    {
+        "head_id": "3241",
+        "head": "Nawazuddin Siddiqui",
+        "relation": "estrelou",
+        "tail_id": "3994",
+        "tail": "duas séries nomeadas para o Emmy"
+    },
+    {
+        "head_id": "891",
+        "head": "Estados Unidos",
+        "relation": "ficou conhecida",
+        "tail_id": "4981",
+        "tail": "como \" Celeste Olímpica"
+    },
+    {
+        "head_id": "4291",
+        "head": "Joseph Priestley",
+        "relation": "ajudou",
+        "tail_id": "832",
+        "tail": "a encontrar Universalismo"
+    },
+    {
+        "head_id": "4852",
+        "head": "Alasca",
+        "relation": "conectando",
+        "tail_id": "2447",
+        "tail": "apenas os principais centros populacionais do Alasca"
+    },
+    {
+        "head_id": "2810",
+        "head": "Bolsas da Europa",
+        "relation": "tornaram-se",
+        "tail_id": "166",
+        "tail": "União Europeia"
+    },
+    {
+        "head_id": "4300",
+        "head": "Karl Marx",
+        "relation": "é tipicamente citado",
+        "tail_id": "5092",
+        "tail": "como um dos principais arquitectos da ciência social moderna"
+    },
+    {
+        "head_id": "4969",
+        "head": "Carlos Lineu",
+        "relation": "organizou",
+        "tail_id": "2958",
+        "tail": "as plantas"
+    },
+    {
+        "head_id": "4291",
+        "head": "Joseph Priestley",
+        "relation": "fez",
+        "tail_id": "2488",
+        "tail": "em Birmingham"
+    },
+    {
+        "head_id": "5068",
+        "head": "Sulfeto de hidrogênio",
+        "relation": "é considerado",
+        "tail_id": "1624",
+        "tail": "um veneno de largo espectro"
+    },
+    {
+        "head_id": "2507",
+        "head": "Inglaterra",
+        "relation": "foi",
+        "tail_id": "1059",
+        "tail": "de fato, guardiã do troféu durante a competição"
+    },
+    {
+        "head_id": "5195",
+        "head": "William Shakespeare",
+        "relation": "usa",
+        "tail_id": "737",
+        "tail": "palavras com monossílabos"
+    },
+    {
+        "head_id": "2091",
+        "head": "produtor Carlo Parlo Ponti",
+        "relation": "pagou",
+        "tail_id": "1921",
+        "tail": "Federico Fellini"
+    },
+    {
+        "head_id": "2345",
+        "head": "Etiópia",
+        "relation": "usava principalmente",
+        "tail_id": "4786",
+        "tail": "portos eritreus"
+    },
+    {
+        "head_id": "600",
+        "head": "Ásia Central",
+        "relation": "existe",
+        "tail_id": "3390",
+        "tail": "um \" centro"
+    },
+    {
+        "head_id": "415",
+        "head": "Saddam Hussein",
+        "relation": "será",
+        "tail_id": "2702",
+        "tail": "uma ameaça para a Coreia do Norte Saddam Hussein"
+    },
+    {
+        "head_id": "2175",
+        "head": "o Reino Unido",
+        "relation": "ocupou",
+        "tail_id": "4547",
+        "tail": "extremo Norte do atual Iraque"
+    },
+    {
+        "head_id": "4642",
+        "head": "os Estados Unidos",
+        "relation": "não tiveram sucesso recuando",
+        "tail_id": "2807",
+        "tail": "ao tomarem conhecimento da chegada de tropas britânicas"
+    },
+    {
+        "head_id": "3340",
+        "head": "Hong Kong",
+        "relation": "possui",
+        "tail_id": "1955",
+        "tail": "a economia menos restrita do mundo"
+    },
+    {
+        "head_id": "1379",
+        "head": "Omar",
+        "relation": "começou",
+        "tail_id": "1145",
+        "tail": "bater seu cunhado"
+    },
+    {
+        "head_id": "3566",
+        "head": "George H. W. Bush",
+        "relation": "faleceu",
+        "tail_id": "2302",
+        "tail": "com 94 anos como o \" Primeiro-Ministro Bush"
+    },
+    {
+        "head_id": "129",
+        "head": "Krishna",
+        "relation": "atravessa também",
+        "tail_id": "843",
+        "tail": "o estado de Carnataca"
+    },
+    {
+        "head_id": "3008",
+        "head": "Paraguai",
+        "relation": "é",
+        "tail_id": "4286",
+        "tail": "auto-suficiente em trigo e em outras matérias-primas alimentícias"
+    },
+    {
+        "head_id": "5231",
+        "head": "Angkor Wat",
+        "relation": "foi abandonada",
+        "tail_id": "3450",
+        "tail": "pelo Império Quemer"
+    },
+    {
+        "head_id": "3139",
+        "head": "da Constituição de Andorra",
+        "relation": "reconhece",
+        "tail_id": "4884",
+        "tail": "uma relação especial com a Igreja Católica"
+    },
+    {
+        "head_id": "2927",
+        "head": "Allah",
+        "relation": "louvar",
+        "tail_id": "5278",
+        "tail": "o \" Allah"
+    },
+    {
+        "head_id": "1254",
+        "head": "maior parte da população",
+        "relation": "foi anexada",
+        "tail_id": "3636",
+        "tail": "San Antonio"
+    },
+    {
+        "head_id": "5123",
+        "head": "eventos",
+        "relation": "controlados",
+        "tail_id": "1277",
+        "tail": "do Republicano Lincoln"
+    },
+    {
+        "head_id": "3570",
+        "head": "antiga União Soviética",
+        "relation": "ordenou medidas para garantir",
+        "tail_id": "4037",
+        "tail": "segurança dos cidadãos russos"
+    },
+    {
+        "head_id": "1770",
+        "head": "Virgínia",
+        "relation": "precisava conquistar manter vastas extensões de território inimigo derrotar",
+        "tail_id": "711",
+        "tail": "exércitos"
+    },
+    {
+        "head_id": "1979",
+        "head": "CNN",
+        "relation": "divulgar",
+        "tail_id": "4912",
+        "tail": "os ataques de 11 de setembro de 2001"
+    },
+    {
+        "head_id": "2986",
+        "head": "Swami Vivekananda",
+        "relation": "era",
+        "tail_id": "1982",
+        "tail": "uma rara personalidade neste mundo nosso"
+    },
+    {
+        "head_id": "2289",
+        "head": "o Reino de Itália",
+        "relation": "têm de jogar",
+        "tail_id": "3487",
+        "tail": "mais sujo"
+    },
+    {
+        "head_id": "3782",
+        "head": "profeta Maomé",
+        "relation": "ordenou",
+        "tail_id": "2487",
+        "tail": "aos o profeta Maomé seguidores"
+    },
+    {
+        "head_id": "3050",
+        "head": "reino de Silla",
+        "relation": "unificou",
+        "tail_id": "3086",
+        "tail": "Índia Antiga"
+    },
+    {
+        "head_id": "4105",
+        "head": "pretendente ao trono Henrique IV",
+        "relation": "conseguir entrar",
+        "tail_id": "2876",
+        "tail": "Paris"
+    },
+    {
+        "head_id": "4228",
+        "head": "Havaí",
+        "relation": "tem",
+        "tail_id": "1644",
+        "tail": "uma legislatura unicameral"
+    },
+    {
+        "head_id": "3993",
+        "head": "colonizadores",
+        "relation": "vieram",
+        "tail_id": "2954",
+        "tail": "Reino Unido"
+    },
+    {
+        "head_id": "3084",
+        "head": "Brasil",
+        "relation": "ratificou",
+        "tail_id": "3021",
+        "tail": "as principais convenções internacionais sobre tema"
+    },
+    {
+        "head_id": "183",
+        "head": "George Bernard Shaw",
+        "relation": "empregou-se",
+        "tail_id": "2528",
+        "tail": "em um escritório"
+    },
+    {
+        "head_id": "4897",
+        "head": "a União Soviética",
+        "relation": "estava fortemente envolvida",
+        "tail_id": "4974",
+        "tail": "com as grandes hostilidades dos países europeus do Eixo"
+    },
+    {
+        "head_id": "3373",
+        "head": "Damão e Diu",
+        "relation": "fizeram",
+        "tail_id": "5087",
+        "tail": "parte do Estado Português da Índia"
+    },
+    {
+        "head_id": "4704",
+        "head": "Ludwig van Beethoven",
+        "relation": "escreveu",
+        "tail_id": "1099",
+        "tail": "uma carta a Andreas Streicher"
+    },
+    {
+        "head_id": "1379",
+        "head": "Omar",
+        "relation": "encontrou",
+        "tail_id": "3198",
+        "tail": "Omar irmã e seu cunhado"
+    },
+    {
+        "head_id": "4435",
+        "head": "Judy Garland",
+        "relation": "apareceu",
+        "tail_id": "3789",
+        "tail": "em vários especiais de televisão"
+    },
+    {
+        "head_id": "3340",
+        "head": "Hong Kong",
+        "relation": "regresso",
+        "tail_id": "4666",
+        "tail": "à soberania chinesa"
+    },
+    {
+        "head_id": "2621",
+        "head": "James Watt",
+        "relation": "continuou a inventar",
+        "tail_id": "2859",
+        "tail": "outras coisas"
+    },
+    {
+        "head_id": "1921",
+        "head": "Federico Fellini",
+        "relation": "foi indicado",
+        "tail_id": "2363",
+        "tail": "a doze prêmios Óscar"
+    },
+    {
+        "head_id": "3221",
+        "head": "A colônia da Coroa Britânica de Nova Gales do Sul",
+        "relation": "possui",
+        "tail_id": "95",
+        "tail": "cerca de dois mil quilômetros de hidrovias"
+    },
+    {
+        "head_id": "3784",
+        "head": "Delaware",
+        "relation": "presidiu",
+        "tail_id": "2190",
+        "tail": "importantes comitês do o Senado do Estado da Pensilvânia"
+    },
+    {
+        "head_id": "3340",
+        "head": "Hong Kong",
+        "relation": "mantenha",
+        "tail_id": "1263",
+        "tail": "Hong Kong sistema econômico capitalista"
+    },
+    {
+        "head_id": "1277",
+        "head": "do Republicano Lincoln",
+        "relation": "estava desempenhando",
+        "tail_id": "1037",
+        "tail": "um papel de liderança"
+    },
+    {
+        "head_id": "4291",
+        "head": "Joseph Priestley",
+        "relation": "aceitou",
+        "tail_id": "4855",
+        "tail": "em 1766"
+    },
+    {
+        "head_id": "3417",
+        "head": "Giuseppe Garibaldi",
+        "relation": "tentou enviar",
+        "tail_id": "1629",
+        "tail": "Francesca Armosino"
+    },
+    {
+        "head_id": "3038",
+        "head": "Forças",
+        "relation": "armadas",
+        "tail_id": "489",
+        "tail": "da Índia Britânica"
+    },
+    {
+        "head_id": "4435",
+        "head": "Judy Garland",
+        "relation": "mudou",
+        "tail_id": "3339",
+        "tail": "Judy Garland nome para Judy Garland"
+    },
+    {
+        "head_id": "575",
+        "head": "Iraque",
+        "relation": "levou",
+        "tail_id": "2377",
+        "tail": "dívida do governo e à inflação"
+    },
+    {
+        "head_id": "1470",
+        "head": "o propósito da existência",
+        "relation": "é adorar",
+        "tail_id": "2927",
+        "tail": "Allah"
+    },
+    {
+        "head_id": "4883",
+        "head": "Buda",
+        "relation": "deleitou",
+        "tail_id": "1877",
+        "tail": "Sati"
+    },
+    {
+        "head_id": "4394",
+        "head": "outra técnica moderna",
+        "relation": "perturba",
+        "tail_id": "5273",
+        "tail": "natureza"
+    },
+    {
+        "head_id": "3523",
+        "head": "paleoindígenas",
+        "relation": "migraram",
+        "tail_id": "4531",
+        "tail": "da Ásia"
+    },
+    {
+        "head_id": "4149",
+        "head": "pandemia de COVID-19",
+        "relation": "conhecida",
+        "tail_id": "4476",
+        "tail": "como pandemia de coronavírus"
+    },
+    {
+        "head_id": "4746",
+        "head": "Telescópio Espacial James Webb",
+        "relation": "venha",
+        "tail_id": "1269",
+        "tail": "substituir do Hubble"
+    },
+    {
+        "head_id": "2621",
+        "head": "James Watt",
+        "relation": "começou",
+        "tail_id": "2624",
+        "tail": "expandir do processo"
+    },
+    {
+        "head_id": "1187",
+        "head": "Ali",
+        "relation": "assumiu",
+        "tail_id": "404",
+        "tail": "cargo de califa"
+    },
+    {
+        "head_id": "1070",
+        "head": "Sri Ramakrishna",
+        "relation": "é o grande filósofo da",
+        "tail_id": "1610",
+        "tail": "Índia"
+    },
+    {
+        "head_id": "2897",
+        "head": "China",
+        "relation": "ser",
+        "tail_id": "5284",
+        "tail": "um centro de transporte e um importante intercâmbio ferroviário"
+    },
+    {
+        "head_id": "4882",
+        "head": "Colombo",
+        "relation": "foi repetidamente assediada",
+        "tail_id": "4537",
+        "tail": "por Madune e os reis posteriores do Ceitavaca como Calampu"
+    },
+    {
+        "head_id": "891",
+        "head": "Estados Unidos",
+        "relation": "impuseram",
+        "tail_id": "1213",
+        "tail": "um embargo às importações de petróleo líbio"
+    },
+    {
+        "head_id": "4927",
+        "head": "Carl Friedrich Gauss",
+        "relation": "inventou",
+        "tail_id": "2398",
+        "tail": "telégrafo elétrico"
+    },
+    {
+        "head_id": "5066",
+        "head": "Xangai",
+        "relation": "é",
+        "tail_id": "1649",
+        "tail": "a sede do Novo Banco de Desenvolvimento"
+    },
+    {
+        "head_id": "3915",
+        "head": "México",
+        "relation": "sediou",
+        "tail_id": "4779",
+        "tail": "México segunda Copa do Mundo"
+    },
+    {
+        "head_id": "4128",
+        "head": "A cidade de Copenhaga",
+        "relation": "tem sido mencionada",
+        "tail_id": "972",
+        "tail": "desde o século XI"
+    },
+    {
+        "head_id": "1662",
+        "head": "radiodifusão televisiva",
+        "relation": "começou",
+        "tail_id": "3334",
+        "tail": "na Índia"
+    },
+    {
+        "head_id": "2531",
+        "head": "Deng Xiaoping",
+        "relation": "atuou como comissário político no exército para impulsionar",
+        "tail_id": "354",
+        "tail": "Deng Xiaoping carreira posterior"
+    },
+    {
+        "head_id": "4289",
+        "head": "Outras línguas faladas Índia",
+        "relation": "oficialmente denominada",
+        "tail_id": "3110",
+        "tail": "República da Índia"
+    },
+    {
+        "head_id": "599",
+        "head": "Portugal",
+        "relation": "registrou",
+        "tail_id": "3747",
+        "tail": "Portugal primeira morte devido A pandemia de COVID-19"
+    },
+    {
+        "head_id": "2107",
+        "head": "2006",
+        "relation": "chegou",
+        "tail_id": "1669",
+        "tail": "às quartas de final"
+    },
+    {
+        "head_id": "4203",
+        "head": "O Arquipélago de Fiji",
+        "relation": "tem",
+        "tail_id": "4797",
+        "tail": "forças armadas excepcionalmente eficientes"
+    },
+    {
+        "head_id": "4300",
+        "head": "Karl Marx",
+        "relation": "foi expulso",
+        "tail_id": "2607",
+        "tail": "da França"
+    },
+    {
+        "head_id": "1326",
+        "head": "Bruce Lee",
+        "relation": "fora mudado para o homófono 振 para evitar",
+        "tail_id": "603",
+        "tail": "o tabu nominal dentro da tradição chinesa"
+    },
+    {
+        "head_id": "3778",
+        "head": "Haile Selassie",
+        "relation": "é imperador da",
+        "tail_id": "2345",
+        "tail": "Etiópia"
+    },
+    {
+        "head_id": "2471",
+        "head": "Estados Unidos da América",
+        "relation": "transformaram",
+        "tail_id": "3289",
+        "tail": "muçulmanos em um perigo"
+    },
+    {
+        "head_id": "4291",
+        "head": "Joseph Priestley",
+        "relation": "tornando-se",
+        "tail_id": "236",
+        "tail": "ministro da Capela Mill Hill"
+    },
+    {
+        "head_id": "304",
+        "head": "Thomas Jefferson",
+        "relation": "escreveu",
+        "tail_id": "4264",
+        "tail": "sobre o profundo efeito"
+    },
+    {
+        "head_id": "1022",
+        "head": "Todas as Rússias As Forças Armadas da Bielorrússia",
+        "relation": "são",
+        "tail_id": "5014",
+        "tail": "Síria"
+    },
+    {
+        "head_id": "2429",
+        "head": "Pátria do famoso marinheiro Píteas",
+        "relation": "tornou",
+        "tail_id": "2382",
+        "tail": "mais importante"
+    },
+    {
+        "head_id": "4741",
+        "head": "Primeira Guerra Mundial",
+        "relation": "não se espalhou",
+        "tail_id": "3620",
+        "tail": "para O sul de Singapura"
+    },
+    {
+        "head_id": "2897",
+        "head": "China",
+        "relation": "reassumiu",
+        "tail_id": "3105",
+        "tail": "a soberania da cidade"
+    },
+    {
+        "head_id": "4528",
+        "head": "Evangelista Torricelli",
+        "relation": "tornou",
+        "tail_id": "4424",
+        "tail": "muito estimado nessa disciplina"
+    },
+    {
+        "head_id": "960",
+        "head": "Albert Einstein",
+        "relation": "aconselhou",
+        "tail_id": "4783",
+        "tail": "Gustav Born"
+    },
+    {
+        "head_id": "2039",
+        "head": "Albânia",
+        "relation": "adaptado",
+        "tail_id": "2878",
+        "tail": "ao modelo fascista"
+    },
+    {
+        "head_id": "4704",
+        "head": "Ludwig van Beethoven",
+        "relation": "era reconhecido",
+        "tail_id": "4850",
+        "tail": "como o maior compositor do século"
+    },
+    {
+        "head_id": "729",
+        "head": "o censo nacional de 2010",
+        "relation": "classifica",
+        "tail_id": "661",
+        "tail": "San Diego"
+    },
+    {
+        "head_id": "4061",
+        "head": "aqueles",
+        "relation": "referem",
+        "tail_id": "4030",
+        "tail": "Deus"
+    },
+    {
+        "head_id": "4149",
+        "head": "pandemia de COVID-19",
+        "relation": "pode resultar",
+        "tail_id": "3700",
+        "tail": "numa diminuição das viagens em trabalho e conferências internacionais"
+    },
+    {
+        "head_id": "3132",
+        "head": "Canadá",
+        "relation": "comprometeu-se a retirar",
+        "tail_id": "3469",
+        "tail": "da"
+    },
+    {
+        "head_id": "599",
+        "head": "Portugal",
+        "relation": "possui",
+        "tail_id": "992",
+        "tail": "embaixada"
+    },
+    {
+        "head_id": "4435",
+        "head": "Judy Garland",
+        "relation": "decidiu mudar-se",
+        "tail_id": "2867",
+        "tail": "para Londres para ficar junto de Judy Garland novo namorado"
+    },
+    {
+        "head_id": "3070",
+        "head": "Apenas cerca de poços de petróleo",
+        "relation": "foram perfurados",
+        "tail_id": "4459",
+        "tail": "o extremo Norte do atual Iraque"
+    },
+    {
+        "head_id": "948",
+        "head": "Virgínia Ocidental",
+        "relation": "passou",
+        "tail_id": "535",
+        "tail": "a fazer parte a União ( com sua singularidade"
+    },
+    {
+        "head_id": "5066",
+        "head": "Xangai",
+        "relation": "foi classificada",
+        "tail_id": "4193",
+        "tail": "como a segunda potência fintech do mundo"
+    },
+    {
+        "head_id": "735",
+        "head": "polícia",
+        "relation": "prendeu",
+        "tail_id": "4123",
+        "tail": "280 membros da o Egyptian Islamic Jihad"
+    },
+    {
+        "head_id": "891",
+        "head": "Estados Unidos",
+        "relation": "tornaram",
+        "tail_id": "1881",
+        "tail": "poder global dominante"
+    },
+    {
+        "head_id": "1610",
+        "head": "Índia",
+        "relation": "possui",
+        "tail_id": "1678",
+        "tail": "IRBMs"
+    },
+    {
+        "head_id": "573",
+        "head": "Évariste Galois",
+        "relation": "tendo estudado",
+        "tail_id": "2084",
+        "tail": "matemática"
+    },
+    {
+        "head_id": "3596",
+        "head": "O Conselho Nacional de Controle do Críquete na Índia",
+        "relation": "oficialmente denominada",
+        "tail_id": "3110",
+        "tail": "República da Índia"
+    },
+    {
+        "head_id": "891",
+        "head": "Estados Unidos",
+        "relation": "conseguiram reunir",
+        "tail_id": "440",
+        "tail": "mais espectadores"
+    },
+    {
+        "head_id": "2876",
+        "head": "Paris",
+        "relation": "sediou",
+        "tail_id": "3738",
+        "tail": "os Jogos Olímpicos de Verão de 1900 e 1924"
+    },
+    {
+        "head_id": "605",
+        "head": "a dupla",
+        "relation": "iniciou",
+        "tail_id": "739",
+        "tail": "nesse período"
+    },
+    {
+        "head_id": "2621",
+        "head": "James Watt",
+        "relation": "começou a desenvolver do processo selecionar",
+        "tail_id": "3742",
+        "tail": "papel fino"
+    },
+    {
+        "head_id": "5057",
+        "head": "espanhóis",
+        "relation": "praticamente arrasaram",
+        "tail_id": "4920",
+        "tail": "da Grande Cidade do México"
+    },
+    {
+        "head_id": "2285",
+        "head": "Cada estado ou território da Índia",
+        "relation": "oficialmente denominada",
+        "tail_id": "3110",
+        "tail": "República da Índia"
+    },
+    {
+        "head_id": "5294",
+        "head": "do maior planeta do Sistema Solar",
+        "relation": "tem",
+        "tail_id": "3653",
+        "tail": "superfície"
+    },
+    {
+        "head_id": "2369",
+        "head": "zona do Cáucaso",
+        "relation": "goza",
+        "tail_id": "4099",
+        "tail": "um clima subtropical temperado"
+    },
+    {
+        "head_id": "4300",
+        "head": "Karl Marx",
+        "relation": "compreende",
+        "tail_id": "5017",
+        "tail": "trabalho como atividade fundante da humanidade"
+    },
+    {
+        "head_id": "4926",
+        "head": "Seis desses estados",
+        "relation": "adotaram",
+        "tail_id": "4775",
+        "tail": "Constituição dos Estados Unidos"
+    },
+    {
+        "head_id": "2317",
+        "head": "Avatar",
+        "relation": "vem",
+        "tail_id": "2030",
+        "tail": "do sânscrito \" Avatāra"
+    },
+    {
+        "head_id": "1826",
+        "head": "Louis Pasteur",
+        "relation": "fez",
+        "tail_id": "3060",
+        "tail": "Louis Pasteur ( Dole, – Marnes-la-Coquette, ) primeiras descobertas"
+    },
+    {
+        "head_id": "3132",
+        "head": "Canadá",
+        "relation": "estão preocupados",
+        "tail_id": "895",
+        "tail": "com autonomia cultural e econômica do O"
+    },
+    {
+        "head_id": "4528",
+        "head": "Evangelista Torricelli",
+        "relation": "também é",
+        "tail_id": "4088",
+        "tail": "famoso pela descoberta de um sólido infinitamente longo"
+    },
+    {
+        "head_id": "4852",
+        "head": "Alasca",
+        "relation": "tornou",
+        "tail_id": "2149",
+        "tail": "um território dos Estados Unidos estagnar-se-ia durante as décadas seguintes"
+    },
+    {
+        "head_id": "2374",
+        "head": "70 % do comércio marítimo na Índia",
+        "relation": "oficialmente denominada",
+        "tail_id": "3110",
+        "tail": "República da Índia"
+    },
+    {
+        "head_id": "85",
+        "head": "O intervalo de tempo",
+        "relation": "abrange",
+        "tail_id": "632",
+        "tail": "A Idade da Pedra da Europa"
+    },
+    {
+        "head_id": "1476",
+        "head": "Namíbia",
+        "relation": "ganhou",
+        "tail_id": "3622",
+        "tail": "independência da África do Sul"
+    },
+    {
+        "head_id": "243",
+        "head": "o tema",
+        "relation": "apresenta de forma muito clara",
+        "tail_id": "799",
+        "tail": "Romeu e Julieta"
+    },
+    {
+        "head_id": "4021",
+        "head": "Índia (,,,, ) era contemporânea",
+        "relation": "oficialmente denominada",
+        "tail_id": "3110",
+        "tail": "República da Índia"
+    },
+    {
+        "head_id": "4435",
+        "head": "Judy Garland",
+        "relation": "foi internada",
+        "tail_id": "2525",
+        "tail": "com diagnóstico de cirrose hepática"
+    },
+    {
+        "head_id": "3894",
+        "head": "o Território da Bacia do Sarre",
+        "relation": "foi legalmente anexado",
+        "tail_id": "2856",
+        "tail": "à da Alemanha Ocidental"
+    },
+    {
+        "head_id": "3417",
+        "head": "Giuseppe Garibaldi",
+        "relation": "deixou",
+        "tail_id": "4216",
+        "tail": "Caprera"
+    },
+    {
+        "head_id": "596",
+        "head": "Clitoria ternatea",
+        "relation": "fazendo bem",
+        "tail_id": "3307",
+        "tail": "úmido, solo neutro"
+    },
+    {
+        "head_id": "3627",
+        "head": "A Quarta Nobre Verdade do Buda",
+        "relation": "cresceu",
+        "tail_id": "1853",
+        "tail": "em Lumbini"
+    },
+    {
+        "head_id": "796",
+        "head": "uma versão",
+        "relation": "preservava",
+        "tail_id": "799",
+        "tail": "Romeu e Julieta"
+    },
+    {
+        "head_id": "4642",
+        "head": "os Estados Unidos",
+        "relation": "morreu",
+        "tail_id": "1214",
+        "tail": "da pandemia de COVID-19"
+    },
+    {
+        "head_id": "1668",
+        "head": "Franklin Delano Roosevelt",
+        "relation": "respondeu",
+        "tail_id": "2036",
+        "tail": "à crise social e econômica com o \" New Deal"
+    },
+    {
+        "head_id": "299",
+        "head": "site de Mark Zuckerberg",
+        "relation": "recebeu",
+        "tail_id": "1650",
+        "tail": "12,8 milhões de dólares de capital da \" Accel Partners"
+    },
+    {
+        "head_id": "299",
+        "head": "site de Mark Zuckerberg",
+        "relation": "anuncia",
+        "tail_id": "1513",
+        "tail": "site de Mark Zuckerberg primeira aquisição"
+    },
+    {
+        "head_id": "298",
+        "head": "palavra proto-báltica",
+        "relation": "significa",
+        "tail_id": "5266",
+        "tail": "Terra"
+    },
+    {
+        "head_id": "4291",
+        "head": "Joseph Priestley",
+        "relation": "apresentou",
+        "tail_id": "2862",
+        "tail": "uma série de palestras científicas"
+    },
+    {
+        "head_id": "4291",
+        "head": "Joseph Priestley",
+        "relation": "tentou prosseguir",
+        "tail_id": "90",
+        "tail": "Joseph Priestley ( Birstall, – Northumberland, ) investigações científicas"
+    },
+    {
+        "head_id": "4291",
+        "head": "Joseph Priestley",
+        "relation": "ajudou",
+        "tail_id": "3415",
+        "tail": "a fundar a Primeira Igreja Unitária de Filadélfia"
+    },
+    {
+        "head_id": "183",
+        "head": "George Bernard Shaw",
+        "relation": "nasceu",
+        "tail_id": "4935",
+        "tail": "numa tradicional mas empobrecida família protestante"
+    },
+    {
+        "head_id": "4034",
+        "head": "canções",
+        "relation": "escritas",
+        "tail_id": "2911",
+        "tail": "Nero"
+    },
+    {
+        "head_id": "4814",
+        "head": "Academia",
+        "relation": "é Nacional de",
+        "tail_id": "3551",
+        "tail": "Críquete"
+    },
+    {
+        "head_id": "3221",
+        "head": "A colônia da Coroa Britânica de Nova Gales do Sul",
+        "relation": "é formada",
+        "tail_id": "4273",
+        "tail": "por seis estados"
+    },
+    {
+        "head_id": "1394",
+        "head": "o então presidente",
+        "relation": "eleito",
+        "tail_id": "4182",
+        "tail": "Donald Trump"
+    },
+    {
+        "head_id": "4269",
+        "head": "satélites Europa, Ganimedes e Calisto",
+        "relation": "protege",
+        "tail_id": "5170",
+        "tail": "do Sol"
+    },
+    {
+        "head_id": "4030",
+        "head": "Deus",
+        "relation": "não joga",
+        "tail_id": "3137",
+        "tail": "dados"
+    },
+    {
+        "head_id": "892",
+        "head": "presidente Abraham Lincoln",
+        "relation": "não estava disposto a declarar",
+        "tail_id": "518",
+        "tail": "abolição"
+    },
+    {
+        "head_id": "3340",
+        "head": "Hong Kong",
+        "relation": "participa",
+        "tail_id": "3121",
+        "tail": "quase todos os Jogos Olímpicos de Verão"
+    },
+    {
+        "head_id": "3852",
+        "head": "rios Mississípi e Minnesota",
+        "relation": "encontram-se",
+        "tail_id": "4827",
+        "tail": "a porção oriental do Território de Minnesota"
+    },
+    {
+        "head_id": "4836",
+        "head": "Qualcomm",
+        "relation": "vem",
+        "tail_id": "2794",
+        "tail": "do acrônimo em inglês"
+    },
+    {
+        "head_id": "3957",
+        "head": "da Inglaterra",
+        "relation": "fez",
+        "tail_id": "437",
+        "tail": "o terceiro gol contra Adidas"
+    },
+    {
+        "head_id": "1452",
+        "head": "porta-aviões",
+        "relation": "é o cruzador da",
+        "tail_id": "1007",
+        "tail": "Segunda Guerra Mundial"
+    },
+    {
+        "head_id": "2954",
+        "head": "Reino Unido",
+        "relation": "é",
+        "tail_id": "2418",
+        "tail": "a única língua oficial"
+    },
+    {
+        "head_id": "4669",
+        "head": "James Clerk Maxwell",
+        "relation": "comprovada",
+        "tail_id": "4748",
+        "tail": "pelas experiências de Heinrich Hertz"
+    },
+    {
+        "head_id": "4291",
+        "head": "Joseph Priestley",
+        "relation": "estivesse ocupado",
+        "tail_id": "4313",
+        "tail": "defendendo teoria de Lavoisier dos \" novos químicos modernos"
+    },
+    {
+        "head_id": "846",
+        "head": "Maomé",
+        "relation": "incluindo",
+        "tail_id": "3499",
+        "tail": "mesquita mais importante do Islã"
+    },
+    {
+        "head_id": "2039",
+        "head": "Albânia",
+        "relation": "conheceu",
+        "tail_id": "1382",
+        "tail": "um longo peno de estagnação"
+    },
+    {
+        "head_id": "3740",
+        "head": "fascismo",
+        "relation": "governar",
+        "tail_id": "2289",
+        "tail": "o Reino de Itália"
+    },
+    {
+        "head_id": "4927",
+        "head": "Carl Friedrich Gauss",
+        "relation": "considerava",
+        "tail_id": "2261",
+        "tail": "matemática como \" a rainha das ciências"
+    }
+]
