@@ -24,6 +24,11 @@ The code of SimKGC mBERT initialization model is in the repository (adapted from
 
 ## PreRequisite
 Conda environment is needed for the implementation.
+```
+
+conda create --name mokb python=3.7 -y
+conda activate mokb
+```
 
 ## How to Run
 Here, are the commands to train and get the scores for Union+Trans.
@@ -40,9 +45,9 @@ run.sh
 ```
 
 ## FAQ
-Facing issue, while running the run.sh sue to conda environment(Applicable to the Linux Environments):
+Facing issue, while running the run.sh due to conda environment(Applicable to the Linux Environments):
 
-Enable conda using below commands or uncomment the code in the run.sh file:
+Enable conda using below commands:
 
 ```
 source $HOME/miniconda/bin/activate

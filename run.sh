@@ -3,14 +3,6 @@
 # Exit script on error
 set -e
 
-# Uncomment while using Linux Environments - these commands are to activate Conda Environment
-# source $HOME/miniconda/bin/activate
-# export PYTHONNOUSERSITE=true
-
-# Create a conda environment
-conda create --name mokb python=3.7 -y
-conda activate mokb
-
 # Install the requirements
 pip install -r requirements.txt
 
