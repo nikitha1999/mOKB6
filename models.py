@@ -8,6 +8,7 @@ from dataclasses import dataclass
 from transformers import AutoModel, AutoConfig
 
 from triplet_mask import construct_mask
+from AttentionPooling import AttentionPooling
 
 
 def build_model(args) -> nn.Module:
@@ -45,6 +46,7 @@ class CustomBertModel(nn.Module, ABC):
         self.hr_bert = AutoModel.from_pretrained(args.pretrained_model)
         # self.hr_bert = AutoModel.from_config(self.config)
         self.tail_bert = deepcopy(self.hr_bert)
+        self.attention_pooling = AttentionPooling(self.config.hidden_size)
 
     def _encode(self, encoder, token_ids, mask, token_type_ids):
         outputs = encoder(input_ids=token_ids,
@@ -54,7 +56,7 @@ class CustomBertModel(nn.Module, ABC):
 
         last_hidden_state = outputs.last_hidden_state
         cls_output = last_hidden_state[:, 0, :]
-        cls_output = _pool_output(self.args.pooling, cls_output, mask, last_hidden_state)
+        cls_output = _pool_output(self, self.args.pooling, cls_output, mask, last_hidden_state)
         return cls_output
 
     def forward(self, hr_token_ids, hr_mask, hr_token_type_ids,
@@ -144,7 +146,7 @@ class CustomBertModel(nn.Module, ABC):
         return {'ent_vectors': ent_vectors.detach()}
 
 
-def _pool_output(pooling: str,
+def _pool_output(self, pooling: str,
                  cls_output: torch.tensor,
                  mask: torch.tensor,
                  last_hidden_state: torch.tensor) -> torch.tensor:
@@ -159,6 +161,8 @@ def _pool_output(pooling: str,
         sum_embeddings = torch.sum(last_hidden_state * input_mask_expanded, 1)
         sum_mask = torch.clamp(input_mask_expanded.sum(1), min=1e-4)
         output_vector = sum_embeddings / sum_mask
+    elif pooling == 'attention':
+        output_vector = self.attention_pooling(last_hidden_state, mask)
     else:
         assert False, 'Unknown pooling mode: {}'.format(pooling)
 

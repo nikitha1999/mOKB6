@@ -86,7 +86,7 @@ parser.add_argument('--eval-model-path', default='', type=str, metavar='N',
 args = parser.parse_args()
 
 assert not args.train_path or os.path.exists(args.train_path)
-assert args.pooling in ['cls', 'mean', 'max']
+assert args.pooling in ['cls', 'mean', 'max','attention']
 assert args.task.lower() in ['wn18rr', 'fb15k237', 'wiki5m_ind', 'wiki5m_trans', 'mopenkb']
 assert args.lr_scheduler in ['linear', 'cosine']
 
