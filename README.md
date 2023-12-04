@@ -71,3 +71,14 @@ To run:
 ```
 ./run.sh
 ```
+
+For Checking Robustness:
+
+Use the below command to view the results after the model got trained for Test files.
+Peryurebed Data is available in MONO_EN Folder.
+
+```
+python convert_format_mokb.py --train ${baseline_data}/train.txt --val ${baseline_data}/valid.txt --test ${baseline_data}/negation.txt --out_dir ./data/${baseline_name}
+```
+
+* Replace negation.txt with required perturbed file name.
